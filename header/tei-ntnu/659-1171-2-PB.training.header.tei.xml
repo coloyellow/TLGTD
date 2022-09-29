@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="659-1171-2-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.412/659
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>大學生觀看線上影音節目之隨興休閒 資訊行為研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>葉乃靜 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>世新大學資訊傳播學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			<email>Email：ncyeh@cc.shu.edu.tw</email>
+			關鍵詞：
+			<keyword>隨興休閒資訊行為；線上影音節目 </keyword>
+			【摘要】
+			<div type="abstract">
+				資訊行為研究多著眼於工作情境，較少探討休閒娛樂之情境。因此，隨興休閒資訊行為研究 相對缺乏。本研究以大學生為研究對象，探討他們在隨興休閒情境下觀看線上影音節目之資訊行 為特徵，希望透過更全面的視角，檢視非明確目標導向的資訊行為，以獲得更深層的認識。本研
+				<lb />
+				究採用日誌法和深度訪談法蒐集實徵資料，參與者共計 24 位，女性 15 位，男性 9 位。本研究採用
+				<lb />
+				紮根理論為資料分析取向，分析 72 則日誌，24 份訪談稿。研究發現，我們可以以時間作為隨興 休閒資訊行為的情境，由觀看前、觀看過程、觀看後三個階段分析資訊行為。觀看過程中，認知、 情感和行為的交揉互動引發資訊需求和尋求行為。資訊行為延伸到觀看後並帶來認知上的改變。
+			</div>
+		</front>
+	</text>
+</tei>

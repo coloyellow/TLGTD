@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="632-1044-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2014.402/632
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>浮水印國際合著論文高產量國家之科學 合作探討 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>張郁蔚 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			E-mail：
+			<email>yuweichang2013@ntu.edu.tw</email>
+			<byline>
+				<docAuthor>呂威寰 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>輔仁大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			E-mail：
+			<email>
+				ls90101@gmail.com
+				<lb />
+			</email>
+			關鍵詞：
+			<keyword>科學合作；國際合作；浮水印；合作強度 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				本研究旨在採用書目計量法分析 1991 年至
+				<lb />
+				2012 年間浮水印主題之國際合著文獻，辨識
+				<lb />
+				出版國際合著論文之高產量國家，並探討高產
+				<lb />
+				量國家之間的科學合作強度趨勢。研究結果發
+				<lb />
+				現，1995 年起浮水印主題之國際合著文章開
+				<lb />
+				始呈現小幅成長趨勢，每年出版國際合著論
+				<lb />
+				文的國家數量快速成長；美國是出版最多國際
+				<lb />
+				合著論文之國家，十大高產量國家中，美國與
+				<lb />
+				義大利之科學合作強度最高，但未呈現成長 趨勢。
+			</div>
+		</front>
+	</text>
+</tei>

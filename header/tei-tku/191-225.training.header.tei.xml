@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="191-225" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 2 (Spring 2015) : 191-225
+
+	開放式課程網站評鑑面向與 指標建置之研究
+			<lb />
+			A Study of the Evaluation Dimensions and
+			<lb />
+			Criteria for OpenCourseWare Websites
+			<lb />
+			王 薏 茹 Yi-Ju Wang
+			<lb />
+			Graduate Student
+			<lb />
+			周 倩* Chien Chou*
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：cchou@mail.nctu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 2 (Spring 2015) : 191-225
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.522/0002.RS.CM</idno>
+
+			<lb />
+			<docTitle>
+				<titlePart>
+					開放式課程網站評鑑面向與 指標建置之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>王薏茹 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>周 倩 </docAuthor>
+			</byline>
+			b* 摘要
+			<lb />
+			<div type="abstract">
+				近年來以網際網路作為學習工具的學習者有明顯增加之趨勢 ，而
+				<lb />
+				開放式課程的崛起挾其免費使用的特性 ，更增添網路學習者的使
+				<lb />
+				用意願。然而綜觀現有之開放式課程網站 ，網站架構 、學習資源
+				<lb />
+				與介面等內容與設計雖多元卻紛亂 ，目前尚未有一套針對開放式
+				<lb />
+				課程設計與規劃的評鑑標準 ，因此本研究之目的為建置一套能適
+				<lb />
+				切評鑑開放式課程網站之評鑑面向與指標。為達成此研究目的 ，
+				<lb />
+				本研究以相關文獻分析與研究為基礎 ，共計 16 名專家參與本研
+				<lb />
+				究 ，進行三回合德懷術專家問卷研究法 ，訂定開放式課程網站評
+				<lb />
+				鑑面向與指標。指標之定稿共有七面向與 58 項指標 ，研究者並統 整專家對開放式課程網站評鑑各項指標之看法與意見。最後綜合 研究結果後對現有之開放式課程網站提出建議。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>開放式課程，開放式課程網站，網站評鑑，德懷術 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>國立交通大學教育研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>國立交通大學教育研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				cchou@mail.nctu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">
+				2015/01/16投稿；2015/05/11修訂；2015/05/12接受
+				<lb />
+			</note>
+			a Graduate Student,
+	Institute of Education, National Chiao Tung University,
+
+	Hsinchu, Taiwan
+			<lb />
+			b Professor, Institute of Education, National Chiao Tung University,
+
+	Hsinchu, Taiwan
+			<lb />
+			* To whom all correspondence should be addressed. E-mail:
+		</front>
+	</text>
+</tei>

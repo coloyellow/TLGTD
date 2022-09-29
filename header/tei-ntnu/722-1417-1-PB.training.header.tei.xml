@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="722-1417-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2017.431/722</idno>
+			<docTitle>
+				<titlePart>結構資料的再次使用：語意、連結與實作 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>黃韋菁 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>中央研究院資訊科學研究所</affiliation>
+			</byline>
+			專案經理
+			<lb />
+			E-mail:
+			<email>andreahg@iis.sinica.edu.tw</email>
+			<byline>
+				<docAuthor>李承 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>中央研究院資訊科學研究所</affiliation>
+			</byline>
+			研究助理
+			<lb />
+			E-mail:
+			<email>cjlee@iis.sinica.edu.tw</email>
+			<byline>
+				<docAuthor>莊庭瑞 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>中央研究院資訊科學研究所</affiliation>
+			</byline>
+			副研究員
+			<lb />
+			E-mail:
+			<email>
+				trc@iis.sinica.edu.tw
+				<lb />
+			</email>
+			關鍵詞[1]：
+			<keyword>CKAN；資料溯源；資料品質；知識庫；開放資料連結(LOD) ；知識本體； 語意再現 </keyword>
+			【摘要】
+			<div type="abstract">
+				持續創造資料的語意與連結，藉由全球資訊網散布同時可由常人和機器處理並理解的結構性
+				<lb />
+				資料，進而增進資料集的「再次使用價值」(reuse value)是目前廣受重視的課題，也是本研究
+				<lb />
+				由理論探討邁向系統實作的動力與目的。本文簡述與 「開放資料連結」 (Linked Open Data, LOD) 相關國際計畫與技術發展，介紹以「開放資料連結」方式建置的五項跨領域知識庫和七項專業知
+				<lb />
+				識庫，並解析資料品質、後設資料(Metadata)及資料溯源(Provenance)的關聯脈絡。
+				<lb />
+				本研究同時進行實作網站 data.odw.tw，收納典藏品目錄資料，並設計知識本體(voc4odw)
+				<lb />
+				轉換半結構式資料為富語意結構的連結式資料。一方面擴充 CKAN(The Comprehensive
+				<lb />
+				Knowledge Archive Network)資料集管理系統，作為連結式資料的儲存與展示平台，進而強調從
+				<lb />
+				原始目錄資料到語意連結資料的分段轉換步驟，最後將各步驟轉換程式以及 CKAN 軟體程式碼以
+				<lb />
+				「開放原始碼」 (Open Source)方式釋出。另一方面，由於研究資料來源採「創用 CC」 (Creative
+				<lb />
+				Commons)公眾授權，因此研究成果亦以相同方式釋出，在開放基礎上促使資料與程式碼的保存 與發展，可被自由再次使用與擴散。
+			</div>
+		</front>
+	</text>
+</tei>

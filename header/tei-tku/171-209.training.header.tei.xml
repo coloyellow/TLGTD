@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="171-209" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 2 (Spring 2016) : 171-209
+
+	問題導向學習融入資訊素養與 倫理創新教學之研究
+			<lb />
+			A Study on Integrating Problem-based
+			<lb />
+			Learning into the Innovative Teaching in
+			<lb />
+			Information Literacy and Ethics
+			<lb />
+			張 迺 貞* Nai-Cheng Chang*
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+	mail：ncchang@ttu.edu.tw
+			<lb />
+			徐 暄 淯 Hsuan-Yu Hsu
+			<lb />
+			Assistant Professor
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 53 : 2 (Spring 2016) : 171-209
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2016.532/0010.RS.CM</idno>
+
+			<lb />
+			<docTitle>
+				<titlePart>
+					問題導向學習融入資訊素養與 倫理創新教學之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>張迺貞 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>徐暄淯 </docAuthor>
+			</byline>
+			b 摘要
+			<div type="abstract">
+				本研究以修習通識教育「資訊素養與倫理」課程的學生為研究對
+				<lb />
+				象 ，透過 ARCS 學習動機模式問卷分析 ，配合深度訪談 ，探討問 題導向學習融入翻轉教室和數位學習兩種創新教學模式的學習動
+				<lb />
+				機和學習成果。研究結果顯示 ，兩種教學模式皆驗證 ARCS 學習
+				<lb />
+				動機模式且各有其優勢的學習成果 ，本研究建議翻轉教室問題導 向學習和線上問題導向學習都是適合且可行的教學模式。本研究
+				<lb />
+				根據研究結果 ，歸納四項提昇問題導向學習融入創新教學之要素：
+				<lb />
+				㈠領導能力 ，㈡自律學習 ，㈢ ARCS 模式融入教學 ，㈣妥善學習
+				<lb />
+				環境。同時 ，本研究提出新的問題導向學習創新教學模式 ，稱之
+				<lb />
+				為「混成翻轉數位教學」 。此種混成教學模式能夠獲致較佳之學習 成效。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>問題導向學習，創新教學，ARCS動機模式，翻轉教室， 混成學習，資訊素養 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>大同大學通識教育中心</affiliation>
+			</byline>
+			副教授
+			<lb />
+			b
+			<byline>
+				<affiliation>大同大學資訊經營學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				ncchang@ttu.edu.tw
+				<lb />
+			</email>
+
+
+			<note type="submission">2016/03/09投稿；2016/04/16修訂；2016/04/21接受</note>
+
+		</front>
+	</text>
+</tei>

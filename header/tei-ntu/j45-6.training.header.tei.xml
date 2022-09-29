@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j45-6"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第15卷第2期 (2017.12) 頁135-170<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.2017.15(2).135<lb/></idno>
+
+	
+	<docTitle>
+	<titlePart>以卡片分類法探討女性消費者對健康食品包裝資訊之 組織與分類研究<lb/></titlePart>
+	</docTitle>
+    Investigating How Female Consumers Organize and Sort Health<lb/> Food Package Information: A Card Sorting Perspective<lb/> 
+	
+	
+	<byline>
+	<docAuthor>邱方昱 1 </docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>邱銘心 2<lb/></docAuthor>
+	</byline>
+    Fang-Yu Chiou 1 , Ming-Hsin Phoebe Chiu 2<lb/>
+	摘 要 
+	<div type="abstract">隨著健康食品市場逐漸壯大，消費者卻欠缺足夠理解食品包裝上的健康營養資訊，降 低對健康食品之信賴，也可能因錯誤的食用行為而產生健康隱憂。本研究藉由資訊組織的 觀點，針對25樣健康食品之包裝資訊進行內容分析後，擷取出70項卡片項目，透過卡片分 類法分析女性消費者在閱讀健康食品包裝資訊時，如何將卡片項目重新分類與命名，並搭 配訪談法了解其分類依據及重要性排序。研究結果發現，女性消費者將卡片分為14個類 別，以語言、視覺相似性、以及個人認知重要性為分類依據。本研究提出之資訊分類架 構，希冀能協助健康食品廠商從消費者觀點設計友善的食品包裝，引導消費者關注重要健 康營養資訊，進而選擇符合自身健康需求的食品。</div>
+	關鍵字：
+	<keyword>健康食品、食品包裝資訊、卡片分類法、資訊組織 </keyword>
+	Abstract<lb/>
+	Grounded on organization of information, this study used card sorting method to investigate<lb/> female consumers&apos; preferred classification scheme, and adopted in-depth interview method to identify<lb/> the organizing rules they lived by. The results of card sorting analysis were able to identified 14<lb/> categories of health food package information, and they were price, flavor, award and remarks, product<lb/> liability insurance, disposal information, research development information, function claims, consumer<lb/> complaints, production information and logo, nutritional ingredient, advertisement and national certificate,<lb/> food instructions, manufacturer information, and others. This study found that the consumer-perceived most<lb/> important food package information were product name, brand name, ingredient information, food additives<lb/> information, and information on certified functions. It suggests that these five types of information should<lb/> be prominently displayed in a conspicuous place to enable consumers make rationale and efficient choices.<lb/> The 14 categories of food package information and their labels resulted from the card sorting experiment<lb/> may provide a guide as to how the information should be organized and grouped in a way that facilitates<lb/> making sense of the information. This study may also facilitate consumers to efficiently and accurately<lb/> locate the information they need when making purchasing decision of health food.<lb/>
+
+	Keywords:
+	Health Food; Food Packaging Information; Card Sorting; Information Organization<lb/>
+
+	1,2
+	<byline>
+	<affiliation> 國立臺灣師範大學圖書資訊學研究所<lb/> </affiliation>
+	</byline>
+	Graduate Institute of Library and Information Studies, National Taiwan Normal University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 邱銘心Ming-Hsin Phoebe Chiu, E-mail:
+	<email>phoebechiu@ntnu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

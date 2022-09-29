@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="91_7" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			A Study of Open Access Development and Implementation in Campus:
+			<lb />
+			Taking University of California System, Queensland University of
+			<lb />
+			Technology and University of Calgary as Examples
+	
+
+	
+			<lb />
+			Chia-Ning Li
+	
+
+	Abstract
+			<div type="abstract">
+				本文透過分析美國加州大學系統、澳洲昆士蘭科技大學及加拿大卡加利大學在校園發展
+				<lb />
+				與實施 OA 的經驗，歸納出 OA 在校園發展與實施的重點，提供國內大專校院作為發展 OA 的
+				<lb />
+				參考：(1) 機構宜擬定具有規範性的政策；(2) 扣合其他政策，可使政策的執行臻至完整；(3)
+				<lb />
+				宜有基礎設備作為配套方案；(4) 穩定的挹注補助經費以及 (5) 節省成本，提高發展 OA 的效 益。
+				<lb />
+			</div>
+			This study summarizes five key points of open access development and implementation on
+			<lb />
+			campus by analyzing the
+
+	
+	experience of University of California System, Queensland University of
+			<lb />
+			Technology and University of Calgary
+	
+
+	, which are provided as references for Taiwan universities and
+			<lb />
+			colleges to develop and implement OA on campus. The five key points are as follows: (1) the
+			<lb />
+			institution should formulate normative open access policy; (2) the formulated policy should
+			<lb />
+			coordinate with other national or funder&apos;s open access policies to make policy implementation
+    
+			<byline>
+				<affiliation> 國家實驗研究院科技政策研究與資訊中心</affiliation>
+			</byline>
+			佐理研究員
+			<lb />
+			Research Assistant, Science &amp; Technology Policy Research and Information Center, NARL,
+			
+				Taipei, Taiwan
+				<lb />
+			
+			E-mail:
+			<email>
+				cnli@stpi.narl.org.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				9:2=91 (Dec &apos;17) 97-116
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2017.91.05
+				<lb />
+			</idno>
+			complete; (3) the institution should build infrastructure for carrying out the open access policy; (4)
+			<lb />
+			the institution should provide stable funding for developing and implementing open access; (5) the
+			<lb />
+			institution should save cost and enhance the effectiveness in developing open access.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				開放取用 案例探討 美國加州大學系統 澳洲昆士蘭科技大學 加拿大卡加利大學
+				<lb />
+			</keyword>
+			Open access；Case studies；University of California System；Queensland University of
+			<lb />
+			Technology；University of Calgary
+		</front>
+	</text>
+</tei>

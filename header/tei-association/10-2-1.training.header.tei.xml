@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-2-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：2 (June 2016)：1-43
+				<lb />
+			</reference>
+			通訊作者 : 張郁蔚
+			<email>
+				yuweichang2013@ntu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2016 年 2 月 28 日；接受日期：2016 年 6 月 6 日
+				<lb />
+			</note>
+			Email：張郁蔚
+			<email>yuweichang2013@ntu.edu.tw</email>
+			；孫雲倩
+			<email>
+				yunqiansun@gmail.com
+				<lb />
+			</email>
+			<docTitle>
+				<titlePart>
+					國家檔案館檔案資源商業開發 之初探
+					<lb />
+				</titlePart>
+			</docTitle>
+			Commercial Exploitation of Archival Resources
+			<lb />
+			in National Archives
+			<byline>
+				<docAuthor>
+					張郁蔚
+					<lb />
+				</docAuthor>
+			</byline>
+			Yu-Wei Chang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>
+					孫雲倩
+					<lb />
+				</docAuthor>
+			</byline>
+			Yun-Qian Sun
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				檔案館館藏資源的商業開發是一種檔案加值，有利於使用者 的資源近用，增加檔案館收入。本文透過英國、芬蘭、加拿大、
+				<lb />
+				美國、澳洲、紐西蘭、新加坡及日本 8 個國家檔案館的網站資訊
+				<lb />
+				探討該等檔案館檔案資源商業開發現狀。研究結果發現檔案資源 商業開發類型包括檔案數位複製、圖書出版、檔案周邊商品、檔
+				<lb />
+				案資料庫及研究服務 5 類，檔案館商業開發優先選擇家族史、歷
+				<lb />
+				史事件、研究和教學相關主題的檔案，以及 8 個國家檔案館中， 英國的檔案資源商業開發程度最高。
+				<lb />
+			</div>
+			The commercial exploitation of archives, adding values to
+			<lb />
+			archives, facilitates access of archives and increases the income of
+			<lb />
+			archives. This study investigated the status of commercial exploitation
+			<lb />
+			of eight national archives based on information revealed in websites of
+			<lb />
+			national archives, namely UK,
+
+	Finland, Canada, USA, Australia, New
+			<lb />
+			Zealand, Singapore and Japan. The findings show that five types of
+			<lb />
+			commercial exploitation were identified: digital copies, publications,
+			<lb />
+			archives merchandises, archival databases, and research services.
+			<lb />
+			The topics of archives used for commercial exploitation cover family
+			<lb />
+			history, historical events, and research and teaching. Among the eight
+			<lb />
+			archives surveyed, the national archives of UK has involved more
+			<lb />
+			commercial exploration than any other national archives.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				國家檔案館；檔案館網站；檔案加值；商業開發
+				<lb />
+			</keyword>
+			National archives; Archives websites; Value-added archival information;
+			<lb />
+			Commercial exploitation
+		</front>
+	</text>
+</tei>

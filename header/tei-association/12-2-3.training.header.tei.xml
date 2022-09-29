@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-2-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：2 (June 2018)：63-109
+				<lb />
+			</reference>
+
+
+			<docTitle>
+				<titlePart>
+					我國編目館員編目專業能力認知 與工作績效研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			Study on Cataloging Librarians&apos; Perceptions of
+			<lb />
+			Professional Competencies and Job Performances in
+			<lb />
+			Libraries of Taiwan
+			<byline>
+				<docAuthor>王梅玲</docAuthor>
+			</byline>
+			✽
+			<lb />
+			Mei-Ling Wang
+			<lb />
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library, Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<byline>
+				<docAuthor>
+					張艾琦
+					<lb />
+				</docAuthor>
+			</byline>
+			Ai-Chi Chang
+			<lb />
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			Master, Graduate 
+	Institute of Library, Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				本實證研究旨在探討數位時代圖書館編目館員的編目能力認
+				<lb />
+				知與工作績效評鑑。編目館員對工作績效的自我評鑑在概念上可
+				<lb />
+				視為編目工作品質的指標。本論文研究目的包括：(1)探討編
+				<lb />
+				目館員工作任務與編目專業能力；(2)探討編目館員對於專業
+			</div>
+			✽
+			<lb />
+			通訊作者：王梅玲
+			<email>
+				meilingw@nccu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2017 年 8 月 25 日；接受日期：2017 年 12 月 1 日
+				<lb />
+			</note>
+
+			<div type="abstract">
+				能力的認知；(3)探討編目館員工作績效自我評鑑；(4)探討
+				<lb />
+				影響編目館員工作績效的因素。本研究的 30 項編目專業能力分
+				<lb />
+				為資訊組織原理、記述編目、主題分析與權威控制、詮釋資料編 目及編目管理與科技五類。本研究採用問卷調查，設計「我國編
+				<lb />
+				目館員工作需求、能力認知與工作表現調查問卷」，於 2017 年 4
+				<lb />
+				月至 5 月間紙本郵寄發送至抽樣的 48 所大學圖書館、9 所公共圖
+				<lb />
+				書館以及 1 所國家圖書館的 366 位編目館員，問卷回收 288 份，
+				<lb />
+				278 份有效問卷，回收率為 75.9%。問卷調查顯示受測者的編目工作任務涵蓋中文編目、西文編目
+				<lb />
+				及非書資料與電子資源編目。有關受測編目館員對編目專業
+				<lb />
+				能力認知，整體重要性平均數為 4.19。有關編目館員自評編目能
+				<lb />
+				力，整體平均數為 3.62，館員自評五類編目能力由高至低依序為：
+				<lb />
+				資訊組織原理、記述編目、主題分析與權威控制、編目科技與管
+				<lb />
+				理、詮釋資料編目。受測編目館員能力滿意度整體平均為 3.48，
+				<lb />
+				編目工作績效滿意度整體平均為 3.43，編目工作滿意度整體平均
+				<lb />
+				為 3.57，館員編目的意義看法整體平均為 4.08。編目館員的專業 經驗和圖書館類型在館員編目五類能力自評與工作績效有差異。 多元迴歸分析顯示編目館員的主題分析與權威控制能力自評以及
+				<lb />
+				館員整體編目能力滿意度是其工作績效的兩個可預測因素。編目 館員記述編目能力自評以及編目管理與科技能力自評是館員能力 滿意度的兩個預測因素。本研究結果顯示編目館員的能力與工作 績效有關，並提供未來編目工作與資訊組織教育參考。
+				<lb />
+			</div>
+			This exploratory study investigated catalogers&apos; perception of
+			<lb />
+			cataloging competencies and job performance evaluation at digital age in
+			<lb />
+			Taiwan. Cataloger&apos;s self-evaluation on their own job performance was
+			<lb />
+			conceptualization as an indicator of cataloging quality. The objectives
+			<lb />
+			of this article were as follows: (1)to explore cataloging tasks of
+			<lb />
+			catalogers and cataloging competencies; (2) to explore the catalogers&apos;
+			<lb />
+			perception of cataloging competency; (3) to explore cataloger&apos;s self-
+			<lb />
+			evaluation on their own job performance; (4) to explore the factors
+			<lb />
+			affect the job performance of catalogers. A total of 30 competencies
+			<lb />
+			were clustered in to five groups: information organization basics,
+			<lb />
+			descriptive cataloging, subject analysis and authority control,
+			<lb />
+			cataloging management and technologies, and metadata. Catalogers
+			<lb />
+			subjects were randomly selected from the library statistics systems,
+			<lb />
+			366 catalogers were invited to participate and questionnaires were sent
+			<lb />
+			to their libraries. The overall response was 75.9%. The survey showed
+			<lb />
+			that the subjects&apos; cataloging tasks covered Chinese cataloging, western
+			<lb />
+			cataloging, non-book materials and electronic resources cataloging.
+			<lb />
+			The average of overall importance of the cataloging competency was
+			<lb />
+			4.19, and the five types of cataloging competency perception from high
+			<lb />
+			to low were: information organization basics, description cataloging,
+			<lb />
+			subject analysis and authority control, cataloging management &amp;
+			<lb />
+			technology and metadata. The average of catalogers&apos; self-evaluation
+			<lb />
+			of cataloging competency was 3.62. The overall average competency
+			<lb />
+			satisfaction degree of the surveyed librarians is 3.48, and the overall
+			<lb />
+			satisfaction of the job performance is 3.43, and the overall average
+			<lb />
+			of the job satisfaction was 3.57, and the average meaning view of
+			<lb />
+			cataloging was 4.08.Multiple regression analysis found the catalogers&apos;
+			<lb />
+			self-assessment of subject analysis and authority control, and
+			<lb />
+			catalogers overall satisfaction with their own cataloging competencies
+			<lb />
+			were two significant predictors of catalogers&apos; own job performance.
+			<lb />
+			Catalogers&apos; self-assessment on descriptive cataloging and cataloging
+			<lb />
+			management and technologies contributed to catalogers&apos; levels of
+			<lb />
+			overall satisfaction with their own cataloging competency. The results
+			<lb />
+			of this study showed that cataloging competency was related to the
+			<lb />
+			job performance of catalogers and provided reference for future
+			<lb />
+			development on cataloging and information organization curricula and
+			<lb />
+			education.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				編目館員；專業能力；編目能力；編目評鑑；工作績效
+				<lb />
+			</keyword>
+			Caterger professional; Competency; Cataloging competency; Cataloging
+			<lb />
+			evaluation; Job performance
+		</front>
+	</text>
+</tei>

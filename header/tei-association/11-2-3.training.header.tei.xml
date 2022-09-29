@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11-2-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 11：2 (June 2017)：95-138
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					臺灣社會科學學者資料再用行為 之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			Data Reuse Behavior among Taiwan Social Scientists
+			<byline>
+				<docAuthor>
+					林奇秀
+					<lb />
+				</docAuthor>
+			</byline>
+			Chi-Shiou Lin
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department of Library and Information Science,
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>
+					賴璟毅
+					<lb />
+				</docAuthor>
+			</byline>
+			Ching-Yi Lai
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Graduate Institute of Library and Information Science,
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				近年來學術資料分享呼籲漸盛，學者的資料再用行為也開始 受到關注，但相對於自然與應用科學，社會科學的資料再用研究
+				<lb />
+				相對較少。本文以深度訪談來瞭解臺灣社會科學學者的資料再用
+				<lb />
+				行為，共訪談 14 位具有量化數據再用經驗的社會、政治、教育、 經濟與心理學者。研究發現，在再用動機方面，學者取用既有資
+				<lb />
+			</div>
+			通訊作者：林奇秀
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2016 年 11 月 29 日；接受日期：2017 年 3 月 22 日
+				<lb />
+			</note>
+			<div type="abstract">
+				料，理由可能是因為無法自行蒐集大規模或長期性資料、取用來 自權威單位的資料比較具有公信力、取用既有資料可免除研究倫
+				<lb />
+				理審查的煩擾、可探索潛在研究題目、能拓展既存的研究議題、 學科領域文化的鼓勵或阻撓等。在獲知管道方面，學者可能透過
+				<lb />
+				五種管道來掌握資料的消息，包含學術文獻、同儕與指導教授、 政府與學術機構網站、學會或調查機構的推廣活動、紙本統計資
+				<lb />
+				料等。在資料評估方面，學者常用的評估策略包含評估問卷工具 品質、評估樣本品質、評估資料蒐集過程、評估資料新穎度、評 估資料易得性、以及評估分析結果的發表潛力。在資料處理上，
+				<lb />
+				學者會先對資料集進行描述統計與信效度檢驗，確認資料基本品 質後，再進行基本數據校正處理，有時還必須合併多組資料集並 尋求或補足資料集缺乏的變數。
+				<lb />
+			</div>
+			is article describes the ndings from a qualitative study on
+			<lb />
+			social scientists&apos; data reuse behavior in Taiwan. In recent years,
+			<lb />
+			data sharing has been a salient topic in the scholarly communities.
+			<lb />
+			Empirical studies on how scientists use existing data have also
+			<lb />
+			emerged. However, data reuse in social sciences is less studied
+			<lb />
+			than in natural and applied sciences. This study focused on the
+			<lb />
+			reuse of existing quantitative data by Taiwan&apos;s social scientists.
+			<lb />
+			Semi-structured, in-depth interview was used to understand the
+			<lb />
+			experiences of 14 researchers from sociology, political science,
+			<lb />
+			education, economics, and psychology. The results show that, in
+			<lb />
+			regards to motivations, participants re-used existing data for the
+			<lb />
+			following reasons: unable to collect large-scaled or long-term data,
+			<lb />
+			higher credibility of data released by authoritative sources, free from
+			<lb />
+			harassment of IRB reviews, exploring potential research questions,
+			<lb />
+			carrying on existing research directions, and the encouragement
+			<lb />
+			or discouragement of the disciplinary cultures. Participants had
+			<lb />
+			relied on ve di erent channels to nd existing data, i.e., research
+			<lb />
+			literatures, peers and advisors, government agencies or academic
+			<lb />
+			institutions&apos; websites, promotional activities of scholarly
+			<lb />
+			associations and survey institutes, and statistical publications.
+			<lb />
+			Participants also reported six evaluation strategies prior to the
+			<lb />
+			actual use of the located data, including the evaluation of survey
+			<lb />
+			instrument quality, sample quality, data collection procedures,
+			<lb />
+			timeliness of data, availability of data, and the potential value
+			<lb />
+			for publication of the re-use analysis. Finally, in data processing,
+			<lb />
+			participants rst inspected the descriptive statistics and the validity
+			<lb />
+			and reliability of the dataset and then proceeded to correct, amend,
+			<lb />
+			or convert the data. They might also need to combine multiple
+			<lb />
+			datasets and ll in further needed variables from external sources or
+			<lb />
+			by using various techniques.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				資料再用、資料取用、量化資料、社會科學
+				<lb />
+			</keyword>
+			Data reuse; Data access; Quantitative data; Social sciences
+		</front>
+	</text>
+</tei>

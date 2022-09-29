@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="86_6" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			(
+			Book Review
+			)
+			<lb />
+			A Micropedia of Library Development in Taiwan: A Review of Some
+			<lb />
+			Editorial Remarks on Libraries and Librarianship in Taiwan
+
+	 
+			<lb />
+			Kun-Hsien Tseng
+			<lb />
+			王振鵠、胡歐蘭、鄭恒雄、劉春銀(2014)。臺灣 圖書館事業百年發展。臺北市：文華圖書館管理資
+			<lb />
+			訊公司。(ISBN：9789866182136)
+			<lb />
+
+			<div type="abstract">
+				《臺灣圖書館事業百年發展》 (以下簡稱本書) ，是一本描述臺灣圖書館事業百年來發
+				<lb />
+				展的全紀錄。內容涵蓋綜論、各類型圖書館(國家、學術、公共、學校及專門圖書館) 、 圖書資訊學教育與研究、書目控制與服務、圖書館自動化與網路系統、數位典藏發展與圖
+				<lb />
+				書資訊專業組織等 12 章 32 餘萬字。另，全書編製有 67 張圖表(含 8 個圖和 59 張表，各
+				<lb />
+				項統計資料截至 2011 年止) ，書末有附錄、參考文獻及索引等三種資料，以供讀者查索及
+				<lb />
+			</div>
+			<byline>
+				<affiliation>
+					 國家圖書館國際標準書號中心編輯
+					<lb />
+				</affiliation>
+			</byline>
+			Editor, ISBN Agency, National Central Library, Taiwan
+			<lb />
+			E-mail:
+			<email>
+				tkh@ncl.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				7:1=86 (June &apos;15) 132-143
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.2015.86.06</idno>
+
+		</front>
+	</text>
+</tei>

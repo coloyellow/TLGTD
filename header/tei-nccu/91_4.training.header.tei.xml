@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="91_4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			20
+			<lb />
+			Study on Instructional Models and Strategies of Information Literacy
+			<lb />
+			Online Courses for Higher Education 
+			<lb />
+			Mei-Ling Wang
+	
+
+	Abstract
+			<div type="abstract">
+				資訊素養對於高等教育很重要，為培養大學生成為批判性思考、獨立學習與終身學習者， 英美各國普遍推動大學資訊素養教育。數位學習與線上教育近年風行，成為新的教育與學習 方式。資訊素養線上教學開始興起，但不同於傳統教室教學，教師與學生不在一起，線上教育 如何使學生主動學習與獲得良好學習互動，均遭遇問題與挑戰。本研究主要探討大學資訊素 養線上教學模式與策略，採用文獻探討與個案研究方法，首先陳述大學資訊素養教學的意涵， 析述資訊素養線上教育的特點與問題，藉由文獻探討歸納大學資訊素養線上課程類型、課程 傳遞方式、教學法與教學策略。最後以個案研究，分析資訊素養自學網、資訊素養數位教材、 資訊素養線上課程、資訊素養磨課師四類五個線上課程，以及實證探討線上教學模式與策略， 最後提出結論與建議。
+				<lb />
+			</div>
+			s
+	Information literacy is important for higher education to cultivate undergraduates to be critical
+			<lb />
+			thinking, independent and lifelong learners. Therefore, information literacy instruction is popular
+			<lb />
+			among universities in the United States and the United Kingdom. The popularity of digital learning
+			<lb />
+			and online courses has been welcomed in the recent years as a new way of education and learning.
+			<lb />
+			Information literacy online instruction has started to develop in the recent years; however, unlike the
+			<lb />
+			traditional classroom teaching, teachers and students are not in the same place. How online education
+			<lb />
+			can make students actively learn and lead to good learning interaction is problematic and challenging.
+    
+			<byline>
+				<affiliation> 國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor, Graduate Institute of Library, Information and Archival Studies, National Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				meilingw@nccu.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				9:2=91 (Dec &apos;17) 20-46
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2017.91.02
+				<lb />
+			</idno>
+			The article mainly discusses the instruction models and strategies on information literacy online
+			<lb />
+			courses for higher education with research methods of literature review and case study. Firstly, it
+			<lb />
+			explores the meaning of information literacy instruction, and then analyzes the characteristics and
+			<lb />
+			problems of information literacy online instruction. Through literature review, it summarizes the types
+			<lb />
+			of information literacy online courses, course delivery methods, pedagogies and teaching strategies.
+			<lb />
+			The article analyzes five cases of information literacy online courses with case study methods
+			<lb />
+			including an information literacy online tutorial, an information literacy digital object website, an
+			<lb />
+			information literacy online course and two information literacy MOOCs. This case study empirically
+			<lb />
+			explores information literacy online courses, instruction, learner interaction and assessment. Finally,
+			<lb />
+			conclusions and suggestions are proposed.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				資訊素養 資訊素養教學 線上課程 數位學習
+				<lb />
+			</keyword>
+
+				Information literacy；Information literacy instruction；Online courses；E-learning
+		</front>
+	</text>
+</tei>

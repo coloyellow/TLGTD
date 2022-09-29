@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j47-6"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第16卷第2期 (2018.12) 頁165-193<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.201812_16(2).165<lb/></idno>
+
+
+	<docTitle>
+	<titlePart>期刊論文初次被引用與學術傳播速度： 以圖書資訊相關領域為例<lb/></titlePart>
+	</docTitle>
+    First-citation of Journal Articles and Scholarly Communication<lb/> Speed: A Case Study of IS &amp; LS<lb/>
+	<byline>
+	<docAuthor>尤玳琦 1 林雯瑤 2<lb/></docAuthor>
+	</byline>
+    Tai-Chi Yu 1 , Wen-Yau Cathy Lin 2<lb/>
+	摘 要 
+	<div type="abstract">本研究旨在探討圖書資訊學領域期刊學術傳播速度，以2005年版至2012年版JCR收錄<lb/> 之30種專業學術期刊為研究對象，分析10,287篇原始文獻，並採引用文獻分析法，計算初<lb/> 次被引用速度。研究結果顯示，所有文章平均初次被引用速度為18.79個月，已被引用文<lb/> 章為14.26個月；在初次被自我引用方面，期刊的學術傳播速度可能會受被自我引用狀態 的影響。而出版機制方面，非OA文章初次被引用速度領先OA文章，提供電子預印本的期 刊初次被引用速度明顯較傳統出版模式快。根據上述研究結果，本研究建議引用尚未正式 出版文章時，作者應依據引用規範，於參考文獻著錄電子預印本相關標示；此外，為使文 章在學術傳播上不受到限制，期刊出版者應鼓勵作者投稿至OA期刊或以OA文章方式出版。<lb/></div>
+	關鍵字： 
+	<keyword>學術傳播、初次被引用速度、學術期刊、引用文獻分析</keyword> 
+	Abstract<lb/>
+	This study mainly explores scholarly communication speed of journal articles within Library<lb/> and Information Science based on the first-citation, defined as the time between publication and first-<lb/>citation. The study focuses on the distributions of first-citation speed, first self-citation, and publication<lb/> patterns. It chooses 30 scholarly journals which are indexed in the category of Information Science &amp;<lb/> Library Science (IS &amp; LS) in the Journal Citation Report 2005-2012 and analyses 10,287 articles. This<lb/> study adopts citation analysis to calculate journal articles first-citation speed and journals averaged<lb/> first-citation speed. Particularly, first-citation differentiates between all articles and citing articles.<lb/> Results show that the average first-citation speed is about 18.79 months within; for citing articles, it<lb/> is 14.26 months. In addition, first self-citation may influence on scholarly communication speed. In<lb/> terms of publication mechanisms, OA articles are slower than non-OA article. The journals with in<lb/> press mechanism are significantly faster. Based on the results, there are some suggestions as follows.<lb/> When citing unpublished articles, authors should follow reference guide and note &quot;in press&quot; or related<lb/> terms in the reference. Besides, for the purpose of scholarly communication unrestricting, journal<lb/> publishers should encourage authors to submit manuscript to OA journals or publish OA articles.<lb/>
+
+	Keywords:
+	Scholarly Communication; First-citation Speed; Scholarly Journal; Citation Analysis<lb/>
+     1,2
+	<byline>
+	<affiliation> 淡江大學資訊與圖書館學系<lb/></affiliation>
+	</byline>
+
+	
+	Department of Information &amp; Library Science, Tamkang University,
+	
+    New Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 林雯瑤Wen-Yau Cathy Lin,
+	<email>wylin@mail.tku.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

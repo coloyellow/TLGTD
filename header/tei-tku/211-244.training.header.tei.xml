@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="211-244" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 2 (Spring 2016) : 211-24
+
+	公民行動取向之資訊素養課程： 以國小六年級「台美 生態學校夥伴計畫」為例
+			<lb />
+			Civic Action-oriented Information Literacy
+			<lb />
+			Curriculum: An Example of Sixth-grade
+			<lb />
+			&quot;US-Taiwan Eco-campus Partnership Program&quot;
+			<lb />
+			林 菁* Lin Ching Chen*
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：lingin@mail.ncyu.edu.tw
+			<lb />
+			沈 桂 枝 Kui-Chi Shen
+			<lb />
+			Graduate Student
+			<lb />
+			賴 秀 珍 Hsiu-Chen Lai
+			<lb />
+			Graduate Student
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 53 : 2 (Spring 2016) : 211-244
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2016.532/0005.RS.CM</idno>
+
+			<lb />
+			<docTitle>
+				<titlePart>
+					公民行動取向之資訊素養課程：
+					<lb />
+					以國小六年級「台美 生態學校夥伴計畫」為例
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>林 菁 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>沈桂枝 </docAuthor>
+			</byline>
+			b
+			<byline>
+				<docAuthor>賴秀珍 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				本研究旨在探究公民行動取向之資訊素養課程方案的可行性 ，包 括方案之分析、設計與發展及評估三個階段。此課程以台美生態
+				<lb />
+				學校為主題，引導學生發現學校環境問題 ，以研擬和展開公民行
+				<lb />
+				動 ，並與美國夥伴交流及評估成效。研究者與教授資訊素養、自然
+				<lb />
+				與生活科技 ，和英語領域的三位老師合作 ，進行兩個循環協同行
+				<lb />
+				動研究。研究現場是一個國小六年級班級 ，本研究以多元方法蒐
+				<lb />
+				集質化和量化資料 ，研究結果發現在國小六年級推動公民行動取 向的資訊素養課程是一可行方案。過程中藉由資訊素養課程的循
+				<lb />
+				序教導、老師的協同教學 、學校整體的行政支持 ，及資訊科技的 融入等策略，使得公民行動能順利進行，提升學生問題解決和理性 參與公共事務之能力，並增進跨文化理解。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>公民行動，資訊素養，國際理解，生態學校 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>國立嘉義大學數位學習設計與管理系</affiliation>
+			</byline>
+			教授
+			<lb />
+			b
+			<byline>
+				<affiliation>國立中正大學教育學研究所</affiliation>
+			</byline>
+			課程博士班博士生
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				lingin@mail.ncyu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2016/01/22投稿；2016/03/29修訂；2016/04/28接受</note>
+
+		</front>
+	</text>
+</tei>

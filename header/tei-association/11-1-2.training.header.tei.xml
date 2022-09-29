@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11-1-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 11：1 (December 2016)：47-84
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					短文回應的主題自動歸類在 行動教育活動上之應用初探
+					<lb />
+				</titlePart>
+			</docTitle>
+			A Preliminary Study of Short Text Responses Clustering
+			<lb />
+			for Mobile Educational Activities
+			<byline>
+				<docAuthor>
+					李龍豪
+					<lb />
+				</docAuthor>
+			</byline>
+			Lung-Hao Lee
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士後研究員
+			<lb />
+			Postdoctoral Fellow
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					簡佑達
+					<lb />
+				</docAuthor>
+			</byline>
+			Yu-Ta Chien
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學科學教育中心</affiliation>
+			</byline>
+			博士後研究員
+			<lb />
+			Postdoctoral Fellow
+			<lb />
+			Science Education Center
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					張俊彥
+					<lb />
+				</docAuthor>
+			</byline>
+			Chun-Yen Chang
+			<lb />
+			<byline>
+				<affiliation>國立臺灣師範大學科學教育研究所</affiliation>
+			</byline>
+			講座教授
+			<lb />
+			Chair Professor
+			<lb />
+			Graduate
+	Institute of Science Education
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			通訊作者：曾元顯
+			<email>
+				samtseng@ntnu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2016 年 11 月 6 日；接受日期：2016 年 12 月 15 日
+				<lb />
+			</note>
+			Email：李龍豪
+			<email>lhlee@ntnu.edu.tw</email>
+			；簡佑達
+			<email>yutachien@ntnu.edu.tw</email>
+			；張俊彥
+			<email>changcy@ntnu.edu.tw</email>
+			；
+			<lb />
+			李宗諺
+			<email>yan@ntnu.edu.tw</email>
+			；曾元顯
+			<email>samtseng@ntnu.edu.tw</email>
+
+
+			<byline>
+				<docAuthor>
+					李宗諺
+					<lb />
+				</docAuthor>
+			</byline>
+			Tsung-Yen Li
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學科學教育中心</affiliation>
+			</byline>
+			專任研究助理
+			<lb />
+			Research Assistant
+			<lb />
+			Science Education Center
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					曾元顯
+					<lb />
+				</docAuthor>
+			</byline>
+			Yuen-Hsien Tseng
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				文字歸類是用來偵測文件語料涵蓋的主題，以便於資訊瀏
+				<lb />
+				覽、分析、組織的資訊檢索技術。而近年教室中即時反饋系統
+				<lb />
+				(Instant Response System, IRS)的運用越來越普遍，以強化學生
+				<lb />
+				專注參與的情形，進而增進其學習成效。然而目前的 IRS 較缺乏 學生自由回應的簡短文字之歸類處理功能，以致無法進一步發揮
+				<lb />
+				其功效。本文的目的，在探討 IRS 現況以及短文回應的特性與問
+				<lb />
+				題、回顧短文主題歸類自動處理的技術與應用情形、提出一套可
+				<lb />
+				行的搭配系統供 IRS 整合運用，並展示我們目前實作的結果範例， 以做為後續運用、研究的參考。本文比較了三種自動歸類方法，
+				<lb />
+				結果顯示影響歸類成效的因素眾多，理論上較好的歸類方法，不 見得會有較佳的結果，還需其他因素或處理流程的配合。
+				<lb />
+			</div>
+			Text clustering is a powerful information retrieval technique to
+			<lb />
+			detect topics from document corpora, so as to provide information
+			<lb />
+			browsing, analysis, and organization. On the other hand, the Instant
+			<lb />
+			Response System (IRS) has been widely used in recent years to
+			<lb />
+			enhance student engagement in class and thus improve their learning
+			<lb />
+			effectiveness. However, the lack of functions to process short text
+			<lb />
+			responses from the IRS prevents the further application of IRS in
+			<lb />
+			classes. Therefore, this article aims to discuss the current status of
+			<lb />
+			IRS application, illustrate the characteristics of short text responses
+			<lb />
+			from the IRS, review current short text processing techniques, propose
+			<lb />
+			a proper short text clustering module for the IRS, and demonstrate
+			<lb />
+			our implemented techniques through real-world examples, so as to
+			<lb />
+			provide experiences and insights for further study. In particular, we
+			<lb />
+			have compared three clustering methods and the result shows that
+			<lb />
+			theoretically better methods need not lead to better results, as there are
+			<lb />
+			various factors that may affect the final performance.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				文字歸類；短文；即時回應系統；資訊組織；行動教育
+				<lb />
+			</keyword>
+			Text Clustering; Short Texts; Instant Response Systems; Information
+			<lb />
+			Organization; Mobile Education
+		</front>
+	</text>
+</tei>

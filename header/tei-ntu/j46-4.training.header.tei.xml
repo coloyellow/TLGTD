@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j46-4"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第16卷第1期 (2018.6) 頁77-108<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.201806_16(1).077</idno>
+
+	
+	<docTitle>
+	<titlePart>《墨辯》中的分類思維初探<lb/></titlePart>
+	</docTitle>
+    A Preliminary Study of the Classification Thoughts in the Mobian<lb/> 
+	<byline>
+	<docAuthor>藍文欽 1<lb/></docAuthor>
+	</byline>
+    Wen-Chin Lan 1<lb/>
+
+	摘 要 
+	<div type="abstract">廣義《墨辯》，由《墨子》書中之〈經上〉、〈經下〉、〈經說上〉、〈經說下〉、 〈大取〉、〈小取〉六篇組成。《墨辯》是墨家邏輯學的奠基之作，代表中國古代邏輯學 思想的發展高峰。《墨辯》的內容豐富多元，本文嘗試從分類思維的觀點進行解析。分類 由感知事物之存在與其異同開始，《墨辯》中系統性的說明人類的心智活動。《墨辯》中 處處可見關於概念的定義與類別的劃分，其類別劃分已隱含階層的意涵。墨家重視名實相 應，《墨辯》中對於名實的問題有深入的討論。在區分同異時，墨家注意到事物間之同異 並非固定不變，《墨辯》中列舉多種同異的類型。墨家的分類觀點，是「彼止於彼、此止 於此」，而區別同異時要能掌握事物間的根本差異。綜言之，《墨辯》可視為中國古代分 類思維的寶庫。<lb/></div>
+	關鍵字： 
+	<keyword>墨辯、分類思維、名實問題、同異區分、察類與推類 </keyword>
+	Abstract<lb/>
+	This article attempts to examine the Mobian (墨辯; the Mohist Dialectical) from the perspective<lb/> of classification theory. The Mobian comprises six texts, which form chapters 40 through 45 of the<lb/> extant Mozi (墨子), including Jing-shang (經上; Canon I), Jing-xia (經下; Canon II), Jingshuo-shang<lb/> (經說上; Explanation to Canon I), Jingshuo-xia (經說下; Explanation to Canon II), Daqu (大取;<lb/> Greater Selections), and Xiaoqu (小取; Lesser Selections). The Mobian is commonly recognized as a<lb/> classic and treasure for the logic of ancient China. Therefore, most scholars explore the book assuming<lb/> a logical or philosophical perspective. The current investigation, however, is focused on thoughts and<lb/> issues related to classification as revealed in the Mobian. The result of the preliminary study shows<lb/> that Mobian can and should be viewed as a treasure for classification study of ancient China. There<lb/> exists numerous thoughtful discussions related to classification issues, including perception and<lb/> cognition (i.e., the foundation of classifying), the three laws of thought and the principle of rationality,<lb/> concept definitions, categorization, names and objects, sameness and difference, and classifying and<lb/> inferring methods. The results guarantee further examination of the Mobian and suggest that we may<lb/> employ a similar approach to investigate the writings of the Pre-Qin philosophers.<lb/>
+
+	Keywords:
+	Mobian; Classification Thoughts; Names and Objects; Sameness and Difference; Categorization<lb/>
+    1
+	<byline>
+	<affiliation> 國立臺灣大學圖書資訊學系<lb/> </affiliation>
+	</byline>
+	Department of Library and Information Science, National Taiwan University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	E-mail:
+	<email>lanw@ntu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

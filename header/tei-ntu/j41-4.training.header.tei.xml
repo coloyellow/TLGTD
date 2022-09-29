@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j41-4"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	本期專題 「知識組織研究在地化」<lb/>
+	
+	<reference>圖書資訊學刊 第13卷第2期 (2015.12) 頁99-105<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2015.13(2).099</idno>
+    
+	<docTitle>
+	<titlePart>原住民族、孔子及知識組織 專題編者序<lb/></titlePart>
+	</docTitle>
+
+	
+	
+	Indigenous Peoples, Cofucius, and Knowledge Organization:<lb/> Guest Editoral<lb/> 
+	
+	<byline>
+	<docAuthor>李鶴立 1<lb/></docAuthor>
+	</byline>
+	
+	
+
+	
+	Hur-Li Lee 1<lb/>
+	
+    1
+	<byline>
+	<affiliation> 美國威斯康辛大學密爾瓦基分校<lb/> </affiliation> 
+	</byline>
+	School of Information Studies, University of Wisconsin-Milwaukee,
+	
+
+	Wisconsin, USA<lb/>
+
+	E-mail:
+	<email>hurli@uwm.edu</email>
+
+		</front>
+	</text>
+</tei>

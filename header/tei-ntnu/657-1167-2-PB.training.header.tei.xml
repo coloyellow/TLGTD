@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="657-1167-2-PB" />
+	</teiHeader>
+	<text xml:lang="et">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.412/657
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>整合公職人員財產巨量資料建構 服務創新之研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>洪國興</docAuthor>
+			</byline>
+			<byline>
+				<affiliation>實踐大學資訊管理學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			E-
+			<email>mail：kshong@mail.kh.usc.edu.tw</email>
+			<byline>
+				<docAuthor>郭展盛 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>開南大學資訊管理系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			E-
+			<email>mail：ecskuo@gmail.com</email>
+			關鍵詞：
+			<keyword>財產申報；巨量資料；資料探勘；服務創新</keyword>
+		</front>
+	</text>
+</tei>

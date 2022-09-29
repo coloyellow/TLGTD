@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="3-31" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 1 (Winter 2015) : 3-31
+
+	網路健康謠言內容分析研究
+			<lb />
+			A Content Analysis of Internet Health Rumors
+			<lb />
+			羅 文 伶 Wen-Ling Lo
+			<lb />
+			Graduate Student
+			<lb />
+			邱 銘 心* Ming-Hsin Phoebe Chiu*
+			<lb />
+			Assistant Professor
+			<lb />
+			E-
+	mail：phoebechiu@ntnu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+
+			<reference>
+				教育資料與圖書館學 52 : 1 (Winter 2015) : 3-31
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.521/0647.RS.BM</idno>
+			a
+			<lb />
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			*通訊作者:
+			<email>
+				phoebechiu@ntnu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2014/08/28投稿；2015/01/06修訂；2015/01/13接受</note>
+			研究論文
+			<docTitle>
+				<titlePart>
+					網路健康謠言內容分析研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>羅文伶</docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>邱銘心 </docAuthor>
+			</byline>
+			b* 
+	摘要
+			<lb />
+			<div type="abstract">
+				本研究採用內容分析法 ，以在網路上所散佈的健康謠言為標的。
+				<lb />
+				從「網路追追追」網站蒐集 295 筆網路健康謠言作為分析樣本 ，探
+				<lb />
+				討其內容特徵與表現方式 、各主題健康謠言內容型態 ，以及查證
+				<lb />
+				屬實為健康資訊與健康謠言的差異。研究發現 ，網路健康謠言常
+				<lb />
+				見主題為保健與預防資訊 ，多數描述一特定行為或食品 / 用品 ，沒
+				<lb />
+				有精確日期及地點；最常採用專業說法及親身體驗為佐證 ，主要目
+				<lb />
+				的為注意 / 警惕 、分享新知；三成採用第一人稱描述；半數謠言的
+				<lb />
+				主要訊息源於親友 、醫師說法 ，及本人經驗。最常採用敘事 、新
+				<lb />
+				聞報導的形式進行敘述 ，對收訊者而言感受上較親切且易讀。查證
+				<lb />
+				屬實的健康資訊與錯誤訊息 ，兩者亦差異不大。本研究的發現期能
+				<lb />
+				作為民眾接收到相關健康資訊時的初步判斷依據 ，以及相關單位進
+				<lb />
+				行衛教活動 、講座活動之參考 ，最終期能提升民眾的健康素養。
+			</div>
+			關鍵詞：
+			<keyword>消費者健康資訊，謠言，健康謠言，內容分析</keyword>
+		</front>
+	</text>
+</tei>

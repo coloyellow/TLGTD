@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j43-6"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第14卷第2期 (2016.12) 頁155-179<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2016.14(2).155<lb/></idno>
+
+	
+	<docTitle>
+	<titlePart>從學術會議論文到期刊論文的延伸出版： 以資訊管理領域為例<lb/></titlePart>
+	</docTitle>
+
+    A Study on How Conference Papers are Extended into Journal<lb/> Articles in the Fields of Information Management<lb/>
+	<byline>
+	<docAuthor>呂昱慧 1 </docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>林雯瑤 2<lb/></docAuthor>
+	</byline>
+	 Yu-Hui Lu 1 , Wen-Yau Cathy Lin 2<lb/>
+	
+
+	摘 要 
+	<div type="abstract">部分社會科學領域期刊在其徵稿須知中提及可接受會議論文的改寫或延伸版本，且指 出需要有新內容、將原始會議論文列在參考文獻中，顯示延伸出版的議題已逐漸受到關<lb/> 注。本研究以ACM EC、ACM KDD與ACM CIKM等三個ACM資管領域重要的國際學術會 議在2011年出版的會議論文為研究對象，分析延伸出版的數量、比率與文獻類型、會議論 文與期刊論文之間出版的時滯，並比較原始會議論文與延伸版本的作者人數、延伸書目對 強度、篇幅、圖表之差異，呈現資管領域延伸出版的狀態。希望能提供資管領域的作者、 期刊編輯與審查者、讀者，在發表研究、審查文章、閱讀及檢索文獻時的參考依據，並增 強對資管領域學術出版型態的瞭解。<lb/></div>
+	 關鍵字： 
+	 <keyword>會議論文、期刊論文、延伸出版、資訊管理 </keyword>
+	 Abstract<lb/>
+	In recent years, some scholarly journals have indicated that they accept rewritten or extended<lb/> version of a conference paper as long as new content are added to the journal article manuscript<lb/> and that the original conference paper is included in the references. The extended publishing of<lb/> conference papers now becomes topic worthy of investigation. This study analyzed the extended<lb/> works of the conference papers from three major conferences in the fields of information management,<lb/> i.e.
+
+	, Association for Computing Machinery (ACM)&apos;s ACM Conference on Electronic Commerce<lb/> (ACM EC), ACM Conference on Knowledge Discovery and Data Mining (ACM KDD), and ACM<lb/> International Conference on Information and
+
+	Knowledge Management (ACM CIKM). Papers from<lb/> the 2011 meetings were used as the sample to understand to what extent conference papers have been<lb/> extended into journal articles and other forms and the lag between conference and journal publishing.<lb/> It also examined the differences between the conference papers and their extended versions (i.e.,<lb/> journal papers) by comparing the changes in authorship, references, article length, tables, and figures.<lb/> It reveals the current practices of extending conference papers for journal publishing in the information<lb/> management fields and may help us understand the contemporary scholarly publishing behavior.<lb/>
+
+	Keywords:
+	Conference Paper; Journal Article; Extended Publication; Information Management<lb/>
+
+	1,2
+	<byline>
+	<affiliation> 淡江大學資訊與圖書館學系<lb/> </affiliation>
+	</byline>
+	Department of Information &amp; Library Science, Tamkang University,
+	
+
+	New Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 林雯瑤Wen-Yau Cathy Lin, E-mail:
+	<email>wylin@mail.tku.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

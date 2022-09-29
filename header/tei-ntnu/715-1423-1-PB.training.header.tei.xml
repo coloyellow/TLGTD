@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="715-1423-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2017.431/715</idno>
+			<docTitle>
+				<titlePart>中國文物分類主題詞表構建方法學芻議 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>黃明玉 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>北京科技大學科技史與文化遺產研究院</affiliation>
+			</byline>
+			副教授
+			<lb />
+			E-mail:
+			<email>
+				claire@ustb.edu.cn
+				<lb />
+			</email>
+			關鍵詞：
+			<keyword>藝術與建築敘詞表；控制詞彙；文化遺產；文物分類；敘詞表／主題詞表； 博物館；知識組織 </keyword>
+			【摘要】
+			<div type="abstract">
+				中國文化遺產與博物館領域朝向數位化發展已是大勢所趨，然在資料標準建設方面仍有待建 立相關規範。本文敘述及討論中國文物分類主題詞表的發展背景及過程，以中國現行文物分類體
+				<lb />
+				系以及美國蓋堤研究中心(GRI)研發的藝術與建築敘詞表為基礎，嘗試發展以中國文物概念為 主體的文物分類主題詞表，現階段為確立方法學與初步框架的先期工作。詞表框架草案設立了材 質、活動、物理特質、風格與時代、物件五個分面，所收錄的概念詞彙擬作為控制詞彙支援文物
+				<lb />
+				元數據相關元素的標準化取值。目前已完成現行分類法的詞彙概念分析，並選取 AAT 相關概念詞 彙共同作為詞表發展基礎，同時確立了備選詞彙來源，提出後續工作組的建置規畫。未來應視使 用者需求繼續完善分類主題詞表分面，並發展其他重要元素的特殊領域控制詞彙，並在詞表維護、 應用與國際化方面建立工作機制。
+			</div>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="680-1334-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2016.422/680
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>數位藝術史研究系統的功能需求之 環境掃描 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳淑君 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>中央研究院歷史語言研究所</affiliation>
+			</byline>
+			助研究員
+			<lb />
+			E-mail:
+			<email>sophy@sinica.edu.tw</email>
+			<byline>
+				<docAuthor>江婉綾 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>加州大學河濱分校藝術史系</affiliation>
+			</byline>
+			博士生 關鍵字：
+			<keyword>數位人文學；數位藝術史；數位研究環境；功能需求 </keyword>
+			【摘要】
+			<div type="abstract">
+	「數位藝術史」一詞，用以指涉數位科技對藝術學門研究慣例所造成的改變，視為數位人文 學的一部分，並在國際間逐漸形成一項重要研究議題。本研究選定八個具有代表性的數位藝術史 系統案例，採用內容分析法歸納個案的系統發展策略，以及系統功能需求。研究結果提出常見的 數位藝術史功能需求包括五個功能構面、十三個類目及三十四個屬性，以及藝術史數位研究環境 的四大趨勢與特點。</div>
+		</front>
+	</text>
+</tei>

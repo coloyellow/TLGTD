@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="311-344" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 3 (2016) : 311-344
+
+	公共圖書館問題讀者行為類型之 探索性研究
+			<lb />
+			An Exploratory Research on
+			<lb />
+			Deviant Behaviors of Problem Patrons in
+			<lb />
+			Taiwan&apos;s Public Library
+			<lb />
+			陳 書 梅 Chen Su-May Sheih
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：synn@ntu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 53 : 3 (2016) : 311-344
+				<lb />
+			</reference>
+
+			<idno>
+				DOI:10.6120/JoEMLS.2016.533/0026.RS.AM
+				<lb />
+			</idno>
+
+
+			<docTitle>
+				<titlePart>公共圖書館問題讀者行為類型之 探索性研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳書梅 </docAuthor>
+			</byline>
+			摘要
+			<lb />
+			<div type="abstract">
+				公共圖書館的讀者類型多元複雜 ，亦可能面臨許多突發及難以處
+				<lb />
+				遇的狀況。倘若遭遇所謂的問題讀者 ，館員即須耗費心力因應
+				<lb />
+				之 ，並因此衍生負面情緒 ，甚或影響工作效能與身心健康。本研
+				<lb />
+				究以台灣地區之 30 位公共圖書館讀者服務館員為對象 ，對彼等進
+				<lb />
+				行半結構式深度訪談 ，以探討公共圖書館之問題讀者具體事例與
+				<lb />
+				行為特徵。研究結果發現 ，公共圖書館讀者服務館員遭遇的問題
+				<lb />
+				讀者 ，其行為特徵可歸納為六種 ，包括干擾他人 、違反館規 、影
+				<lb />
+				響正常館務運作 、不當利用館藏資源與設備 、違反法律 、心理異
+				<lb />
+				常與偏離社會常規等。期能藉由本研究結果 ，深化公共圖書館管
+				<lb />
+				理階層與讀者服務館員對於問題讀者行為類型的了解 ，以作為圖 書館精進讀者服務的參考。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				問題讀者，讀者服務館員，公共圖書館，讀者服務
+				<lb />
+			</keyword>
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			通訊作者：
+			<email>
+				synn@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2016/07/28投稿；2016/09/19修訂；2016/10/12接受</note>
+
+		</front>
+	</text>
+</tei>

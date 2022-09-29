@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="92_5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			The Application of Digital Archives System in Humanities: Taiwanese
+			<lb />
+			Female Power in the Taiwan Sotokufu Personnel Directory 
+			<lb />
+			Li-chiao Wang
+	
+
+	Abstract
+			<div type="abstract">
+				檔案館在數位系統的發展，隨著資訊科技進展，從線上目錄系統、數位典藏系統、整合查 詢平台與知識庫到運用資訊擷取技術挖掘數位內容的關係，已從目錄查詢與館藏取用等檔案 資訊服務，朝向數位人文系統與深化人文研究發展邁進。本研究主要目的在於探討數位系統 在人文研究應用的可能模式。隨著近年來女力崛起現象與相關議題討論，運用中研院臺史所 檔案館所建置之「臺灣總督府職員錄系統」，其收錄日治殖民統治臺灣期間每年編印的職員
+				<lb />
+				錄，自 1896 至 1944 年之完整性、獨特性與連續性的數位名錄資料，分析臺灣女性在日治時 期公務領域的職場發展與變化趨勢。
+				<lb />
+			</div>
+			With the application of digital system rapid growth of online cataloguing, digital archives system,
+			<lb />
+			and meta-search platform, the development of the digital archives system has recently leapt into
+			<lb />
+			humanities research with data mining technology. The study aims to explore the application of digital
+			<lb />
+			archives system in humanities. While female power has been widely discussed, the extensive research
+			<lb />
+			focuses on Taiwanese female power in the Taiwan Sotokufu Personnel Dictionary that provides the
+			<lb />
+			organizational, personnel and payroll information of the colonial administration in Taiwan between
+    
+			<byline>
+				<affiliation> 中央研究院臺灣史研究所</affiliation>
+			</byline>
+			研究副技師兼檔案館主任
+			<lb />
+			Associate Research Specialist &amp; Director of Archives Institute of Taiwan History,
+	
+
+	Academia Sinica
+			<lb />
+			E-mail:
+			<email>
+				lcwang@gate.sinica.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				10:1=92(June &apos;18)44-66
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.201806_(92).0003
+				<lb />
+			</idno>
+			1896 and 1944. These findings may help sensitize the changes of Taiwanese female&apos;s professional
+			<lb />
+			career within official domain.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				數位檔案系統 人文研究 臺灣女力 臺灣總督府職員錄
+				<lb />
+			</keyword>
+			Digital archives system ； Humanities ； Taiwanese female power ； Taiwan Sotokufu
+			<lb />
+			Personnel Directory
+		</front>
+	</text>
+</tei>

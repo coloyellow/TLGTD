@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j42-4"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第14卷第1期 (2016.6) 頁87-114<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2016.14(1).087</idno>
+    <docTitle>
+	<titlePart>從文獻保證原理的角度探討中國古代圖書分類法<lb/></titlePart>
+	</docTitle>
+	
+	
+	Examining Literary Warrant in Ancient Chinese Book<lb/> Classification Systems<lb/>
+	
+
+	<byline>
+	<docAuthor>鄭惠珍 1 陳雪華 2<lb/> </docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>陳雪華 2<lb/></docAuthor>
+	</byline>
+	Hui-Chen Cheng 1 , Hsueh-Hua Chen 2<lb/>
+	
+
+	摘 要 
+	<div type="abstract">本研究嘗試以現代重要的圖書分類理論─文獻保證原理，去探索此理論在中國古代圖 書分類中的應用情況，希望拓展當前對於中國古籍分類的理論性認識。本文首先介紹文獻 保證原理之意義；接著，探討歷代重要之書目分類體系類目設置方式，瞭解其是否體現文 獻保證原理；最後，為本研究之結論。<lb/></div>
+	
+	關鍵字： 
+	<keyword>圖書分類、文獻保證原理、中國古代圖書分類法 </keyword>
+	Abstract<lb/>
+	This study examines the application of literary warrant-a key principle in modern classification<lb/> theory-in traditional Chinese bibliographic classifications for the purpose of improving the<lb/> understanding of classification theory in the Chinese tradition. The concept of literary warrant is first<lb/> briefly discussed. Next, the author analyzes a number of selected book classification systems from<lb/> premodern China to determine whether literary warrant is a factor in their design and how it is applied.<lb/> This paper concludes with a summary of the findings.<lb/>
+
+	Keywords:
+	Book Classification; Principle of Literary Warrant; Chinese Ancient Book Classification Systems<lb/>
+    1
+	<byline>
+	<affiliation> 國家圖書館館藏發展及書目管理組<lb/> </affiliation>
+	</byline>
+	Collection Development and Bibliography Management Division, National Central Library,
+	
+
+	Taipei, Taiwan 輔仁大學進修部圖書資訊學系<lb/>
+
+	
+	CEBA Program, Department of Library and Information Science, Fu Jen Catholic University,
+	
+
+	New<lb/> Taipei, Taiwan<lb/>
+    2
+	<byline>
+	<affiliation> 國立臺灣大學圖書資訊學系<lb/> </affiliation> 
+	</byline>
+	Department of Library and Information Science, National Taiwan University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 鄭惠珍Hui-Chen Cheng, E-mail:
+	<email>hcc@mail.sju.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="721-1421-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2017.431/721
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>
+					以知識本體和鏈結資料建置圖書資訊學
+					<lb />
+					領域學者的事業歷程網站系統
+					<lb />
+					-以王振鵠教授為例
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>符興智 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			E-mail:
+			<email>felixfu007@gmail.com</email>
+			<byline>
+				<docAuthor>柯皓仁 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			E-mail:
+			<email>clavenke@ntnu.edu.tw</email>
+			關鍵詞：
+			<keyword>王振鵠；圖書資訊學；鏈結資料；知識本體；語意網 </keyword>
+			【摘要】
+			<div type="abstract">
+				王振鵠教授被認為是影響臺灣圖書館領域深遠的學者，其在任職國家圖書館館長期間建樹良 多，同時也培養出許多傑出人才。本研究運用知識本體和鏈結資料技術，分析王教授的生平事蹟
+				<lb />
+				與學術貢獻，設計出一套總計 26 個類別、29 項屬性、720 件實例與 3,645 條三元組的知識本體， 用來描述王教授的事業歷程，並據此建置描述臺灣圖書資訊學領域學者事業歷程的網站，除提供 瀏覽、搜尋、關聯等功能之外，亦能透過取用或下載知識本體，使本網站成為鏈結資料的提供者。
+				<lb />
+				為了測試網站效率，本研究召募 74 名圖書資訊學研究生與圖書館館員進行四項驗證知識本體關 聯性的任務測試，測試結果顯示，在一般性任務的任務一與任務二當中，本研究網站明顯快於對 照組的傳統網站；在搜尋語意經過自然語言特殊處理的任務三中則兩者無異；而需要使用者應用 超連結的任務四則結果相反。研究結果顯示若要提升本研究知識本體網站的有用性，仍需在介面 上有所改善。未來除針對介面加以改善外，還期望能擴展知識本體的收納範圍，建立領域研究者 的知識本體。
+			</div>
+		</front>
+	</text>
+</tei>

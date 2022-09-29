@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-2-5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：2 (June 2016)：181-228
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 9 月 21 日；接受日期：2016 年 1 月 29 日
+				<lb />
+			</note>
+			Email：唐牧群
+Í
+			<email>muhchyun.tang@gmail.com</email>
+			；謝伊柔
+			<email>
+				angel2004ntu@gmail.com
+				<lb />
+			</email>
+
+
+			<docTitle>
+				<titlePart>
+					社會導覽工具評估之研究： 以亞馬遜網路書店為例
+					<lb />
+				</titlePart>
+			</docTitle>
+			Evaluation of Social Navigation-Based Book Finding
+			<lb />
+			Tools: A Case Study of Amazon.com
+			<byline>
+				<docAuthor>
+					唐牧群
+					<lb />
+				</docAuthor>
+			</byline>
+			Muh-Chyun Tang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>
+					謝伊柔
+					<lb />
+				</docAuthor>
+			</byline>
+			Yi-Jo Hsieh
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學外國語文學系暨研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			Ph.D. Student
+			<lb />
+			Department and Graduate Institute of Foreign Languages and Literatures,
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				本研究嘗試為線上尋書導覽工具設計一套結合主觀認知及客 觀效能的評估方法，並且以實驗法比較一般主題導覽管道和社會
+				<lb />
+				性導覽管道。所使用的評估面向分為使用者對尋書經驗的主觀感
+				<lb />
+				受，以及對搜尋結果的評價。其中搜尋結果的評估採取了「選擇 集合」模型，其優點在於能夠同時考慮尋書結果的精確性和新穎
+				<lb />
+				性。此外也考慮了使用者對不同尋書管道的主觀感受，包括不可 替代性、滿意度、是否能幫助尋找到更多有趣的衍生作品以及擴
+				<lb />
+				展閱讀視野等。本研究之發現：當受試者以社會性導覽工具進行 尋書任務時比較能夠帶給受試者有趣的瀏覽經驗，能夠幫助受試
+				<lb />
+				者認識更多新穎且有趣的書籍，並且幫助他們更容易判斷書籍的 品質。
+				<lb />
+			</div>
+			The study applied a set of novel criteria to compare search
+			<lb />
+			effectiveness and user experiences between subject-based and social
+			<lb />
+			navigational tools in an online bookstore setting. Two mock interfaced
+			<lb />
+			were created using data retrieved from Amazon.com. The baseline
+			<lb />
+			interface afforded subject and author search whereas the experimental
+			<lb />
+			interface provided collaborative filtering generated recommendations.
+			<lb />
+			A 2 x 2 Latin-square design was adopted where the interfaces and the
+			<lb />
+			genres served as the within-subject factors. A total of 30 participants
+			<lb />
+			took part in the study where they were asked to perform two searches,
+			<lb />
+			one fiction, the other, non-fiction, from a &quot;seed&quot; book of their
+			<lb />
+			choosing. Both subjective and objective criteria were used to evaluate
+			<lb />
+			performance. The objective criteria were based on &quot;choice set&quot; model
+			<lb />
+			in marketing where the performance was measured by the ratios
+			<lb />
+			between itemed chosen by and made aware to the users. The social
+			<lb />
+			navigational tool was shown to be more effective in terms of brings
+			<lb />
+			more interesting titles to users&apos; attention. The participants also reported
+			<lb />
+			to gain more knowledge about the related literature and achieve higher
+			<lb />
+			user satisfaction when using the social navigation tool. No interaction
+			<lb />
+			effect was found between the interface and genre factors except the
+			<lb />
+			consideration and awareness ratio. The methodological implications
+			<lb />
+			for future evaluation were discussed.
+			<lb />
+			【關鍵字 Keywords】
+			<keyword>
+				社會性導覽；推薦系統；系統評估
+				<lb />
+			</keyword>
+			Social navigation; System evaluation; Recommender system; User experience
+		</front>
+	</text>
+</tei>

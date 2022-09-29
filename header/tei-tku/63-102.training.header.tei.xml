@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="63-102" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 1 (Winter 2016) : 63-102
+
+	台灣政府開放資料之 詮釋資料建置探討
+			<lb />
+			The Construction of Metadata for Open
+			<lb />
+			Government Data in Taiwan
+			<lb />
+			歐 俐 伶 Li-Ling Ou
+			<lb />
+			Graduate Student
+			<lb />
+			楊 東 謀* Tung-Mou Yang*
+			<lb />
+			Assistant Professor
+			<lb />
+			E-
+	mail：tmyang@ntu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+			<reference>
+				教育資料與圖書館學 53 : 1 (Winter 2016) : 63-102
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2016.531/0043.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					台灣政府開放資料之 詮釋資料建置探討
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>歐俐伶 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>楊東謀 </docAuthor>
+			</byline>
+			b* 摘要
+			<lb />
+			<div type="abstract">
+				我國政府近年來積極推行政府開放資料 ，並於 2013 年將資料開放
+				<lb />
+				平台上線提供公眾使用。現階段開放資料釋出的主要障礙之一 ， 即是使用者如何取用到合適的資料集。然目前開放資料的詮釋資
+				<lb />
+				料文獻較為有限 ，因此本研究以開放資料為研究場域 ，初步探
+				<lb />
+				討詮釋資料的類型與建構歷程 ，並綜整他國開放資料之詮釋資料
+				<lb />
+				架構 ，提出初始研究架構。後續本研究透過訪談方式取得實證資
+				<lb />
+				料 ，從開放資料承辦人員的角度分析調整初始研究架構 ，整合之
+				<lb />
+				最終結果為 31 個詮釋資料建議欄位。此外 ，本研究亦針對詮釋資
+				<lb />
+				料欄位設計細節與相關實務提出建議 ，可作為我國政府推行開放
+				<lb />
+				資料的參考 ，以期建立一套我國政府開放資料所專屬之詮釋資料
+				<lb />
+				架構 ，協助開放資料的推廣與取用。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				詮釋資料，開放資料，資料開放平台，公務文化，開放 政府 a
+				<lb />
+			</keyword>
+			<byline>
+				<affiliation>臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				tmyang@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2015/11/18投稿；2016/02/19修訂；2016/02/20接受</note>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="157-190" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 2 (Spring 2015) : 157-190
+
+	網路醫師評價之 結構與內容特徵分析研究
+			<lb />
+			Investigating the Structural and
+			<lb />
+			Textual Characteristics of
+			<lb />
+			Internet Physicians Review
+			<lb />
+			邱 銘 心* Ming-Hsin Phoebe Chiu*
+			<lb />
+			Assistant Professor
+			<lb />
+			E-
+	mail：phoebechiu@ntnu.edu.tw
+			<lb />
+			張 家 翎 Chia-Ling Chang
+			<lb />
+			Graduate Student
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 2 (Spring 2015) : 157-190
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.522/0001.RS.AM</idno>
+
+			<lb />
+			<docTitle>
+				<titlePart>
+					網路醫師評價之 結構與內容特徵分析研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>邱銘心 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>張家翎 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				網友在網路上所發表的網路醫師評價 ，是讓病患與家屬在面對醫
+				<lb />
+				師選擇時 ，取得更多主導權的一種消費者健康資訊類型。本研究
+				<lb />
+				搜集來自 「良醫健康網」與 「尋醫網」之網友對於醫師的文字評價 ，
+				<lb />
+				依據 24 個醫療科別隨機各抽樣 50 則評價 ，共計 1,200 則評價進行
+				<lb />
+				內容分析。分析主題就網路醫師評價的結構特徵(評價長度與分段
+				<lb />
+				方式)與內容特徵(評價屬性、評價時間點、評價策略、評價動機 ，
+				<lb />
+				與評價面向)兩個面向進行分析。研究結果希望可藉助病患對於醫
+				<lb />
+				師的主觀評價 ，了解網路口碑在醫療與健康資訊傳播的角色與功
+				<lb />
+				能以及在臨床醫學的應用面向 ，進一步支援病患與家屬在進行醫
+				<lb />
+				療決策選擇時的參考依據。另一方面 ，則得以建立有別於醫療機 構觀點的醫療品質評價指標。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				網路醫師評價，內容分析法，就醫選擇資訊，網路口碑 a
+				<lb />
+			</keyword>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				phoebechiu@ntnu.edu.tw
+				<lb />
+			</email>
+
+
+			<note type="submission">2015/01/08投稿；2015/03/21修訂；2015/03/24接受</note>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="103-133" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 1 (Winter 2016) : 103-133
+
+	應用大眾史學共建淡水記憶之 數位人文協作系統
+			<lb />
+			Applying Public History to Co-build the Digital
+			<lb />
+			Humanities Collaboration System of Tamsui&apos;s Memory
+			<lb />
+			林 信 成* Sinn-Cheng Lin*
+			<lb />
+			Professor
+			<lb />
+			E-mail：
+	sclin@mail.tku.edu.tw
+			<lb />
+			陳 美 聖 Mei-Sheng Chen
+			<lb />
+			Research Assistant
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 53 : 1 (Winter 2016) : 103-133
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2016.531/0039.RS.CM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					應用大眾史學共建淡水記憶之 數位人文協作系統
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>林信成</docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>陳美聖 </docAuthor>
+			</byline>
+			b 
+	摘要
+			<lb />
+			<div type="abstract">
+				淡水自古即為台灣歷史發展之重鎮 ，淡水史可謂台灣史極重要的
+				<lb />
+				部分 ，四百餘年來豐富多元的文化資產 、歷史風貌 ，非常值得
+				<lb />
+				加以有組織 、有系統的研究 、保存 、推廣與應用。本研究本著
+				<lb />
+				大眾史學的精神 ，藉由與專業史家 、大眾史家和網路社群共同合
+				<lb />
+				作 ，善用數位科技 、影音媒體 、空拍技術等 ，並結合 Web 2.0 中
+				<lb />
+				的 Wiki 平台 ，攜手建構一個可供眾人參與淡水學書寫的數位人文
+				<lb />
+				協作系統 ，發揮大眾共寫淡水地方史的能量 ，共建淡水記憶 ，使
+				<lb />
+				淡水學知識建構工作能更有效開展。本系統可協助歷史學者 、文
+				<lb />
+				史工作者 、史蹟導覽者及社會大眾 ，更有效率的探索淡水在地知
+				<lb />
+				識 、文化源流 、社會變遷 、地景地貌 、生態環境與重要歷史事 蹟；同時亦期望其成果可供相關研究者做為學術研究之參考。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>數位人文，大眾史學，淡水學，Wiki協作 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			b
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			研究助理
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				sclin@mail.tku.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2015/11/02投稿；2016/01/07修訂；2016/01/20接受</note>
+
+		</front>
+	</text>
+</tei>

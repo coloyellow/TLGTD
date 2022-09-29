@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="646-1116-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.411/646
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>引用錯誤、二次引用與對「臺灣人文 及社會科學引文索引資料庫」之建議 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>劉任昌 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>德明財經科技大學財金系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			E-mail：
+			<email>robertjcliu@gmail.com</email>
+			<byline>
+				<docAuthor>葉馬可 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>德明科大應用外語系</affiliation>
+			</byline>
+			講師
+			<lb />
+			E-mail：
+			<email>
+				my@takming.edu.tw
+				<lb />
+			</email>
+			關鍵詞：
+			<keyword>二次引用；引用錯誤；管理學報；著作權法；臺灣人文及社會科學引文索引資料庫 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				本研究追蹤實際案例，闡述學術論文之「引
+				<lb />
+				用錯誤」透過後續研究者之「二次引用」，而
+				<lb />
+				導致連鎖負面效應。本研究比較引文索引資料
+				<lb />
+				庫 Scopus、WOS 與本土 TCI-HSS 系統對引
+				<lb />
+				用錯誤之處理政策，進而主張 TCI-HSS 應該
+				<lb />
+				仿照 WOS 系統，訂正引文錯誤紀錄，以減低
+				<lb />
+				研究者因為擷取 TCI-HSS 引文資訊當作參考
+				<lb />
+				文獻，而導致引用錯誤之機率。若本文之建議
+				<lb />
+				得以落實，可以讓研究者警覺引文索引資訊與
+				<lb />
+				原文參考文獻之差異，而提醒研究者進行二次
+				<lb />
+				引用所可能導致之風險。本文再從著作權法角
+				<lb />
+				度，闡述引文索引資料庫訂正引用錯誤之合法
+				<lb />
+				性與正當性。至於臺灣博碩士論文系統之論文
+				<lb />
+				引用錯誤，則基於保全「學位論文考試結果」
+				<lb />
+				之論點，本研究主張博碩士論文系統維持現行
+				<lb />
+				政策。本研究也釐清過去學者爭論之「二次引 用」與「引文不規範」議題。
+			</div>
+		</front>
+	</text>
+</tei>

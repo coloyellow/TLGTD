@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="92_4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			1946-2016
+			<lb />
+			A Digital Humanities Research on the Method for Periodization of
+			<lb />
+			History: The Example Based on the Shenzhen-related News Reports in
+			<lb />
+			the People&apos;s Daily (1946-2016
+
+	) 
+			<lb />
+			Wei-Yun Chiu 
+			<lb />
+			Yin-Yee Leong
+	
+
+	
+			<lb />
+			Aaron Hsu
+	
+
+	Abstract
+			<div type="abstract">
+				本文研究目的是希望能從數位人文研究的角度，提出一種質量並重的歷史分期法，以有
+				<lb />
+				別於過去多從個人主觀視角出發進行定性的歷史分期工作。本文以 1946-2016 年間《人民日
+				<lb />
+				報》中所有標題中包含「深圳」一詞的報導文章為研究範圍，共有 3,203 篇，運用(1)人工主觀
+			</div>
+			
+			<lb />
+			<byline>
+				<affiliation>
+					山東大學歷史文化學院歷史學系
+					<lb />
+				</affiliation>
+			</byline>
+			副研究員
+			Associate Professor, Department of Modern Chinese History, Shandong University
+			<lb />
+			E-mail:
+			<email>
+				brianchiu@sdu.edu.cn
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation> 逢甲大學風險管理與保險學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			Assistant Professor, Department of Risk Management &amp; Insurance, Feng Chia University
+			<lb />
+			E-mail:
+			<email>yyleong@fcu.edu.tw</email>
+			,
+			<lb />
+			
+			<byline>
+				<affiliation>英國曼徹斯特大學應用社會研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			Ph. D student, Applied Social Research, The University of Manchester
+			<lb />
+			E-mail:
+			<email>
+				aaron.hsu@postgrad.manchester.ac.uk
+				<lb />
+			</email>
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				10:
+				1=92 (June &apos;18) 22-43
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.201806_(92).0002
+				<lb />
+			</idno>
+
+			<div type="abstract">
+				分期；(2)數值高峰分期；(3)關鍵詞叢異同分期等三種方法，對為期 70 年的涉深報導進行分期 工作。在研究過程中發現，上述三種分期法雖都可進行歷史分期工作，然皆有其侷限性，即這 些分期法都含有個人主觀性，在進行分期工作時往往因人而異。因此，本文提出第四種歷史 分期法，嘗試以量化數據作為客觀分期之標準，為長時段的歷史研究提供一分期工作上的新 方法與新視野，此即為本文研究結果與價值所在。
+				<lb />
+			</div>
+			This study aims to provide a method of historical periodization based on digital humanities that
+			<lb />
+			could better combine qualitative and quantitative analysis than previous ones. This study singled out
+			<lb />
+			3,203 news reports in the People&apos;s Daily, 1946 to 2016, whose headlines contained &quot;Shenzhen&quot; and
+			<lb />
+			respectively applied 1) artificial periodization, 2) peak number periodization, and 3) keyword cluster
+			<lb />
+			periodization to these Shenzhen-related news reports. The results show that three methods of
+			<lb />
+			periodization respectively have their limitations on objectivity. This paper thus suggests an automatic
+			<lb />
+			periodization based on quantitative datasets and this data-driven method could provide a novel
+			<lb />
+			perspective for the long-term historical analysis in the future.
+			<lb />
+			Keyword 關鍵詞
+			<lb />
+			<keyword>
+				深圳 人民日報 歷史分期 轉折點偵測 數位人文
+				<lb />
+			</keyword>
+			Shenzhen ； People&apos;s Daily ； History periodization ； Change point problem ； Digital humanities
+		</front>
+	</text>
+</tei>

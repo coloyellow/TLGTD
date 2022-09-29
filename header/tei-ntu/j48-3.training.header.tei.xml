@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j48-3"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第17卷第1期 (2019.6) 頁83-116<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.201906_17(1).083</idno>
+
+	
+
+	<docTitle>
+	<titlePart>視障及聽障者取用圖書館網頁資訊之無障礙分析<lb/></titlePart>
+	</docTitle>
+    Assessing Library Web Accessibility for Visually or<lb/> Hearing Impaired People<lb/> 
+    
+	<byline>
+	<docAuthor>林巧敏 1<lb/></docAuthor>
+	</byline>
+     Chiao-Min Lin 1<lb/>
+	摘 要 
+	<div type="abstract">資訊時代各種資訊以數位形式透過網際網路提供，肩負資訊典藏與終身學習角色之圖 書館，應該確保所提供之網站資訊可滿足所有讀者之自由取用。本文主要探討新版之網站 無障礙規範實施後，我國國立及公共圖書館網站符合規範要求的情形，研究設計以新版檢 測工具找出圖書館網頁無障礙設計的共同問題，並藉由使用者實測觀察分析與訪談，瞭解 視聽障礙者利用閱讀輔具實際瀏覽圖書館網站的意見。研究發現檢測網站的無障礙問題， 主要是網頁圖片、表格與網站標題缺乏替代文字說明，也欠缺配合閱讀輔具功能設計，致使 視聽障礙者無法順利讀取網頁資訊。研究建議圖書館網頁內容儘量減少無資訊意義的動畫設 計，並經由視聽障礙者實測修正網頁設計問題，以協助圖書館提升網頁資訊之可及性。<lb/></div>
+	關鍵字： 
+	<keyword>無障礙網頁、無障礙測試、公共圖書館 </keyword>
+	Abstract<lb/>
+	In information society, much information resides in digitalized form on the World Wide Web.<lb/> Being an information repository and lifelong education roles, libraries shall ensure their website and<lb/> information system accessibility for all people. In order to understand the websites of libraries meet<lb/> the norms of barrier-free standard after the new version released. This paper attempts to find common<lb/> problems of web accessibility design in national and public libraries by using an automatic assessment<lb/> tool. The observational method and interview of visually or hearing impaired people will be conducted<lb/> to collect the uses&apos; experience and opinions by using assistive technologies of library webpages. The<lb/> results indicate that the typical barriers in library webpages are in pictures, forms and website headers<lb/> without additional text and alternative information. The function of assistive technologies was not<lb/> included in the library website design. According to the study, libraries can improve the accessibility<lb/> of their web presence by reducing valueless animation design and by inviting the disabled community<lb/> participating in usability testing of library website. Applying the solution will help to improve library<lb/> web accessibility for the people with disabilities.<lb/>
+
+	Keywords:
+	Web Accessibility; Accessibility Testing; Public Libraries<lb/>
+    1
+	<byline>
+	<affiliation> 國立政治大學圖書資訊與檔案學研究所<lb/> </affiliation>
+	</byline>
+	Graduate Institute of Library, Information and Archival Studies, National Chengchi University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	E-mail:
+	<email>cmlin@nccu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

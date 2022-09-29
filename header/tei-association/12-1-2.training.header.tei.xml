@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-1-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：1 (December 2017)：37-78
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					概念導向閱讀教學(CORI)對 國中生閱讀投入影響之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			A Research of Effects upon Reading Engagement Using
+			<lb />
+			CORI in Middle School in Taiwan
+			<byline>
+				<docAuthor>陳昭珍</docAuthor>
+			</byline>
+			✽
+			<lb />
+			Chao-Chen Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					林吟燕
+					<lb />
+				</docAuthor>
+			</byline>
+			Yin-Yen Lin
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					陳雅萍
+					<lb />
+				</docAuthor>
+			</byline>
+			Ya-Ping Chen
+			<lb />
+			<byline>
+				<affiliation>
+					臺北市立西松高中附屬國中部
+					<lb />
+				</affiliation>
+			</byline>
+			Taipei Municipal XiSong Senior High School
+			<lb />
+			✽ 通訊作者 : 陳昭珍
+			<email>
+				joycechaochen@gmail.com
+				<lb />
+			</email>
+			<note type="submission">
+	投稿日期：2017 年 3 月 29 日；接受日期：2017 年 8 月 20 日 
+	</note>
+			<byline>
+				<docAuthor>
+					高榛澧
+					<lb />
+				</docAuthor>
+			</byline>
+			Zhen-Li Gao
+			<lb />
+
+			<byline>
+				<affiliation>
+					臺南市立復興國中
+					<lb />
+				</affiliation>
+			</byline>
+			Tainan Municipal Fusing Junior High School
+			<byline>
+				<docAuthor>
+					張羽芳
+					<lb />
+				</docAuthor>
+			</byline>
+			Yu-Fang Chang
+			<lb />
+
+			<byline>
+				<affiliation>
+					國立臺灣師範大學圖書資訊學研究所
+					<lb />
+				</affiliation>
+			</byline>
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					梁鴻栩
+					<lb />
+				</docAuthor>
+			</byline>
+			Hong-Shiu Liang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				閱讀投入(reading engagement)是影響學習表現和閱讀
+				<lb />
+				能力的重要因素，閱讀投入度愈高，閱讀成就及在校成績
+				<lb />
+				愈高。閱讀投入包括閱讀動機、閱讀行為與閱讀策略三個面
+				<lb />
+				向。概念導向閱讀教學(CORI)是美國國家閱讀研究中心
+				<lb />
+				(NRRC)所發展的閱讀教學框架，希望利用此框架引導學
+				<lb />
+				生投入閱讀，從提高動機開始，進而強化閱讀策略的使用。
+				<lb />
+			</div>
+			<div type="abstract">
+				CORI 在美國已被證明是可提升學生閱讀投入的教學法，但
+				<lb />
+				對以升學為目標的台灣國中生是否也有效，教師及學生對此
+				<lb />
+				種深度閱讀教學模式的反應如何，是值得研究的問題。因此，
+				<lb />
+				本研究以準實驗研究設計，邀請兩位兩所國中教師，由同一
+				<lb />
+				位教師進行實驗組及控制組之閱讀教學，實驗組採用 CORI 閱讀教學，控制組採一般常用的閱讀策略教學。教學實施前
+				<lb />
+				後，以問卷調查學生的閱讀投入度，實驗結束後也訪談兩位
+				<lb />
+				教師，瞭解學生的反應及教師的教學心得。研究結果發現，
+				<lb />
+				實施八週 CORI 閱讀教學後，在閱讀動機整體構面，實驗組
+				<lb />
+				顯著優於控制組，但在閱讀行為及閱讀策略方面未達顯著差
+				<lb />
+				異。此外根據教師的觀察，發現學生對於 CORI 這種探索式
+				<lb />
+				課程感到有趣，但由於學生對於初次接觸的策略不熟悉，在
+				<lb />
+				閱讀策略的運用上，稍有挫折感，不過會將所學到的策略應 用於後來的學習。
+				<lb />
+			</div>
+			Reading engagement is an important factor that influences
+			<lb />
+			student&apos;s reading performance and reading ability. Students with higher
+			<lb />
+			degree of reading engagement perform higher learning achievement.
+			<lb />
+			Reading engagement contains three aspects: reading motivation,
+			<lb />
+			reading behavior and reading strategies. Concept-Oriented Reading
+			<lb />
+			Instruction (CORI) is a reading instructional framework developed by
+			<lb />
+			the National Reading Research Center (NRRC). This framework is
+			<lb />
+			aimed to encourage students&apos; reading engagement, inspiring reading
+			<lb />
+			motivation first and then strengthening the use of learning strategies.
+			<lb />
+			Research studies in the United States have shown the effectiveness
+			<lb />
+			of CORI on deepening students&apos; reading engagement. However,
+			<lb />
+			this study is interested in whether CORI has the same effect in the
+			<lb />
+			examination-dominated culture as in Taiwan. This study took quasi-
+			<lb />
+			experimental design. Two teachers from different junior high schools
+			<lb />
+			participated in this study. Each of them taught experiment group and
+			<lb />
+			control group in their school. CORI was conducted in experiment class
+			<lb />
+			and reading strategy pedagogy in control class. Reading engagement
+			<lb />
+			questionnaires were distributed before and after the experiment. Both
+			<lb />
+			participated teachers were interviewed after the experiment to collect
+			<lb />
+			students&apos; reaction and teachers&apos; reflection. This study shows that,
+			<lb />
+			after eight weeks, the experiment group is superior to control group
+			<lb />
+			in reading motivation with statistical significance. However, there is
+			<lb />
+			no statistical significant difference in reading behavior and reading
+			<lb />
+			strategies. According to teachers&apos; observation, students enjoyed and
+			<lb />
+			were interested in inquiry teaching like CORI. Though felt frustrated
+			<lb />
+			in the application of reading strategies at the beginning, they soon
+			<lb />
+			learned how to applied strategies in later learning.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				概念導向閱讀教學；閱讀投入；閱讀動機；閱讀行為；閱讀策略
+				<lb />
+			</keyword>
+			Concept-Oriented Reading Instruction; CORI; Reading engagement;
+			<lb />
+			Reading motivation; Reading behavior; Reading strategy
+		</front>
+	</text>
+</tei>

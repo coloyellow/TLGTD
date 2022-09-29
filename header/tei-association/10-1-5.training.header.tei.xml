@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-1-5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：1 (December 2015)：171-211
+				<lb />
+			</reference>
+			通訊作者 : 林奇秀
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2015 年 10 月 22 日 接受日期：2015 年 12 月 7 日
+				<lb />
+			</note>
+			Email：林奇秀
+			<email>
+				chishioulin@ntu.edu.tw
+			</email>
+			；黎慧雯
+			<email>
+				huei0809@gmail.com
+				<lb />
+			</email>
+			<docTitle>
+				<titlePart>大學圖書館行動應用程式的 發展概況與使用者需求研究</titlePart>
+			</docTitle>
+
+			<lb />
+			A Study of the University Library Apps and
+			<lb />
+			User Needs in Taiwan
+			<lb />
+			<byline>
+				<docAuthor>
+				黎慧雯
+				</docAuthor>
+			</byline>
+			Hui-Wen Li
+			<lb />
+			<byline>
+				<affiliation>
+					國立臺灣大學圖書資訊學系暨研究所研究生
+					<lb />
+				</affiliation>
+			</byline>
+			Graduate Student
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			<byline>
+				<docAuthor>
+				林奇秀
+				</docAuthor>
+			</byline>
+			Chi-Shiou Lin
+			<lb />
+
+			<byline>
+				<affiliation>
+					國立臺灣大學圖書資訊學系暨研究所副教授
+					<lb />
+				</affiliation>
+			</byline>
+			Associate Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				行動應用程式(App)是行動載具上的主要服務型態，但統
+				<lb />
+				計資料顯示國內大學圖書館透過 App 提供服務的狀況並不普及，
+				<lb />
+				網路商店中，圖書館 App 的低下載次數也顯示使用狀況不佳。為
+				<lb />
+				深入瞭解國內大學圖書館 App 的發展及使用者需求與期待，本研 究以調查法來瞭解國內大專院校圖書館提供行動服務的狀況，以
+				<lb />
+				內容分析法探索目前現有圖書館 App 的功能與內容，並以焦點團
+				<lb />
+				體及深度訪談來歸納比較學生及館員對 App 功能、內容與系統設 定等三大面向的意見異同。
+				<lb />
+			</div>
+			Mobile applications (apps) are now the major service delivery
+			<lb />
+			channel in mobile devices. However, previous statistics shows that
+			<lb />
+			few university libraries had provided apps services in Taiwan. Recent
+			<lb />
+			statistics from the major app stores also shows low popularity of
+			<lb />
+			library apps. To understand what has been done and what users
+			<lb />
+			expect in library apps, this study surveyed all of the university and
+			<lb />
+			college libraries to see whether and how mobile services and apps are
+			<lb />
+			provided in university libraries. Content analysis of the existing apps
+			<lb />
+			further revealed the functionalities and information content offered via
+			<lb />
+			this new type of service mode. To understand what users expect from
+			<lb />
+			library apps and how realistics the expectations are in implementation,
+			<lb />
+			this study futher conducted focus groups and in-depth interview
+			<lb />
+			respectively on graduate students and university librarians to compare
+			<lb />
+			and contrast the ideas and suggestions regarding the functionalities,
+			<lb />
+			content, and system settings of university library apps.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				行動應用程式；圖書館行動服務；大學圖書館
+				<lb />
+			</keyword>
+				Mobile applications (Apps); Mobile library services; University libraries
+
+		</front>
+	</text>
+</tei>

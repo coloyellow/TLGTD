@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11-1-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 11：1 (December 2016)：1-46
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					公共圖書館讀者服務館員遭遇 問題讀者之情緒勞務研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			The Emotional Labor of Public Service Librarians
+			<lb />
+			Encountered Problem Patrons in Taiwan&apos;s Public
+			<lb />
+			Libraries: A Quantitative Study
+			<byline>
+				<docAuthor>
+					陳書梅
+					<lb />
+				</docAuthor>
+			</byline>
+			Chen Su-may Sheih
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				公共圖書館的讀者服務館員係高情緒勞務工作者，館員的情
+				<lb />
+				緒勞務攸關圖書館的整體形象與服務品質。倘若遭遇問題讀者， 則館員更需付出情緒勞務，可能使之產生情緒耗竭的現象。有鑑 於此，本研究首先運用半結構式深度訪談法，探討讀者服務館員
+				<lb />
+				遭遇的問題讀者類型；之後，則奠基於訪談結果編製問卷，由情 緒勞務層面切入，針對分佈於臺灣各縣市的公共圖書館讀者服務 館員，進行研究，探討館員遭遇問題讀者之頻次、問題讀者對館
+				<lb />
+				員工作情緒的影響、館員處遇問題讀者之情緒勞務，以及遭遇問
+				<lb />
+				題讀者頻次、工作情緒、情緒勞務負荷與情緒耗竭之間是否有關 聯性。限於期刊篇幅，本文僅呈現量化的問卷調查結果。
+				<lb />
+				研究結果發現，館員處遇問題讀者之情緒勞務居高，而館員 遭遇問題讀者的頻次、問題讀者對於館員工作情緒的影響、館員
+				<lb />
+			</div>
+			<note type="submission">
+				投稿日期：2016 年 8 月 3 日；接受日期：2016 年 10 月 31 日
+				<lb />
+			</note>
+			Email：陳書梅
+			<email>
+				synn@ntu.edu.tw
+				<lb />
+			</email>
+
+			<div type="abstract">
+				的情緒耗竭皆居中等程度。另外，遭遇問題讀者頻次對館員情緒 耗竭程度具正向顯著影響力，問題讀者對館員工作情緒的影響則
+				<lb />
+				與館員情緒耗竭程度有正向顯著關係，而處理個人負面情緒構面
+				<lb />
+				會正向顯著影響館員之情緒耗竭程度，但表達個人正面情緒對情 緒耗竭程度具有負向顯著的影響力。
+				<lb />
+			</div>
+			For public service librarians, emotional labor refers to their
+			<lb />
+			devoting considerable effort to controlling their emotions in order
+			<lb />
+			to maintain the library image and provide patrons with satisfactory
+			<lb />
+			service. Librarians perform considerable emotional labor when
+			<lb />
+			encountering problem patrons while engaging in library tasks.
+			<lb />
+			However, emotional labor endured for extended periods may cause
+			<lb />
+			librarians to experience emotional exhaustion, which further leads
+			<lb />
+			to negative conditions such as fatigue or losing emotional resources
+			<lb />
+			completely. By administering a questionnaire and using public service
+			<lb />
+			librarians as subjects, this study explored the concerns about problem
+			<lb />
+			patrons from the aspect of emotional labor. According to the results,
+			<lb />
+			librarians perform high levels of emotional labor when encountering
+			<lb />
+			problem patrons, whereas the frequency of their encountering problem
+			<lb />
+			patrons, the influence of problem patrons on their emotions, and the
+			<lb />
+			degree of emotional exhaustion are at moderate levels. Furthermore,
+			<lb />
+			the frequency of encountering problem patrons positively and
+			<lb />
+			noticeably influences the degree of emotional exhaustion. There is
+			<lb />
+			a positive correlation between the influence of problem patrons on
+			<lb />
+			the emotions and emotional exhaustion of librarians. In addition,
+			<lb />
+			controlling negative emotions positively influences emotional
+			<lb />
+			exhaustion among librarians, but expressing one&apos;s positive emotions
+			<lb />
+			negatively influences the extent of emotional exhaustion.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				問題讀者；讀者服務館員；情緒勞務；公共圖書館
+				<lb />
+			</keyword>
+			Problem patron; Challenging patron; Public service librarian; Emotional labor;
+			<lb />
+			Public library
+		</front>
+	</text>
+</tei>

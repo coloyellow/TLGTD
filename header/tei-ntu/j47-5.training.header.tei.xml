@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j47-5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學刊 第16卷第2期 (2018.12) 頁135-164
+				<lb />
+			</reference>
+
+			<idno>doi: 10.6182/jlis.201812_16(2).135</idno>
+
+
+			<docTitle>
+				<titlePart>
+					從社會支持觀點探討愛滋線上匿名諮詢問答
+					<lb />
+				</titlePart>
+			</docTitle>
+			Exploring Anonymous Online AIDS Q&amp;A Services:
+			<lb />
+			A Social Support Perspective
+			<lb />
+
+			<byline>
+				<docAuthor>
+					宜琳 1 
+				</docAuthor>
+			</byline>
+			<byline>
+			<docAuthor>邱銘心 2<lb /></docAuthor>
+			</byline>
+			Yi-Ling Wen 1 , Ming-Hsin Phoebe Chiu 2
+			<lb />
+			摘 要
+			<div type="abstract">
+				隨著醫療技術進步，愛滋病逐漸慢性病化，感染者所關心的議題逐漸轉為權益相關； 但因疾病之特殊性，大部分感染者注重其隱私，因而大多使用網際網路取得資訊。本研究 以露德協會線上匿名留言板為研究對象，希望瞭解現今國內愛滋病相關網站所提供的愛滋 病相關資訊是否滿足愛滋病友需求，並透過社會支持觀點分析愛滋匿名留言板之留言與回 覆，探討留言板中的需求與提供之資訊是否相符；希冀能協助社會支持提供者瞭解目前感 染者主要需求資訊。
+				<lb />
+			</div>
+			關鍵字：
+			<keyword>社會支持、愛滋病、線上匿名諮詢問答、內容分析 </keyword>
+			Abstract
+			<lb />
+			Due to medical advancement and innovation, AIDS is gradually becoming a chronic disease.
+			<lb />
+			The infected people are now more concerned about the patient rights. Nonetheless, because AIDS
+			<lb />
+			is in some ways a unique disease due to its being concerned with the most intimate and private part
+			<lb />
+			of a patient&apos;s life, those with AIDS prefer to search for information online because this affords them
+			<lb />
+			privacy and confidentiality. Therefore, this study aims to explore an anonymous online AIDS question
+			<lb />
+			and answer (Q&amp;A) service from the social support perspective. The purpose of this study is to find
+			<lb />
+			out whether the AIDS information provided by the website&apos;s Q&amp;A service in Taiwan satisfy the needs
+			<lb />
+			of the patients and to discover whether the needs of patients match the information provided from the
+			<lb />
+			comments on websites. This study provides insights into and understanding of the information needs
+			<lb />
+			of patients with HIV infection or AIDS from the perspective of social support.
+			<lb />
+			Keywords:
+	Social Support; AIDS; Online Anonymous Q&amp;A Service; Content Analysis
+			<lb />
+			
+			1,2
+			<byline>
+				<affiliation>
+					國立臺灣師範大學圖書資訊學研究所
+					<lb />
+				</affiliation>
+			</byline>
+			Graduate Institute of Library and Information Studies, National Taiwan Normal University,
+			<lb />
+			Taipei, Taiwan
+			<lb />
+			* 通訊作者Corresponding Author: 邱銘心Ming-Hsin Phoebe Chiu, E-mail:
+			<email>phoebechiu@ntnu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

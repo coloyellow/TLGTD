@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="135-160" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 54 , no. 2 (2017) : 135-160
+
+	非戰之罪：研究評鑑制度下 台灣社會學學術專書論著之困境
+			<lb />
+			An Unfair Game: The Dilemmas Posed by
+			<lb />
+			Academic Research Evaluation to
+			<lb />
+			Sociology Monograph Writing in Taiwan
+			<lb />
+			張 天 心 Tien-Hsin Chang
+			<lb />
+			Graduate Student
+			<lb />
+			林 奇 秀* Chi-Shiou Lin*
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+	mail：chishioulin@ntu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 54 : 2 (2017) : 135-160
+				<lb />
+			</reference>
+
+			<idno>
+				DOI:10.6120/JoEMLS.2017.542/0007.RS.BM
+				<lb />
+			</idno>
+
+			<docTitle>
+				<titlePart>
+					非戰之罪：研究評鑑制度下 台灣社會學學術專書論著之困境
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>張天心 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>林奇秀 </docAuthor>
+			</byline>
+			b* 摘要
+			<lb />
+			<div type="abstract">
+				人文與社會科學向來重視學術專書 ，但近年因研究評鑑大幅強調
+				<lb />
+				期刊論文 ，對人社學科的專書生產已經造成壓抑。本研究以深度
+				<lb />
+				訪談來了解 14 位有專書論著經驗的社會學學者對專書及研究評鑑
+				<lb />
+				的看法 ，包含專書對社會學的價值與貢獻、期刊導向的評鑑制度對
+				<lb />
+				社會學造成的影響、專書寫作可能遭遇的問題與困難 ，以及可能的
+				<lb />
+				改善之道。基於受訪者意見 ，本文也深入討論了專書寫作歷程考
+				<lb />
+				核與專書評鑑的本質性問題 ，期能作為未來評鑑制度改善之參考。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>研究評鑑，學術專書，學術寫作與出版，台灣社會學 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2017/02/15投稿；2017/05/01修訂；2017/05/23接受</note>
+
+		</front>
+	</text>
+</tei>

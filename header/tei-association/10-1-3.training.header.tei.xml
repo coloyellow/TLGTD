@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-1-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：1 (December 2015)：83-121
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 3 月 28 日；接受日期：2015 年 9 月 1 日
+				<lb />
+			</note>
+				Email: 鄭惠珍
+
+			<email>hcc@ncl.edu.tw</email>
+			；陳雪華 
+			<email>sherry@ntu.edu.tw</email>
+			<lb />
+
+
+			<docTitle>
+				<titlePart>
+					從範疇理論的角度探索中西 圖書分類思維
+					<lb />
+				</titlePart>
+			</docTitle>
+			Exploring the Thinking of Books Classification
+			<lb />
+			between China and the West from the Perspective of
+			<lb />
+			the Theory of Categorization
+			<byline>
+				<docAuthor>
+					鄭惠珍
+					<lb />
+				</docAuthor>
+			</byline>
+			Hui-Chen Cheng
+			<lb />
+
+			<byline>
+				<affiliation>國家圖書館館藏發展及書目管理組</affiliation>
+			</byline>
+			編輯
+			<lb />
+			<byline>
+				<affiliation>輔仁大學進修部圖書資訊學系</affiliation>
+			</byline>
+			兼任助理教授
+			<lb />
+			Editor
+			<lb />
+			Collection Development and Bibliography Management Division,
+			<lb />
+			National Central Library
+			<lb />
+			Adjunct Assistant Professor
+			<lb />
+			CEBA Program, Department of Library and Information Science,
+			<lb />
+			Fu Jen Catholic University
+
+			<byline>
+				<docAuthor>
+					陳雪華
+					<lb />
+				</docAuthor>
+			</byline>
+			Hsueh-Hua Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			教授兼圖書館館長
+			<lb />
+			Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science,
+			<lb />
+			National Taiwan University
+			<lb />
+			Director
+			<lb />
+			National Taiwan University Library
+			<lb />
+			【摘要 Abstract】
+			<lb />
+
+			<div type="abstract">
+				二十世紀時，學者對分類的研究有重大突破，指出除傳統的 古典範疇理論外，尚有一種稱為現代的範疇理論。本研究試圖從
+				<lb />
+				範疇理論的角度來探索中西圖書分類思維，希冀能有助於跨文化 的研究發展，進而建立中西圖書分類所需之參照，或作為改善圖
+				<lb />
+				書分類系統參考之用。本文首先闡述範疇理論及其演變；接著從 圖書分類原則，及圖書分類學者的分類主張，分別探討中西方圖
+				<lb />
+				書分類，以瞭解其所應用之範疇理論。研究結果顯示，西方的圖 書分類屬於「古典」範疇理論，而中國古代圖書分類則具有「現 代範疇理論」的思維。古典與現代範疇理論都是分類圖書時會應
+				<lb />
+				用的重要觀念，應同時兼顧。
+				<lb />
+			</div>
+			In the twentieth century, scholars had key breakthroughs in
+			<lb />
+			classification and indicated that categorization theory is not only
+			<lb />
+			classical but also modern. This study attempts to discover the thinking
+			<lb />
+			behind book classification in China and the West from the perspective
+			<lb />
+			of the theory of categorization. It is hoped that this research
+			<lb />
+			can facilitate a cross-cultural study and then set up a necessary
+			<lb />
+			reference of comparison, as well as a reference for improving library
+			<lb />
+			classification systems. Firstly, the study introduces the evolution of
+			<lb />
+			the theory of categorization; then, from two aspects investigates which
+			<lb />
+			categorization theory was applied to book classification between China
+			<lb />
+			and the West. The two aspects include principle of book classification
+			<lb />
+			and the classification views of scholars in the library field. The result
+			<lb />
+			shows that the concept of book classification in the West belongs to
+			<lb />
+			the theory of classical categorization, while that of China shows the
+			<lb />
+			thinking of the theory of modern categorization. Modern and classical
+			<lb />
+			category theories should be taken into account when the books are
+			<lb />
+			classified.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+
+			<keyword>
+				圖書分類；中國古代圖書分類；西方圖書分類；範疇理論
+				<lb />
+			</keyword>
+			Book classi cation; Chinese ancient book classi cation; Western book
+			<lb />
+			classi cation; eory of categorization
+		</front>
+	</text>
+</tei>

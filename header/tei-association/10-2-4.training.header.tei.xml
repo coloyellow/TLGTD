@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-2-4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：2 (June 2016)：133-179
+				<lb />
+			</reference>
+			通訊作者 : 謝建成
+			<email>
+				jcshieh@ntnu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2016 年 2 月 13 日；接受日期：2016 年 5 月 2 日
+				<lb />
+			</note>
+			Email：呂智惠
+			<email>chlu@ntnu.edu.tw</email>
+			；謝建成
+			<email>jcshieh@ntnu.edu.tw</email>
+			；黃琬姿
+			<email>
+				a60315001e@gmail.com；
+				<lb />
+			</email>
+			黃毓絜
+			<email>
+				maisonlife@gmail.com
+				<lb />
+			</email>
+
+			<docTitle>
+				<titlePart>
+					大學圖書館網站底層標籤分析 之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			A Study on Analyzing Leaf Labels of University Library Websites
+			<byline>
+				<docAuthor>
+					呂智惠
+					<lb />
+				</docAuthor>
+			</byline>
+			Chih-Hwei Lu
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士候選人
+			<lb />
+			Doctoral Candidate
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					謝建成
+					<lb />
+				</docAuthor>
+			</byline>
+			Jiann-Cherng Shieh
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					黃琬姿
+					<lb />
+				</docAuthor>
+			</byline>
+			Wan-Zih Huang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					黃毓絜
+					<lb />
+				</docAuthor>
+			</byline>
+			Yu-Chieh Huang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				網站標籤提供視覺與認知的導引，被視之為網站內容與使用
+				<lb />
+				者間溝通的重要橋樑，直接影響使用者是否能有效且精準地獲取 資訊；同時網站標籤也是一種資訊線索能協助使用者找到所需的 資訊或達成目標任務。本研究從最根本每一網頁內容探討現行大
+				<lb />
+				學圖書館網站底層標籤之建構，因網站標籤內容關係到所傳達資 訊的完整性與確實性，而現今大學圖書館網站標籤，常常有相同
+				<lb />
+				概念的底層標籤因為命名不同而造成讀者認知混淆之情況發生， 要如何縮減使用者對於網站標籤產生認知差異，是本研究主要探 討之議題。
+				<lb />
+				本研究分為兩個階段，第一階段是透過網站內容分析法蒐集
+				<lb />
+				國內 112 所大學圖書館網站之網站地圖，進行網站架構及底層標 籤項目的分析整理；第二階段為網站底層標籤認知調查訪談，分
+				<lb />
+				別以專業使用者、圖書館員、一般使用者三組，進行焦點團體小 組討論，藉著互相討論激發受試者思考，從中瞭解三種不同身分 使用者之認知想法與意見交流，且詳細記錄選擇底層標籤過程與
+				<lb />
+				替換新標籤名稱之建議。藉由上述兩階段之研究探討，本研究獲 致以下結論：專業使用者、圖書館員、及一般使用者此三種不同 身分者所建構之網站底層標籤，其想法與內容存在許多差異；藉
+				<lb />
+				由 112 所大學圖書館網站底層標籤與網站架構之分析，顯示 80%
+				<lb />
+				以上之大學圖書館所建置之網站架構是屬尋獲度較佳者。
+				<lb />
+			</div>
+			Website labels provide visual and cognitive cues that are the
+			<lb />
+			efficient retrieving channels between users and website contents, thus
+			<lb />
+			critically affect whether users can acquire the required information
+			<lb />
+			efficiently and intuitively. Website Labels are the information scents
+			<lb />
+			which guide users to find the information what they need and achieve
+			<lb />
+			their goals. In this study, we explore the construction of leaf labels and
+			<lb />
+			contents for each webpage. Most of users are difficult to understand
+			<lb />
+			the labels texts. This study expects to understand and reduce users&apos;
+			<lb />
+			cognitive differences between the leaf labels and website contents.
+			<lb />
+			This study takes two main steps. In the first step, we collected
+			<lb />
+			112 university library websites to analyze the architectures and the
+			<lb />
+			leaf labels of the websites. In the second step, we interviewed the
+			<lb />
+			users to understand their cognitions of website leaf labels. We divided
+			<lb />
+			into three groups, professional users, librarians and general users.
+			<lb />
+			Through the ways of focus group discussion and excite their thoughts
+			<lb />
+			of respondents. We observed and recorded each identity&apos;s cognitions,
+			<lb />
+			thoughts and opinions about leaf labels. The results of this study
+			<lb />
+			show that the contents of leaf labels named from different background
+			<lb />
+			providers are quite differently. Analyzing leaf labels and architectures
+			<lb />
+			of 112 websites, we understood more than 80% of university libraries
+			<lb />
+			constructed good website architectures for findability.
+			<lb />
+			【關鍵字 Keywords】
+			<keyword>
+				資訊架構；網站標籤；網站底層標籤
+				<lb />
+			</keyword>
+			Information architecture; Website labels; Leaf labels
+			<lb />
+			隨著資源與服務快速地增加，圖書館網站所涵蓋的內容也不斷地
+			<lb />
+			擴充，大學圖書館網站已漸漸趨向一個資訊種類多樣、項目繁多、資
+			<lb />
+			訊異質性高且分佈廣泛的大型網站。對一個正在查找資料的網站使用
+			<lb />
+			者而言，網站標籤(website labels)會影響其是否能在網站中找到所需
+			<lb />
+			資料的關鍵字詞，而網站標籤亦成為網站與使用者溝通的重要橋樑，
+			<lb />
+			網站標籤更是一種資訊線索可指引使用者找到所需的資訊或達成目標
+			<lb />
+			任務。因此網站標籤設計之良窳，將會影響使用者是否能有效且精準
+			<lb />
+			地獲取資訊(Kalbach, 2007)。
+			<lb />
+			Farris、Jones 與 Elgin(2002) 的 研 究 中 指 出 大 部 分 文 獻 都 是 假
+			<lb />
+			設使用者在上網瀏覽時會對網站建構空間心智模式(spatial mental
+			<lb />
+			model)，亦即使用者會透過自己的理解與認知來組織網站架構與其
+			<lb />
+			內容，但使用者並非是以網站設計者的想法來記憶網站的，為了驗證
+			<lb />
+			這個假設，該研究讓參與者上網站搜尋後，請其畫出網站的組織圖，
+			<lb />
+			結果發現參與者所畫的網站組織大多與原網站迥異，參與者傾向將類
+			<lb />
+			似的資訊群組織在一起，而不會去回憶真實網站的內容。因此該研究
+			<lb />
+			認為網站設計者需要把焦點放在使用者會如何組織網站呈現的資訊上
+			<lb />
+			面，因為每個人對大量資訊要如何組織都有一套自己的想法，網站設
+			<lb />
+			計者必須將網站資訊以使用者所想的組織方法來呈現。網站設計最常
+			<lb />
+			見的問題在於設計者與使用者的想法存有落差，因此網站設計過程中
+			<lb />
+			應廣納使用者意見作為設計時的重要考量。Dickstein 與 Mills(2000)
+			<lb />
+			曾大聲疾呼：當商業界投入最大努力致力於瞭解顧客需求與行為，並
+			<lb />
+			試圖從使用者導向出發以提升網站服務品質時，圖書館界仍然習慣以
+			<lb />
+			&quot;librarians know best&quot;的想法提供服務，導致圖書館建構網站時，使
+			<lb />
+			用者往往不熟悉圖書館專業術語，找不到所需要的資源，進而嚴重影
+			<lb />
+			響使用圖書館網站的意願。
+			<lb />
+			根據研究顯示，大學圖書館網站的一般使用者(即在校學生)與
+			<lb />
+			專業館員，對於圖書館網站所使用的標籤用語及資料分類組織方式的
+			<lb />
+			認知，存在著程度上的差異。目前所知圖書館網站標籤多數由館員所
+			<lb />
+			建構，館員是否運用資訊組織的方法來建構圖書館網站架構與網站標
+			<lb />
+			籤？再則館員又是如何建構網站標籤？在此倡導以使用者為中心或使
+			<lb />
+			用者導向服務的時代，館員在建構網站標籤時是否會納入使用者的意
+			<lb />
+			見？除此之外，相對於使用者而言，圖書館網站標籤所提出的文字詞
+			<lb />
+			彙線索，使用者是否瞭解其意義與內容？這是本研究所關心的議題， 同時也是目前圖書館網站亟待改善的問題。
+		</front>
+	</text>
+</tei>

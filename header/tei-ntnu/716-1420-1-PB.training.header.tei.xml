@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="716-1420-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2017.431/716
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>文化遺產圖像深度語意標引方法設計與 實現 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>王曉光 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>武漢大學信息管理學院</affiliation>
+			</byline>
+			教授
+			<lb />
+			E-mail:
+			<email>wxguang@whu.edu.cn</email>
+			<byline>
+				<docAuthor>劉雪梅 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>武漢大學信息管理學院</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			E-mail:
+			<email>914624229@qq.com</email>
+			<byline>
+				<docAuthor>夏生平 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>敦煌研究院</affiliation>
+			</byline>
+			副研究員
+			<lb />
+			E-mail:
+			<email>1125443239@qq.com</email>
+			關鍵詞：
+			<keyword>文化遺產；深度語意標引；敦煌壁畫；信息建模；敘事性圖像 </keyword>
+			【摘要】
+			<div type="abstract">
+	隨著文化遺產圖像資訊資源的迅速增長和數位人文研究的發展，針對文化遺產圖像語意內涵 的深度語意標引逐漸引起人們的關注。文化遺產圖像的深度語意標引不僅可以提高圖像檢索與獲 取的效率，增強使用者對圖像的理解程度，更能支援自動的圖像資源整合和知識發現，具有重要 的理論和實踐意義。通過分析文化遺產圖像語意特徵及其主題、歸納總結現有文化遺產詮釋資料 與本體組織，在明確深度語意標引的概念及其基本要求的基礎上，設計了深度語意標引的基本流 程，構建了文化遺產圖像語意標引模型：宏觀概念模型、蘊含資訊層次模型與標引文本的結構化 組織模型，並針對敦煌壁畫《九色鹿王本生圖》進行圖像深度語意標引實驗。圖像深度語意標引 模型揭示了概念、圖像、文字等之間的語意關係，深度挖掘圖像標引中各資訊層之間的知識關聯， 實現了圖像資訊單元細粒度組織。同時標引實驗驗證了圖像深度語意標引模型與標引文本結構化 組織的可行性。文化遺產圖像深度語意標引方法的設計與實現是深度語意標引理論及圖像資訊組 織理論的創新，對圖像資訊組織與數位人文研究發展具有深遠的意義。圖像深度語意標引的粒度 與深度應以標注條件為基準進行選擇，深度語意標引資訊關聯集成與發佈展示也將成為未來研究 發展的重點內容。</div>
+		</front>
+	</text>
+</tei>

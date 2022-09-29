@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="9-2-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 9：2 (June 2015)：67-109
+				<lb />
+			</reference>
+
+			<note type="submission">
+				投稿日期：2015 年 5 月 2 日；接受日期：2015 年 6 月 15 日
+				<lb />
+			</note>
+			Email: 林菁
+			<email>lingin@mail.ncyu.edu.tw</email>
+			；陳耀輝
+			<email>
+				ychen@mail.ncyu.edu.tw
+				<lb />
+			</email>
+
+
+			<docTitle>
+				<titlePart>
+					應用爭議導向之探究式學習於
+					<lb />
+					資訊素養課程： 培養國小五年級學生議論能力
+					<lb />
+				</titlePart>
+			</docTitle>
+			Argument-Driven Inquiry in Fifth-Grade Information
+			<lb />
+			Literacy Instruction: A Way to Cultivate Students&apos;
+			<lb />
+			Argument Skills
+			<byline>
+				<docAuthor>
+					林菁
+					<lb />
+				</docAuthor>
+			</byline>
+			Lin-Ching Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立嘉義大學數位學習設計與管理系</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Department of E-learning Design &amp; Management
+			<lb />
+			National Chiayi University
+			<byline>
+				<docAuthor>
+					陳耀輝
+					<lb />
+				</docAuthor>
+			</byline>
+			Yaw-Huei Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立嘉義大學資訊工程系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department of Computer Science &amp; Information Engineering
+			<lb />
+			National Chiayi University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				本研究旨在應用爭議導向探究於資訊素養課程中，以檢視
+				<lb />
+				國小五年級學生議論能力的表現。研究現場是一個國小五年級班
+				<lb />
+				級，共 30 位學生。探究主題是古今中外的爭議性人物，由資訊
+				<lb />
+				素養老師和班級級任老師協同教學。研究時間為 17 週，主要利 用每週一節的資訊素養課程，再輔以十節國語課程。本研究以參
+				<lb />
+				與觀察、訪談、測驗和資料分析的方法來蒐集質化和量化資料。 研究結果顯示在國小五年級資訊素養課程中應用爭議性人物主題
+				<lb />
+				探究，來培養學生議論能力是一可行的方案。學生整體議論能力 有顯著進步，他們瞭解議論文的目的和基本元素。半數學生在議
+				<lb />
+				論文實際寫作表現優異，能撰寫具有觀點的爭議性人物議論文 章。在口頭發表方面，十組學生中有五組可邏輯性的報告小組觀 點，三組清楚說出小組論點，但論證較不足，另二組則論點和論
+				<lb />
+				證均弱。最後二位老師建議在資訊素養課程中設計循序漸進爭議 導向的探究學習任務，以有系統的提升學生議論能力。
+				<lb />
+			</div>
+			The purpose of this study was to investigate the effects of
+			<lb />
+			argument-driven inquiry information literacy instruction on fifth-
+			<lb />
+			graders&apos; argumentative learning. It was conducted in an elementary
+			<lb />
+			school and lasted for seventeen weeks. The research site was a fifth-
+			<lb />
+			grade classroom and the information literacy instruction was taught
+			<lb />
+			a period of time per week by a teacher librarian, who collaborated
+			<lb />
+			with a classroom teacher. The classroom teacher taught the basics of
+			<lb />
+			argumentive texts in Chinese course. They designed an inquiry project,
+			<lb />
+			titled &quot;Controversial Persons Inquiry&quot; in the information literacy
+			<lb />
+			and the Chinese course to cultivate students&apos; argument reasoning.
+			<lb />
+			Research data collected included interviews, participant observations,
+			<lb />
+			tests, and document analysis. The results showed that using argument-
+			<lb />
+			driven inquiry in fifth-grade information literacy curriculum was an
+			<lb />
+			effective project for cultivating students&apos; argument skills. Their overall
+			<lb />
+			argument performance was improved significantly. They understood
+			<lb />
+			the purposes and basics of argument writings. Half of students
+			<lb />
+			performed well in argument writings with insightful claims about the
+			<lb />
+			controversial figures inquired. In the aspect of speaking, among ten
+			<lb />
+			groups, five groups presented their findings logically; three groups
+			<lb />
+			proposed their perspectives clearly, but reasoning was weak. The last
+			<lb />
+			two groups performed poor in providing claims and warrants. Finally
+			<lb />
+			teachers suggested that we should systematically design argument-
+			<lb />
+			driven inquiry projects in information literacy curriculum, so that
+			<lb />
+			students&apos; argumentative skills can be improved progressively.
+			<lb />
+			【關鍵字 Keywords】
+			<keyword>
+				議論能力；爭議導向；資訊素養
+				<lb />
+			</keyword>
+			Argumentative skills; Argument-driven; Information literacy
+		</front>
+	</text>
+</tei>

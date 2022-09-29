@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="305-336" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 54 , no. 3 (2017) : 305-336
+
+	網路藥物諮詢提問內容分析研究
+			<lb />
+			An Analysis of the Questions of
+			<lb />
+			Online Medication Consultation Service
+			<lb />
+			朱 凱 纓 Kai-Ying Chu
+			<lb />
+			Graduate Student
+			<lb />
+			邱 銘 心* Ming-Hsin Phoebe Chiu*
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+	mail：phoebechiu@ntnu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 54 : 3 (2017) : 305-336
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2017.543/0037.RS.AM </idno>
+
+
+			<docTitle>
+				<titlePart>
+					網路藥物諮詢提問內容分析研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>朱凱纓 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>邱銘心</docAuthor>
+			</byline>
+			b* 
+	摘要
+			<lb />
+			<div type="abstract">
+				由於網路科技的發展 ，網路諮詢的形式成為消費者尋求醫療資訊
+				<lb />
+				的另一參考來源。藥物諮詢為醫療諮詢的一項 ，藥物治療在照護
+				<lb />
+				病人中扮演著重要角色 ，遵從醫囑使用藥物則可改善健康 ，依照
+				<lb />
+				不同的人口特徵差異 ，對醫囑的需求也各有不同 ，因此本研究以
+				<lb />
+				台灣 e 院提供之性別、年齡作為人口特徵變項 ，分析網路藥物諮 詢提問者之語意表達及提問特徵、提問需求特徵、提問需求表現特
+				<lb />
+				徵。研究對象為台灣 e 院之藥物諮詢相關提問共 1,272 則 ，逐篇分
+				<lb />
+				析其內容 ，以期提供藥物資訊提供者了解民眾對藥物資訊之需求。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				網路藥物諮詢，消費者健康資訊，資訊尋求，內容分析
+				<lb />
+			</keyword>
+			a
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				phoebechiu@ntnu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2017/08/31投稿；2017/12/09修訂；2017/12/11接受</note>
+
+		</front>
+	</text>
+</tei>

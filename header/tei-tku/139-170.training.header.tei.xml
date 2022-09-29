@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="139-170" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 55, no. 2 (2018) : 139-170
+
+	會議論文延伸出版為期刊論文 其時滯與修改差異之研究：以管理領域學術會議為例
+			<lb />
+			The Differences of Publication Lag and Revisions of
+			<lb />
+			Conference Papers Extended Publishing to Journal
+			<lb />
+			Articles: In Field of Management
+			<lb />
+			呂昱慧 Yu-Hui Lu
+
+	Postgraduate
+			<lb />
+			林雯瑤* Wen-Yau Cathy Lin*
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+	mail：wylin@mail.tku.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 55 : 2 (2018) : 139-170
+				<lb />
+			</reference>
+
+			<idno>
+				DOI:10.6120/JoEMLS.201807_55(2).0014.RS.BM
+				<lb />
+			</idno>
+
+			<docTitle>
+				<titlePart>
+					會議論文延伸出版為期刊論文
+					<lb />
+					其時滯與修改差異之研究：
+					<lb />
+					以管理領域學術會議為例
+				</titlePart>
+			</docTitle>
+			ψ
+			<lb />
+			<byline>
+				<docAuthor>呂昱慧 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>林雯瑤 </docAuthor>
+			</byline>
+			b* 摘要
+			<lb />
+			<div type="abstract">
+				本研究主要目的為探討管理領域會議論文延伸出版的現象 ，以科 技部「管理二」學門推薦之行銷、生管、交管、資管領域的九個國
+				<lb />
+				際學術會議 ，於 2011 年所出版的 2,427 篇會議論文為研究對象。
+				<lb />
+				利用書目計量法 ，分析延伸出版的數量與比率、文獻類型、延伸 出版的時間差距。並比較原始會議論文與延伸為期刊論文的版本 在轉投至期刊的出版時滯、作者身份、參考文獻、篇幅、圖表數量
+				<lb />
+				等的變化。研究結果顯示 ，管理領域整體延伸出版的比率平均為
+				<lb />
+				17.06%，延伸出版的文獻類型有 79.1% 為期刊論文 ，延伸至期刊
+				<lb />
+				的平均出版時間為 27.99 個月 ，平均投稿時滯為 14 個月。本研究建
+				<lb />
+				議學術出版單位可制訂延伸出版的相關規範 ，以減少學術傳播的
+				<lb />
+				爭議性行為 ，而研究者與期刊編輯也應確實遵循相關規範 ，以避 免學術不端的行為。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				延伸出版，出版時滯，管理領域，會議論文，期刊論文
+				<lb />
+			</keyword>
+			ψ 本文改寫自呂昱慧的碩士學位論文，最原始的研究議題則由其指導教授林雯瑤所啟發。
+			<lb />
+			a
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			碩士
+			<lb />
+			b
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			*
+	 通訊作者：
+			<email>
+				wylin@mail.tku.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2018/06/01投稿；2018/07/25修訂；2018/08/10接受 </note>
+			http://joemls.tku.edu.tw
+		</front>
+	</text>
+</tei>

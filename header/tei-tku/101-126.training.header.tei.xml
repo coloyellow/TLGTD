@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="101-126" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 2 (Spring 2015) : 101-126
+
+	以FRBR模式及DOI編碼 建立期刊書目關係之研究
+			<lb />
+			Constructing Bibliographic Relationships of
+			<lb />
+			Journal Collections through FRBR and DOI
+			<lb />
+			張 慧 銖 Huei-Chu Chang
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：lisahcc@dragon.nchu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 2 (Spring 2015) : 101-126
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.522/0004.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>以FRBR模式及DOI編碼 建立期刊書目關係之研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>張慧銖 </docAuthor>
+			</byline>
+			摘要
+			<lb />
+			<div type="abstract">
+				本研究利用文獻分析法與內容分析法進行 ，首先整理出期刊所涵
+				<lb />
+				蓋的書目關係 ，之後導入三筆具改名、分衍、合併等複雜關係之期
+				<lb />
+				刊樣本 ，以 MARC 21 為其著錄格式 ，分析為建立期刊各種書目關
+				<lb />
+				係所需之欄位 ，再將其與 FRBR 第一組實體和現有期刊註冊 DOI
+				<lb />
+				所需之核心元素對照 ，檢視 FRBR 與 DOI 是否能清楚呈現期刊的
+				<lb />
+				書目關係？進而探討期刊於申請 DOI 辨識碼的同時即能建置其書
+				<lb />
+				目關係的可行性。期能運用供應鏈的概念 ，將期刊書目家族的辨
+				<lb />
+				識與建置工作推至資訊處理的上游 ，以減輕圖書館期刊管理的負
+				<lb />
+				擔 ，增進期刊的連結關係 ，進而提升其使用效率。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>期刊，書目關係，書目紀錄功能需求，數位物件辨識碼 </keyword>
+			<byline>
+				<affiliation>國立中興大學圖書資訊研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			通訊作者：
+			<email>
+				lisahcc@dragon.nchu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2015/02/11投稿；2015/03/31修訂；2015/04/07接受</note>
+
+		</front>
+	</text>
+</tei>

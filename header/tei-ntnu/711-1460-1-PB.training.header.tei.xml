@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="711-1460-1-PB" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2017.432/711</idno>
+			<docTitle>
+				<titlePart>開放取用教科書現況發展分析 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳亞寧</docAuthor>
+			</byline>
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			E-mail:
+			<email>arthur9861@gmail.com</email>
+			關鍵詞：
+			<keyword>開放取用；開放取用型教科書；開放型教科書；教科書 </keyword>
+			【摘要】
+			<div type="abstract">
+				隨著開放教育資源的應用發展，減緩了電子教育資源因價格昂貴而無法取得的問題，類似的
+				<lb />
+				議題亦發生在教育界的教科書方面。近年來，導入開放取用(Open Access, OA)模式至教科書
+				<lb />
+				已隱然成為一項研究議題。本文採取系統性評閱(Systematic Review, SR)為研究方法，選取
+				<lb />
+				23 個個案及其相關灰色文獻為研究對象，試從內容提供者、聯合目錄平臺、授權方式、使用方式、
+				<lb />
+				提供模式、檔案格式、品質審查、營運模式，探討開放取用教科書 (Open Access Textbook, OAT)
+				<lb />
+				相關議題(如聯合目錄平臺、內容客製化、永續經營與數位保存)，希冀對圖書資訊界的電子資 源資訊服務有所助益。
+				<lb />
+			</div>
+			Open Access Textbooks
+			<lb />
+			Ya-Ning Chen
+			<lb />
+			Associate Professor,
+	
+	Department of Information and Library Science,
+			<lb />
+			Tamkang University,
+	
+
+	Taiwan
+
+	(R.O.C.)
+			<lb />
+			E-mail:
+	arthur9861@gmail.com
+			<lb />
+			Keywords:
+	Open Access; Open Access Textbooks; Open Textbooks; Textbooks 【Abstract】
+			<lb />
+			With the application and development of open educational resources, the skyrocketing price of
+			<lb />
+			educational resources that hinders the users to easily access educational materials has been alleviated.
+			<lb />
+			Student textbooks face similar challenges, and educators and teachers have taken the open access
+			<lb />
+			approach to provide open access textbooks (OAT). This study aimed to provide an overview analysis of
+			<lb />
+			the current development of open access textbooks. Twenty-three use cases of open access textbooks
+			<lb />
+			were selected for systematic review. The investigated items regarding the issues about OAT include:
+			<lb />
+			source of provision, bibliographic identification, use license, mode of use, mode of provision, file
+			<lb />
+			format, quality review, and business model. Implications for libraries as a collection policy are
+			<lb />
+			discussed.
+			<lb />
+			【Long Abstract】
+		</front>
+	</text>
+</tei>

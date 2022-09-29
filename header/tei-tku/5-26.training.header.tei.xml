@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5-26" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 53 , no. 1 (Winter 2016) : 5-26
+
+	從使用者觀點探討大學圖書館 電子書目錄之功能需求
+			<lb />
+			Functional Requirements of E-book Catalogs:
+			<lb />
+			From Perspectives of Library Users
+			<lb />
+			謝 孟 君* Meng-Chun Hsieh*
+			<lb />
+			Graduate Student
+			<lb />
+			E-
+	mail：sincerity322@gmail.com
+			<lb />
+			陳 昭 珍 Chao-Chen Chen
+	
+
+	Professor
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+
+			<reference>
+				教育資料與圖書館學 53 : 1 (Winter 2016) : 5-26
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2016.531/0045.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					從使用者觀點探討大學圖書館 電子書目錄之功能需求
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>謝孟君 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>陳昭珍 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				電子書出版量急劇成長 ，大學圖書館的電子書館藏也與日俱增。
+				<lb />
+				使用者對於電子書的查詢需求與紙本書不同 ，因此網路書店、電子
+				<lb />
+				書商城充分利用電子書的特性 ，提供各種資訊與加值功能 ，例如
+				<lb />
+				全文預覽 ，交叉推薦等。為了解讀者檢索電子書之行為 ，及使用
+				<lb />
+				書目資訊的需求 ，做為大學圖書館電子書目錄設計之參考。本研
+				<lb />
+				究挑選兩所學術圖書館及兩個商業性公司之電子書目錄 、設計六
+				<lb />
+				種檢索任務 ，徵求學術圖書館的使用者進行檢索 ，並由研究者在
+				<lb />
+				旁觀察及訪談檢索行為 ，最後就觀察與訪談結果從「檢索與取得電
+				<lb />
+				子書的現況」 、 「對進階書目資料的需求」 、 「對社群分享與行銷模
+				<lb />
+				式的看法」 、 「對圖書館電子書目錄之功能需求與建議」四個面向提 出結論並給予建議。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				電子書目錄，電子書使用行為，目錄功能設計，檢索行為 a
+				<lb />
+			</keyword>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授兼教務長
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				sincerity322@gmail.com
+				<lb />
+			</email>
+
+			<note type="submission">2015/11/24投稿；2016/02/06修訂；2016/02/15接受</note>
+
+		</front>
+	</text>
+</tei>

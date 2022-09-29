@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="33-57" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 1 (Winter 2015) : 33-57
+
+	綜整學生、教師與教學情境考量的 遠距教學預測模型
+			<lb />
+			Integrating Considerations of Students,
+			<lb />
+			Teachers, and Instructional Contexts in a
+			<lb />
+			Predictive Model of Distance Education
+			<lb />
+			岳 修 平 Hsiu-Ping Yueh Professor
+			<lb />
+			梁 朝 雲* Chaoyun Liang*
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：cliang@ntu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+
+			<reference>
+				教育資料與圖書館學 52 : 1 (Winter 2015) : 33-57
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.521/0631.RS.CM</idno>
+			 a
+			<byline>
+				<affiliation>國立臺灣大學生物產業傳播暨發展學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				cliang@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">
+				2014/05/27投稿；2014/12/12修訂；2014/12/19接受
+				<lb />
+			</note>
+
+			<docTitle>
+				<titlePart>
+					綜整學生、教師與教學情境考量的 遠距教學預測模型
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>岳修平 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>梁朝雲 </docAuthor>
+			</byline>
+			a* 摘要
+			<lb />
+			<div type="abstract">
+				本研究旨在探討於遠距教學情境中 ，學生學習能力和學習策略 、
+				<lb />
+				學生評量教學成效、同步遠距教學 ，與線上教材對學生自評學習 效益的影響；並分析學生評量教學成效和同步遠距教學的交互作
+				<lb />
+				用 ，以及線上教材的中介效果。本研究結果顯示 ，學生評量教 學成效與同步遠距教學之交互作用會影響線上教材與學生自評學
+				<lb />
+				習效益。對遠距教學評價高的學生 ，該交互作用的影響會比評價
+				<lb />
+				低的學生更為明顯。本研究亦發現 ，學生評量教學成效、線上教
+				<lb />
+				材 ，及同步遠距教學的品質掌控 ，是決定遠距教學學習效益的關
+				<lb />
+				鍵。其中 ，線上教材能在多數學生評量教學成效面向之間發揮顯
+				<lb />
+				著的中介效果 ，以促動學生自評的學習效益。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>同步遠距教學，線上教材，學生自評學習效益，學生評 量教學成效，學習能力，學習策略</keyword>
+		</front>
+	</text>
+</tei>

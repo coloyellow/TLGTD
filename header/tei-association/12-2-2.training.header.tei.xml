@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-2-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：2 (June 2018)：37-62
+				<lb />
+			</reference>
+
+
+			<docTitle>
+				<titlePart>
+					九大工業國研究補助論文影響力 之探討
+					<lb />
+				</titlePart>
+			</docTitle>
+			The Effect of Research Funding in G9 Countries
+			<byline>
+				<docAuthor>
+					黃慕萱
+					<lb />
+				</docAuthor>
+			</byline>
+			Mu-Hsuan Huang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			特聘教授
+			<lb />
+			Distinguished Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>黃玫溱</docAuthor>
+			</byline>
+			✽
+			<lb />
+			Mei-Jhen Huang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			Ph.D. Student
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				本研究分析美國、英國、法國、德國、日本、義大利、加 拿大、俄羅斯及中國大陸等九大工業國研究補助影響力，統計九
+				<lb />
+				國 2009 年至 2014 年 3,693,488 篇獲研究補助論文及 2,163,256 篇
+				<lb />
+				未獲研究補助論文。從國家及領域面向分析發現，獲研究補助論 文平均被引次數高於未獲研究補助論文，達顯著差異，研究補助
+				<lb />
+				有助於提高論文影響力。中國大陸研究補助率遠高於其他國家， 但獲研究補助論文平均被引次數偏低，研究成果還待提升。生命
+				<lb />
+			</div>
+			* 通訊作者：黃玫溱
+			<email>
+				mjhuang01@gmail.com
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2017 年 6 月 30 日；接受日期：2018 年 1 月 17 日
+				<lb />
+			</note>
+
+			<div type="abstract">
+				科學、農業及自然科學領域之研究補助率在各領域中較高，但與 該領域平均被引次數無明顯關連，平均被引次數最高為臨床醫學
+				<lb />
+				領域。此外，在研究補助下，各領域相對活躍程度最高國家皆與 平均被引次數最高國家不同，研究補助產出活躍性高未必影響力
+				<lb />
+				也較高。從機構面向分析則發現，研究補助機構主要補助本國論 文，但受補助之本國論文影響力卻不如受補助之其他國家論文影 響力。
+				<lb />
+			</div>
+			This study analyzed the journal articles from the G9 countries (the
+			<lb />
+			United States,	the United Kingdom, France, Germany, Japan, Italy,
+			<lb />
+			Canada, Russia,	and China) to identify the effect of research funding
+			<lb />
+			on citation impact in these countries. 3,693,488 funded articles and
+			<lb />
+			2,163,256 unfunded articles published between 2009 and 2014 were
+			<lb />
+			used. The results showed that funded articles were cited more than
+			<lb />
+			unfunded articles, and research funding had significant positive
+			<lb />
+			effects on the number of citations. Although China had the highest
+			<lb />
+			funding ratio, its citations per funded article were low. Funding ratios
+			<lb />
+			in Life Sciences, Agriculture, and Natural Sciences ranked as the top
+			<lb />
+			three, but didn&apos;t apparently impact on citation counts. In addition,
+			<lb />
+			the country with the most research outputs was not the same as that
+			<lb />
+			with the highest number of citations in each subject field. The funding
+			<lb />
+			agencies in each country provided the majority of funds to internal
+			<lb />
+			research. However, the effect of research funding for internal research
+			<lb />
+			was lower than that for external research.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				研究補助；被引次數；九大工業國
+				<lb />
+			</keyword>
+			Research funding; Citation counts; G9
+		</front>
+	</text>
+</tei>

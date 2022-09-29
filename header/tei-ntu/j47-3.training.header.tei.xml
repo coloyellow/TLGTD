@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j47-3"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第16卷第2期 (2018.12) 頁63-102<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.201812_16(2).063<lb/></idno>
+
+	
+
+	<docTitle>
+	<titlePart>臺灣知識管理系統服務廠商之產品價值主張研究-<lb/>以某個案公司為例 1<lb/></titlePart>
+	</docTitle>
+    Product Value Proposition of Knowledge Management System<lb/> Providers: The Example of a Case Company 1<lb/>
+	
+	 
+	<byline>
+	<docAuthor>阮明淑 2<lb/></docAuthor>
+	</byline>
+     Ming-Shu Yuan 2<lb/>
+	摘 要 
+	<div type="abstract">臺灣知識管理系統之研究發展至今，需要以新的研究觀點、採用新工具與多元資料來 源，對五家知識管理系統服務廠商之產品文本資料進行分析。本文主要有二點研究結論：<lb/> (一)不同於2006年之研究採用人工逐篇分析知識管理系統服務廠商之KMS之系統架構文 件，本研究利用詞頻分析與文字雲工具解析KMS產品文本內容，有助於快速找到不同知 識管理系統服務廠商之產品功能特色與定位，且該方法可作為後續其他個案研究之分析基<lb/> 礎；(二)從知識管理系統服務廠商之角度，本文歸納出個案廠商之19項產品價值主張，每<lb/> 項產品價值主張皆隱含廠商解決客戶不同問題之宣稱(承諾)。本研究觀點與方法可詮釋 廠商產品背後之價值主張，且可豐富與延伸知識管理領域之研究主題與方法。<lb/></div>
+	
+	關鍵字： 
+	<keyword>知識管理、價值主張、知識管理系統、知識主張 </keyword>
+	Abstract<lb/>
+	Knowledge management system (KMS) researches in Taiwan need to add further viewpoints,<lb/> new tools, and various sources of data to analyze the product texts of five KMS service providers to<lb/> explore their varieties of product function in last 12 years, between 2006-2018, by collecting product<lb/> data sheet in their official webpages. Two major findings are as follow: (1) Other than the research<lb/> done in 2006 which was manually analyzed the structure of document of KMS, this study utilized<lb/> word frequency analysis, and word cloud to analyze the text content of KMS products. It helps to<lb/> quickly find the product features and positioning of different KMS service providers. This study also<lb/> found out that this method can be used as an analysis basis for further follow-up case studies. (2) This<lb/> study summarizes 19 product value propositions from perspectives of KMS service providers. Each<lb/> product value proposition implies solutions for individual customer claim (promise) by the service<lb/> provider. The viewpoints and methodology of this study can interpret the value proposition of the<lb/> product and also be helpful to enrich and extend forthcoming KMS research themes and methodology.<lb/>
+
+	Keywords:
+	Knowledge Management; Value Proposition; Knowledge Management System;<lb/> Knowledge Claim<lb/>
+    1
+	該研究之前置成果已於2017年12月公開發布於經濟部工業局知識管理整合服務資訊網之知識管<lb/> 理電子報第139期。<lb/> 
+	
+	2 
+	<byline>
+	<affiliation>世新大學資訊傳播學系<lb/></affiliation>
+	</byline>
+
+    Department of Information and Communications, Shih Hsin University,
+	Taipei, Taiwan<lb/>
+
+	E-mail:
+	<email>juanems@mail.shu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

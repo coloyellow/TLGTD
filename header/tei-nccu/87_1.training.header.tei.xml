@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="87_1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			A Study on the Development of the Request-for-Proposal Projects of
+			<lb />
+			Digital Archives in Taiwan 
+				Su-Kan Lin
+			
+			<lb />
+			Si-Yi Wu
+			
+			Abstract
+			<lb />
+
+			<div type="abstract">
+				在歷經由國科會(註 1)主導的「數位博物館專案計畫」、「數位典藏國家型科技計畫」 和「數位典藏與數位學習國家型科技計畫」三大計畫，已為臺灣地區建立豐富的數位典藏成
+				<lb />
+				果。本文針對在 2002 年至 2012 年間所執行之內容建置數位典藏計畫中的公開徵選計畫部分
+				<lb />
+				(不包括機構計畫)進行整體分析，藉此了解這些計畫建置數位典藏成果的情形。透過對這 些計畫在建置機構類型、執行期限、地區分佈、主題、數位化對象與資料類型等方面的分析，
+				<lb />
+				歸納出包括(1)多方參與建構出豐碩的數位化成果、(2)以短期計畫為主，面臨永續經營
+				<lb />
+				的挑戰、(3)以大學為主要執行單位，數位化自身典藏及外界藏品、(4)以藝術領域為主
+				<lb />
+				要數位化主題、(5)以單一機構典藏品為主要數位化標的、(6)多元資料類型中以標本為
+				<lb />
+				主要型式及(7)持續維護專屬網站是永續經營的核心等特色。
+				<lb />
+			</div>
+			Three Taiwan&apos;s consecutive projects, &quot;Digital Museum&quot;, &quot;National Digital Archives Program&quot;,
+			<lb />
+			and &quot;Taiwan e-Learning and Digital Archives Program&quot; led by National Science Council, have
+			<lb />
+			
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor,Department of Information and Library Science, Tamkang University
+			<lb />
+			E-mail:
+			<email>
+				sukanlin@yahoo.com.tw
+				<lb />
+			</email>
+
+			<byline>
+				<affiliation> 淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			MA Student, Department of Information and Library Science, Tamkang University
+			<lb />
+			E-mail:
+			<email>
+				debby0321@gmail.com
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				7:2=87 (Dec &apos;15) 1-24
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2015.87.01
+				<lb />
+			</idno>
+			produced fruitful outcomes. This article examines the overall conditions of the outcomes of the
+			<lb />
+			request-for-proposal projects with the analysis of institutional types, operation periods, areas,
+			<lb />
+			subjects, digital objects and data types. Characterized by diversified sources of participation in the
+			<lb />
+			request-for proposals projects, the digital materials created are abundant. Other findings suggest the
+			<lb />
+			followings: shorter operation years and the challenges of sustainable management, projects run
+			<lb />
+			mainly by university institutions, arts and single institution as main targets for digitalization,
+			<lb />
+			specimens taking up the largest collection, as well as the importance for long-term operation and
+			<lb />
+			maintenance of websites.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+
+			<keyword>
+				數位典藏 公開徵選計畫 數位典藏國家型科技計畫 數位典藏與數位學習國家型科 技計畫
+				<lb />
+			</keyword>
+			Digital archives；Request-for proposal projects；National Digital Archives Program；
+			<lb />
+			Taiwan e-Learning and Digital Archives Program；TELDAP
+		</front>
+	</text>
+</tei>

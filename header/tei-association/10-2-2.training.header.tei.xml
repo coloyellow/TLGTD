@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-2-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：2 (June 2016)：45-85
+				<lb />
+			</reference>
+			通訊作者：林奇秀
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2016 年 3 月 1 日；接受日期：2016 年 5 月 17 日
+				<lb />
+			</note>
+			Email：林奇秀
+			<email>chishioulin@ntu.edu.tw</email>
+			；林慶隆
+			<email>cllin@mail.naer.edu.tw</email>
+			；邵婉卿
+			<email>
+				maria@mail.naer.edu.tw；
+				<lb />
+			</email>
+			張婕妤
+			<email>r00126001@ntu.edu.tw</email>
+			；陳彥如
+			<email>r99126014@ntu.edu.tw</email>
+
+			<docTitle>
+				<titlePart>
+					人文學者心目中理想的學術摘要
+					<lb />
+				</titlePart>
+			</docTitle>
+			What Constitutes a Good Abstract for the
+			<lb />
+			Humanities Researchers?
+			<byline>
+				<docAuthor>
+					林奇秀
+					<lb />
+				</docAuthor>
+			</byline>
+			Chi-Shiou Lin
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>
+					林慶隆
+					<lb />
+				</docAuthor>
+			</byline>
+			Ching-Lung Lin
+			<lb />
+
+			<byline>
+				<affiliation>
+					國家教育研究院編譯發展中心研究員
+					<lb />
+				</affiliation>
+			</byline>
+			Research Fellow
+			<lb />
+			Development Center for Compilation and Translation
+			<lb />
+			National Academyfor Educational Research
+			<byline>
+				<docAuthor>
+					邵婉卿
+					<lb />
+				</docAuthor>
+			</byline>
+			Wang-Ching Shaw
+			<lb />
+
+			<byline>
+				<affiliation>國家教育研究院圖書館</affiliation>
+			</byline>
+			執行秘書
+			<lb />
+			Executive Secretary
+			<lb />
+			Library, National Academy for Educational Research
+			<byline>
+				<docAuthor>
+					張婕妤
+					<lb />
+				</docAuthor>
+			</byline>
+			Chieh-Yu Chang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<byline>
+				<docAuthor>
+					陳彥如
+					<lb />
+				</docAuthor>
+			</byline>
+			Yen-Ju Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				現行摘要書寫規範多從科學論文角度出發，未必能滿足人文
+				<lb />
+				學者的需求和期待。有鑑於此，本研究的目的便是了解人文學者 心目中理想的學術摘要樣態，如應包含哪些資訊元素？適用科學
+				<lb />
+				與社會科學中常見的結構性摘要嗎？在摘介較長篇幅的人文論著 如學術專書時，摘要的涵蓋內容與摘寫策略應如何調整？本研究
+				<lb />
+				採立意抽樣與深度訪談方式，訪談 15 位人文學者對於摘要的看
+				<lb />
+				法，並以紮根理論分析歸納其意見，形成研究結論。研究結果顯
+				<lb />
+				示，人文學者要求學術摘要應具備五類基本資訊元素：1. 問題意
+				<lb />
+				識或主題關懷；2. 研究對象與研究素材；3. 研究方法或理論觀點；
+				<lb />
+				4. 與既有文獻的關聯；5. 研究的創見、成果或結論。在結構性摘
+				<lb />
+				要上，所有受訪者都認同，若能提供作者有系統的摘要寫作指引， 建議其在摘要中呈現哪些資訊元素，摘要品質應該會更好，但要
+				<lb />
+				避免干涉其呈現方式。同時，人文學者也認為，摘要書寫時應用 字精準，語意明確，是一篇敘事流暢精彩的獨立短文；在佈局上，
+				<lb />
+				摘要應完整、平衡地呈現五類基本資訊，並且凸顯研究賣點。而
+				<lb />
+				為長篇論著(如學術專書)撰寫摘要時，則應額外闡釋論著的旨
+				<lb />
+				趣、核心內容與篇章結構，提供讀者更細緻微觀的描述。文末也 根據研究發現，為人文學者和學術期刊提供摘要書寫建議。
+				<lb />
+			</div>
+			Abstracts are surrogate information that facilitates the
+			<lb />
+			dissemination and exchange of scholarly information. However,
+			<lb />
+			existing abstracting guides do not fully meet the needs of the
+			<lb />
+			humanities research. This study explored what types of information
+			<lb />
+			need to be included in a humanities research abstract and whether the
+			<lb />
+			increasingly popular structured abstract is appropriate for humanities
+			<lb />
+			works. It goes on to discuss on the content inclusion and writing
+			<lb />
+			presentation of humanities abstracts of varying lengths. Based on the
+			<lb />
+			in-depth interviews with 15 humanities scholars, this study derived
+			<lb />
+			five content elements to be included in a humanities abstract: research
+			<lb />
+			questions or research focus; study subjects and materials; research
+			<lb />
+			methods or research perspectives; relations to the existing literatures;
+			<lb />
+			research achievement, insights, and/or conclusion. A good humanities
+			<lb />
+			research abstract also demonstrates good writing and wording,
+			<lb />
+			comprehensive and balanced in content coverage, magnifying the
+			<lb />
+			research focus and major theses, and can be viewed as a stand-alone
+			<lb />
+			text. For lengthier abstracts such as those for books, theses, and longer
+			<lb />
+			reports, additional macro and micro descriptions of the works may be
+			<lb />
+			offered aside from compliance to the aforementioned principles.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				人文學；學術摘要；摘要寫作
+				<lb />
+			</keyword>
+			Humanities research; Scholarly abstract; Abstracting
+		</front>
+	</text>
+</tei>

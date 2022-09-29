@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="718-1422-1-PB" />
+	</teiHeader>
+	<text xml:lang="no">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2017.431/718
+				<lb />
+			</idno>
+
+			<docTitle>
+				<titlePart>走向開放化、語意化與關聯化的 《中國分類主題詞表》</titlePart>
+			</docTitle>
+
+			<byline>
+				<docAuthor>范煒</docAuthor>
+			</byline>
+
+			<byline>
+				<affiliation>
+					四川大學公共管理學院信息管理技術系副教授
+					<lb />
+				</affiliation>
+			</byline>
+			E-mail:
+			<email>fanw@scu.edu.cn</email>
+			關鍵詞：
+			<keyword>中國分類主題詞表；關聯數據；詞表資料集</keyword>
+			【摘要】
+			<div type="abstract">《中國分類主題詞表》是中國大陸地區情報檢索語言研究與實踐的典型代表，也是一種重要 的中文知識組織體系。語意網技術與關聯數據實踐為《中國分類主題詞表》研究帶來了新思路與 新方法。文章以「開放化─語意化─關聯化」遞進邏輯為寫作脈絡，彙報《中國分類主題詞表》 的階段發展。目前《中國分類主題詞表》在開放化與語意化方面已經具備較好的資料基礎與技術 支撐，未來將朝向關聯數據集開發與知識服務應用方面重點發展。</div>
+
+		</front>
+	</text>
+</tei>

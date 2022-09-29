@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="9-2-5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 9：2 (June 2015)：149-189
+				<lb />
+			</reference>
+
+			<note type="submission">
+				投稿日期：2015 年 5 月 17 日；接受日期：2015 年 6 月 30 日
+				<lb />
+			</note>
+			Email: 謝吉隆
+			<email>jirlong@gmail.com</email>
+			; 沈柏辰
+			<email>paichen.shen@gmail.com</email>
+			; 楊立偉
+			<email>
+				wyang@ntu.edu.tw
+				<lb />
+			</email>
+
+
+			<docTitle>
+				<titlePart>
+					輔助新聞檢索之視覺化介面實作 與使用者評估
+					<lb />
+				</titlePart>
+			</docTitle>
+			Designing and Evaluating User Interface for Assisting
+			<lb />
+			News Navigation and Retrieval
+			<byline>
+				<docAuthor>
+					謝吉隆
+					<lb />
+				</docAuthor>
+			</byline>
+			Ji-Lung Hsieh
+			<lb />
+
+
+			<byline>
+				<affiliation>國立師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			Assistant Professor
+			<lb />
+			GraduateInstitute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					沈柏辰
+					<lb />
+				</docAuthor>
+			</byline>
+			Bo-Chen Shen
+			<lb />
+
+			<byline>
+				<affiliation>國立師範大學圖書資訊學研究所</affiliation>
+			</byline>
+
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>
+					楊立偉
+					<lb />
+				</docAuthor>
+			</byline>
+			Li-Wei Yang
+			<lb />
+
+			<byline>
+				<affiliation>龍捲風科技</affiliation>
+			</byline>
+			董事總經理
+			<lb />
+			Managing Director
+			<lb />
+			Tornado Technologies
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學工商管理學系暨商學研究所</affiliation>
+			</byline>
+			兼任助理教授
+			<lb />
+			Adjunct Assistant Professor
+			<lb />
+			Department and Graduate Institute of Business Administration
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				網路新聞平台使得大眾易於取得多元且大量的新聞資訊，但 卻因搜尋結果所傳回的資訊是依照搜尋準確率排列，無法展現所 得資訊的時間性或其間的關聯性，因而使用者反而需要花更多的 時間去檢索或瀏覽結果，同時也挑戰了使用者的背景知識和檢索
+				<lb />
+				技巧。著眼於此，本研究開發一套動態新聞視覺化瀏覽系統，企 圖視覺化新聞檢索結果中的資訊關聯性；並嘗試在視覺化介面中
+				<lb />
+				整合並允許使用者刪修檢索歷程、擴大或縮小搜尋範圍，以降低 搜尋歷程的使用者認知負荷。本研究透過主題式任務來評估本視 覺化系統的使用性，經過訪談與循序序列探勘方法後獲得以下回
+				<lb />
+				饋：一、 使用者最常用的功能是展開概念網絡中的相關關鍵字以
+				<lb />
+				發掘更多相關新聞，可達到觸類旁通的功效；二、 使用者認為本 介面所提供的三種相異的網絡視覺化繪圖方法可分別提供其逐一
+				<lb />
+				檢視相關關鍵字或者觀察概念群集的功能；三、使用者能夠利用 歷程紀錄的功能，一方面修正檢索目標，另一方面則可刪除不必 要的概念以降低參與者的認知負荷。然而，亦有使用者認為操作 不便或因為介面複雜而產生新的認知負荷。
+				<lb />
+			</div>
+			The development of online news website let the public
+			<lb />
+			obtain news much easier and more convenient. However, retrieved
+			<lb />
+			information are sorted by relevance, therefore can not display the
+			<lb />
+			temporal features or relations among information, which poses
+			<lb />
+			challenges to users&apos; ability of information retrieval skills and their
+			<lb />
+			background knowledge. To assist users in browsing news, we built
+			<lb />
+			up a keyword visualization user interface that allows users to browse
+			<lb />
+			news from different aspects, to control their visit paths and to expand
+			<lb />
+			or filter information. We conducted interview and applied sequential
+			<lb />
+			analysis method to evaluate user experience in this study. The results
+			<lb />
+			show that 1) the function that users used the most is clicking to expand
+			<lb />
+			related keywords to discover more keywords and related news; 2)
+			<lb />
+			participants reported that the three network layouts implemented in
+			<lb />
+			the study can assist them to navigate keywords one by one or to read
+			<lb />
+			briefly potential keyword categories; 3) by visualizing visit path,
+			<lb />
+			participants found that they can locate themselves in information
+			<lb />
+			retrieval process or to alter keywords set for alleviating cognitive
+			<lb />
+			load. However, the feedback of user study also shows that gathering
+			<lb />
+			excessive visualization design on an interface may increase cognitive
+			<lb />
+			load.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				資訊視覺化；新聞導覽；概念圖；資訊檢索歷程
+				<lb />
+			</keyword>
+			Information visualization; News visualization; Information
+			<lb />
+			visualization evaluation
+		</front>
+	</text>
+</tei>

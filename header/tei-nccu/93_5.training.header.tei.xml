@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="93_5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			Visitor Satisfaction and Education Effects in Interactive Archive
+			<lb />
+			Exhibition: Taking &quot;Tong-An Ship New Media Art Exhibition&quot;
+			<lb />
+			as Example 
+			<lb />
+			Shao-Chun Wu
+	
+
+	Abstract
+			<div type="abstract">
+				隨著科技的進步，傳統以圖文看板為主的檔案展亦開始以數位互動方式展出。然而目前 國內有關檔案展覽之研究較少，而少數研究檔案數位多媒體展之研究，也多由機構面角度出 發，尚無由觀眾面出發的研究。本研究以故宮清代檔案為基礎發想之同安潮新媒體藝術展為
+				<lb />
+				例，以問卷法量測觀眾對此檔案展之滿意度，也採用「總體學習成果模式」(Generic Learning
+				<lb />
+				Outcomes, GLOs) 設計問卷，分析觀眾之教育效果，並以 SPSS 第 21 版進行統計分析。最後 根據研究結果，提出檔案數位互動展觀眾滿意度及教育效果方面之特性，並提出提升檔案數 位互動展觀眾教育效果之建議。
+				<lb />
+			</div>
+			With technological advancements, the traditional archive exhibitions mainly displayed with
+			<lb />
+			graphical and textual posters have been changed to using digital interactions. However, currently,
+			<lb />
+			there are fewer studies on archive exhibitions in Taiwan, and most of these studies on archive digital
+			<lb />
+			multimedia exhibitions are conducted from the perspective of institutions. There is also a lack of
+			<lb />
+			studies conducted from the perspective of audiences. This study took &quot;Rebuilding the Tong-an Ships
+    
+			<byline>
+				<affiliation> 國立故宮博物院教育展資處</affiliation>
+			</byline>
+			副研究員
+			<lb />
+			Associate Research Fellow, Department of Education, Exhibition and Information Services,
+	
+
+	National
+			<lb />
+			Palace Museum
+			<lb />
+			E-mail:
+			<email>
+				diglib@npm.gov.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				10:2=93 (Dec &apos;18) 43-74
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.201812_(93).0003
+				<lb />
+			</idno>
+			New Media Art Exhibition&quot; launched based on archives in the Qing Dynasty at NPM for example,
+			<lb />
+			and conducted a questionnaire survey to measure audiences&apos; satisfaction with this archive exhibition.
+			<lb />
+			Besides, this study also adopted &quot;Generic Learning Outcomes, GLOs&quot; to design the questionnaire
+			<lb />
+			and analyze the educational effect on audiences. This study also used SPSS version 21 to perform the
+			<lb />
+			statistical analysis. Lastly, according to the research results, this study proposed the characteristics of
+			<lb />
+			audience satisfaction and educational effect of archive digital interaction exhibitions, as well as the
+			<lb />
+			suggestions for improving educational effect on audiences of archive digital interaction exhibitions.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>檔案 數位 展覽 互動 教育 </keyword>
+			Archive；Digital；Exhibition；Interactive；Education
+		</front>
+	</text>
+</tei>

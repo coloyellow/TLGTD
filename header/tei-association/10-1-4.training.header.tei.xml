@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-1-4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：1 (December 2015)：123-169
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 10 月 29 日；接受日期：2015 年 12 月 7 日
+				<lb />
+			</note>
+			Email: 蔡天怡
+			<email>
+				titsai@ntu.edu.tw
+				<lb />
+			</email>
+
+			<docTitle>
+				<titlePart>
+					圖書資訊學領域學生如何說出
+					<lb />
+					「資訊」的故事：視覺方法之 探索性研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			How Do Library and Information Science Students Tell
+			<lb />
+			the Story of Information: An Exploratory Study Using
+			<lb />
+			Visual Methods
+			<byline>
+				<docAuthor>
+					蔡天怡
+					<lb />
+				</docAuthor>
+			</byline>
+			Tien-I Tsai
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			Assistant Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				本 研 究 運 用 圖 文 技 巧(draw-and-write technique)， 透
+				<lb />
+				過 Hartel 之 視 覺 方 法 蒐 集 56 位 學 生 所 繪 製 之「 資 訊 方 塊 」
+				<lb />
+				(iSquares)及其文字說明，透過主題分析檢視圖書資訊學領域 學生如何以圖文表述「資訊」概念。研究發現資訊方塊表述方式
+				<lb />
+				多元，包含人的意象、媒體與工具、大自然及情境要素等，除了 呈現資訊理論及資訊行為之概念，亦提及巨量資料之特性；本文
+				<lb />
+				更透過資訊方塊說出四種不同版本之資訊故事，包括：(一)由
+				<lb />
+				微觀社會至宏觀社會、由感知上小而大的資訊故事；(二)由具
+				<lb />
+				象描繪至抽象比喻、由外顯而內化的資訊故事；(三)由靜而動、
+				<lb />
+				由慢而快的資訊故事；(四)由紊亂至有條理、由不確定至美好
+				<lb />
+				的資訊故事。文末亦提出可供圖書資訊學教育實務及未來研究參 考之建議。
+				<lb />
+			</div>
+			This study employed Hartel&apos;s draw-and-write technique-
+			<lb />
+			iSquares-as the visual method to collect data from 56 students in
+			<lb />
+			Library and Information Science (LIS). Thematic analysis was used to
+			<lb />
+			examine the iSquare images and descriptions. The iSquares collected
+			<lb />
+			in this study used a variety of presentations to express the concept of
+			<lb />
+			information. Main elements appeared in iSquares included the image
+			<lb />
+			of people, media and tools, the nature and other contextual elements.
+			<lb />
+			In addition to the concepts in information theories and information
+			<lb />
+			behavior theories, participants also included characteristics of big data
+			<lb />
+			in their iSquares. Based on the themes appearing in the iSquares, the
+			<lb />
+			researcher further illustrated stories of information in four different
+			<lb />
+			ways: (1) from micro-social to macro-social/from imperceptibly small
+			<lb />
+			to vast, as suggested by Hartel (2014a);
+	(2) from concrete descriptions
+			<lb />
+			to abstract metaphors/from external to internal; (3) from static to
+			<lb />
+			mobile/from trickling to rapid; (4) from unorganized to organized/
+			<lb />
+			uncertain to confident. Suggestions for LIS educators on addressing
+			<lb />
+			the concept of information and for future iSquare research were also
+			<lb />
+			provided.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>視覺方法；主題分析；資訊科學；圖書資訊學</keyword>
+			<lb />
+			Visual methods; ematic analysis; Information science; Library and
+			<lb />
+			information science
+		</front>
+	</text>
+</tei>

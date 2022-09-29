@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="682-1309-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2016.421/682
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>對於工作者資訊行為研究中較少觸及 面向之探索 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>鄭惟中 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			E-
+			<email>mail：weichung1222@gmail.com</email>
+			關鍵字：
+			<keyword>資訊行為；工作場域；研究面向 </keyword>
+			【摘要】
+			<div type="abstract">
+				傳統上資訊行為研究以系統導向為主，多以「系統如何滿足使用者需求」、「如何提升系統 效益」等為發展重心，之後逐漸轉向為使用者中心的研究典範，諸如使用者進行資訊行為時的認
+				<lb />
+				知狀態、社會情境與職業等，橫跨個人與環境等各面向。在 2015 年「歐洲網路工作資訊研究網」
+				<lb />
+				(European Network for Workplace Information)會議中，許多研究觸及之面向與過去有所不同， 例如從法規需求分析專業人員資訊行為，以及領導者人格特質、領導風格與資訊行為間之關係。 本文將逐一介紹研究內容，並加以比較、論述。
+			</div>
+		</front>
+	</text>
+</tei>

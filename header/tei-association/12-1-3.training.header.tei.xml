@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-1-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：1 (December 2017)：79-109
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					從 SCORM 數位學習教材標準
+					<lb />
+					看 EPUB 做為電子教科書檔案 格式之特性與挑戰
+					<lb />
+				</titlePart>
+			</docTitle>
+			Understanding the Features and Challenges of Using
+			<lb />
+			EPUB E-textbook in Education through the Comparison
+			<lb />
+			of EPUB and SCORM content models
+			<byline>
+				<docAuthor>
+					張玄菩
+					<lb />
+				</docAuthor>
+			</byline>
+			Hsuan-Pu Chang
+			<lb />
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			Assistant Professor
+			<lb />
+			Department of Information and Library Science
+			<lb />
+			Tamkang University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+
+			<div type="abstract">
+				EPUB 數位出版品標準為電子教科書工業帶來正面效益，期
+				<lb />
+				望能提升電子教科書的生產效率及更廣泛地使用。然而，有別於
+				<lb />
+				一般閱讀刊物的需求，要做為校園中的正式教學教材，EPUB 檔 案格式的特性是否有助於在教育目的上的製作、應用及管理值得
+				<lb />
+				深入的探討跟釐清。本文從過往的相關文獻，分析不同電子教科
+				<lb />
+				書檔案格式對教育學習的影響，再藉由與 SCORM 數位學習內容
+				<lb />
+				模型的比較，深入探討 EPUB 檔案格式做為電子教科書的特性與
+				<lb />
+				挑戰。最後基於研究發現，給予欲採用 EPUB 電子教科書之教材 製作與管理者、系統開發人員以及教師建議。
+				<lb />
+			</div>
+			作者：張玄菩
+			<email>
+				musicbubu@gmail.com
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2017 年 5 月 8 日；接受日期：2017 年 10 月 20 日
+				<lb />
+			</note>
+			Many publishers and scholars believe that the digital publication
+			<lb />
+			standard, Electronic Publication (EPUB), will bring the positive impact
+			<lb />
+			to the e-textbook industry and also expect it to improve the efficiency
+			<lb />
+			of e-textbook production and its wider adoption. However, being the
+			<lb />
+			primary file format used for official education, we need to further
+			<lb />
+			investigate whether its features can help facilitate educational resource
+			<lb />
+			production and the management of these educational resources.
+			<lb />
+			The previously conducted studies in the following article reviews,
+			<lb />
+			allow us to analyze how the different features of the e-textbook file
+			<lb />
+			formats have significantly affected users in teaching and learning.
+			<lb />
+			In order to understand the significant features of and some of the
+			<lb />
+			common challenges faced by users, when using EPUB e-textbooks for
+			<lb />
+			educational purposes, we conducted the following study by comparing
+			<lb />
+			the EPUB e-textbook and SCORM e-learning content models,
+			<lb />
+			primarily focusing on these three elements: 1) content presentation,
+			<lb />
+			2) metadata, 3) content package structure. Finally, the suggestions are
+			<lb />
+			made to education practitioners on EPUB e-textbook adoption.
+			<lb />
+			【關鍵字 Keywords】
+			<keyword>
+				EPUB；SCORM；電子教科書；內容模型
+				<lb />
+			</keyword>
+			EPUB; SCORM; E-book; Content Model
+		</front>
+	</text>
+</tei>

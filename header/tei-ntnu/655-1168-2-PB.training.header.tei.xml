@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="655-1168-2-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.412/655
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>以前端瀏覽器為中心之雲端運算服務 模型研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>余宛儒 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立政治大學資訊管理研究所</affiliation>
+			</byline>
+			碩士
+			<lb />
+			E-
+			<email>mail：102356019@nccu.edu.tw</email>
+			關鍵詞：
+			<keyword>巨量資料；前端開發；雲端運算 </keyword>
+			【摘要】
+			<div type="abstract">
+				本研究針對目前最新技術發展趨勢，提出一個以瀏覽器為中心的雲端運算服務模型。本研究 稱之「雲端服務交換器系統」，解決後端巨量資料透過緩衝區送至前端瀏覽器頁面顯示之問題並
+				<lb />
+				改善傳輸速度。本研究整合 MongoDB、AngularJS、Socket.IO、Kafka、Node.js 五項元素。本
+				<lb />
+				研究解決前端中 JavaScript 與網頁互動之困難、前後端開發語言相容性問題、巨量資料需求造成 的伺服器負載量、前後端即時通訊效能等問題，最後達成建置網站之目的。
+			</div>
+		</front>
+	</text>
+</tei>

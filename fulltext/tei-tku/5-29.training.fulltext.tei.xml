@@ -1,0 +1,1437 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="0" />
+    </teiHeader>
+    <text xml:lang="en">
+        <head>
+            前 言
+            <lb />
+        </head>
+        <p>
+            近年來全球圖書館皆面臨學術期刊訂費持續高漲 ，所需經費大幅增加的挑
+            <lb />
+            戰 ，即使逐年追加預算 ，所能訂購的期刊種數也僅微幅增加甚或不增反減 ，
+            <lb />
+            不但造成研究資源短缺 ，影響教學研究品質 ，且可能進一步引發學術傳播危
+            <lb />
+            機。有鑒於此 ，開放取用(Open Access，簡稱 OA)的觀念乃應運而生 ，且迅
+            <lb />
+            速發展。陳亞寧曾探究 OA 之發展歷史 ，最早可溯及 1991 年美國物理學家 Paul
+            <lb />
+            Ginsparg 建立 arXiv 伺服器 ，提供學者有關高能物理(high energy physics)方面
+            <lb />
+            的學術論文電子刊本(e-prints)服務開始；1994 年 Steven Harnad 提出「顛覆式建
+            <lb />
+            議方案」 (Subversive Proposal) ，探討電子期刊對學術傳播的影響及願景 ，引起
+            <lb />
+            國際圖書館界重視；1999 年 Harold Varmus 向美國國家衛生院(National Institutes
+            <lb />
+            of Health, NIH)提出 E-biomed 規劃案後 ，逐漸形成今日的 OA 學術傳播模式。
+            <lb />
+        </p>
+        <p>
+            首都布達佩斯召開會議 ，期望藉由國際間的共同努力 ，達成所有學術文章都能
+            <lb />
+            免費開放公眾取用的目標 ，提出「布達佩斯開放取用先導計畫」 (The Budapest
+            <lb />
+            Open Access Initiative，簡稱 BOAI) 2 ，並於 2002 年 2 月 14 日正式對外公佈 ，成
+            <lb />
+            為一項全球性推動開放取用之原則 、策略及承諾聲明。如今 ，OA 成為新興的
+            <lb />
+            學術傳播方式 ，利用不斷增加以及免費取得的線上 OA 資源 ，圖書館可擴展現
+            <lb />
+            存之圖書 、期刊 、資料庫等以外的資訊來源。
+            <lb />
+        </p>
+        <p>
+            然而 ，開放取用的期刊論文由於分散於網路各處 ，若無有效整合 ，對讀者
+            <lb />
+            而言仍有所不便。Pinfield 依據英國開放檔案方面的執行成果與經驗 ，認為「開
+            <lb />
+            放」至少有兩種不同意涵：第一種是指資料內容的無限制可得性(unrestricted
+            <lb />
+            availability) ，如 BOAI 的開放取用；另一種是指技術方面的系統互通性 (System-
+            <lb />
+            atic interoperability) ，如開放典藏協會(Open Archives Initiative，簡稱 OAI)所制
+            <lb />
+            訂的詮釋資料交換協定；Pinfield 認為這兩者不必然相關。 3 不過我們認為：從
+            <lb />
+            資訊系統的角度而言 ，為了讓分散於網路各處的 OA 期刊資料能順利彙整 、取
+            <lb />
+            用 ，OA 期刊系統(包括匯入 、典藏 、取用 、檢索……等功能模組)之設計應採
+            <lb />
+            用開放式架構 ，若能符合國際間通行的開放典藏資訊系統(Open Archival Infor-
+            <lb />
+            mation System，簡稱 OAIS)參考模式(reference model)則更佳。 4 然而 ，許多
+            <lb />
+            OA 期刊系統並未進行如此的系統規劃 ，以致於造成系統間資源共享與資料交
+            <lb />
+            換的困難。
+            <lb />
+        </p>
+        <p>
+            建構於網路環境中的數位圖書館 ，為了因應電子資源四處分散的情形 ，
+            <lb />
+            經常會建置線上聯合目錄 ，供讀者進行瀏覽與查詢 ，並可依據不同的學科 、關
+            <lb />
+            鍵字或作者……等欄位進一步篩選所需資料。據此 ，本研究以圖書資訊學做為
+            <lb />
+            學科主題 ，開發系統功能模組 ，嘗試建置一套符合 OAIS 參考模式之「圖書資
+            <lb />
+            訊學 OA 期刊聯合目錄」 ，並以「開放取用期刊目錄」 (Directory of Open Access
+            <lb />
+            Journals, DOAJ)和「圖書資訊學電子刊本」 (E-prints in Library &amp; Information
+            <lb />
+            Science, E-LIS)兩個著名的 OA 平台作為原始的資訊生產者 ，探討聯合目錄類
+            <lb />
+            型及數位圖書館相關檢索協定之優劣與建置方式 ，接著討論做為資料來源的
+            <lb />
+            DOAJ 與 E-LIS 中之詮釋資料格式 ，並選擇適用的檢索協定與詮釋資料格式。最
+            <lb />
+            終目的是讓使用者能夠更容易 、更簡單的取得圖書資訊學 OA 期刊資源。
+            <lb />
+        </p>
+        <head>
+            二、基於OAIS之系統架構
+            <lb />
+        </head>
+        <p>
+            為了彙整圖書資訊學 OA 期刊資源 ，本系統將基於 OAIS 參考模式進行開
+            <lb />
+            發 ，以 DOAJ 與 E-LIS 作為原始的資訊生產者 ，並以開放典藏協會詮釋資料
+            <lb />
+            獲取協定(Open Archives Initiative Protocol for Metadata Harvesting，簡稱 OAI-
+            <lb />
+            PMH) 5 做為系統間的通訊協定 ，進行資料交換與系統整合。
+            <lb />
+        </p>
+        <p>
+            ㈠ OAIS 參考模式
+            <lb />
+            OAIS 參考模式是於 2002 年由太空資料系統諮詢委員會(Consultative Com-
+            <lb />
+            mittee for Space Data Systems，簡稱 CCSDS)所提出 ，定義了典藏系統的開放式
+            <lb />
+            架構 、數位典藏活動的關鍵過程 、數位物件的資訊模式與相關的詮釋資料。 6
+            <lb />
+            依據 OAIS 之定義 ，數位典藏活動係由資訊生產者(producer) 、資訊消費者
+            <lb />
+            (consumer) 、管理者 (management) 所組成，系統功能則包含攝入 (ingest) 、典藏儲
+            <lb />
+            存(archival storage) 、資料管理(data mangement) 、行政管理(administraction) 、
+            <lb />
+            保存規劃(preservation planning) 、取用(access)等六種。此外 ，系統內的數位
+            <lb />
+            資訊由三種不同形式的資訊封包(information package)所組成：投入資訊封包
+            <lb />
+            (Submission Information Package，簡稱 SIP) 、典藏資訊封包(Archival Informa-
+            <lb />
+            tion Package，簡稱 AIP) 、遞出資訊封包(Dissemination Information Package，簡
+            <lb />
+            稱 DIP) 。如圖 1 所示。
+            <lb />
+        </p>
+        <p>
+            實務上 ，本研究實作的系統皆採用 XML 作為封包格式。
+            <lb />
+        </p>
+        <figure>
+            圖1 OAIS參考模式
+            <lb />
+        </figure>
+        <p>
+            資料來源： C o n sultative Committee for Space Data System,
+            <lb />
+            Reference Model for an Open Archival Information System
+            <lb />
+            (OAIS) (Washington: CCSDS, 2012), 4-1, accessed July
+            <lb />
+            15, 2016, https://public.ccsds.org/pubs/650x0m2.pdf
+            <lb />
+        </p>
+        <p>
+            ㈡ 系統架構與研究問題
+            <lb />
+            OAIS 參考模式的核心精神在於強調系統的開放互連及資源共享 ，因此在
+            <lb />
+            其運作環境中 ，開放式系統除了自身管理者外 ，尚須與上游的資訊生產者和下
+            <lb />
+            游的資訊消費者互動 ，而生產者與消費者可以是另一部同樣採用 OAIS 參考模
+            <lb />
+            式所開發的系統 ，如本文擬開發的「圖書資訊學 OA 期刊聯合目錄」 。
+            <lb />
+        </p>
+        <p>
+            為了匯集圖書資訊學 OA 期刊資源 ，本研究基於 OAIS 參考模式 ，提出如
+            <lb />
+            圖 2 所示之系統架構圖。主要是以 DOAJ 與 E-LIS 兩個著名的 OA 資源作為原始
+            <lb />
+            的資訊生產者 ，並依據 OAIS 參考模式 ，開發「圖書資訊學 OA 期刊聯合目錄」
+            <lb />
+            所需之典藏 、攝入 、取用 、管理等模組。本系統除做為資訊消費者 ，從 DOAJ
+            <lb />
+            與 E-LIS 獲取資料外 ，也能做為資訊生產者 ，提供資料與檢索服務給一般使用
+            <lb />
+            者或其他系統。
+            <lb />
+        </p>
+        <figure>
+            圖2 圖書資訊學OA期刊聯合目錄系統架構圖
+            <lb />
+        </figure>
+        <p>
+            資料來源：本研究繪製
+            <lb />
+        </p>
+        <p>
+            本研究擬探討之研究問題如下：
+            <lb />
+        </p>
+        <p>
+            1. 如何設計以 DOAJ 與 E-LIS 為資料來源之典藏模組？
+            <lb />
+        </p>
+        <p>
+            2. 如何設計從 DOAJ 與 E-LIS 中取得詮釋資料之攝入模組？
+            <lb />
+        </p>
+        <p>
+            3. 如何設計讓資訊消費者獲取詮釋資料之取用模組？
+            <lb />
+        </p>
+        <p>
+            4. 如何設計讓管理員便於管理圖資學 OA 期刊聯合目錄資料之管理模組？
+            <lb />
+        </p>
+        <p>
+            5. 如何整合上述模組 ，成為完整的圖資學 OA 期刊聯合目錄系統？
+            <lb />
+        </p>
+        <p>
+            本研究與筆者 2012 年發表之「基於 OAIS 之開放取用期刊管理系統設計與
+            <lb />
+            實作」所探討之問題不同之處在於：2012 年探討的是作為資訊生產者 ，開放取
+            <lb />
+            用期刊管理系統如何向 DOAJ 等系統提交資料的問題；而本文探討的是作為資訊
+            <lb />
+            消費者 ，開放取用期刊聯合目錄如何自 DOAJ、E-LIS 等系統匯集資料的問題。
+            <lb />
+        </p>
+        <p>
+            此外 ，本研究僅著眼於開發一匯集 DOAJ 與 E-LIS 之聯合目錄 ，至於 OAIS
+            <lb />
+            參考模式中數位物件的典藏管理 、異地備援 、長期保存策略等 ，並不在本文的
+            <lb />
+            研究範圍 ，有興趣的讀者可參閱：林信成 、鄭國祥 ， 「數位典藏資訊系統之長
+            <lb />
+            期保存規劃與實施」 ，教育資料與圖書館學 ，2009 年 3 月 ，第 46 卷 ，第 3 期 ，
+            <lb />
+            頁 323-349 一文。
+            <lb />
+        </p>
+        <p>
+            ㈢ DOAJ 與 E-LIS
+            <lb />
+            由於開放取用的學術資源分散於網路各處 ，須要有效整合以方便讀者利
+            <lb />
+            用 ，OA 學術資源聯合目錄便應運而生 ，本研究採用的 DOAJ 和 E-LIS 便是其中
+            <lb />
+            較知名者。
+            <lb />
+        </p>
+        <p>
+            DOAJ 創建於 2003 年 ，起因於 OA 期刊愈來愈多 ，而有經驗的圖書館員缺
+            <lb />
+            乏時間編目 ，OA 出版者也難以傳播期刊文章。為提升 OA 期刊的能見度 、增
+            <lb />
+            加其使用性及影響力 ，2002 年 10 月在瑞典蘭德大學(Lund University)召開的
+            <lb />
+            「第一屆北歐學術傳播會議」 (First Nordic Conference on Scholarly Communica-
+            <lb />
+            tion) ，提出創建一個開放取用期刊目錄的構想 ，並由蘭德大學於 2003 年 5 月推
+            <lb />
+            出。 7 DOAJ 計畫目的是希望透過 OPAC(Online Public Access Catalogue)支援
+            <lb />
+            OA 學術出版品 ，並能夠遠端取用 ，不需分散找尋。 8 DOAJ 初期僅有 300 種 OA
+            <lb />
+            期刊 ，至今已有近 9,000 種 ，學科主題包括科學 、技術 、醫學 、人文與社會科
+            <lb />
+            學 9 ，已成為匯集全球具備同儕評閱且確保品質的 OA 期刊整合平台 ，提供科學
+            <lb />
+            研究人員檢索利用 ，讓使用者能夠一次取足(one stop shop) 。 10
+            <lb />
+        </p>
+        <p>
+            E-LIS 則是一個圖書資訊學國際數位資料庫 ，於 2003 年由一批擁有圖書資
+            <lb />
+            訊學專業的志願團隊所建立 ，現由兩年一期的管理委員會 、行政委員會與編
+            <lb />
+            輯委員會經營 ，並由 AIMS(Agricultural Information Management Standards) 、
+            <lb />
+            ULCC(University of London Computer Centre) 、INRA(Institut National de la Re-
+            <lb />
+            cherche Agronomique)贊助 ，D&amp;P Studio Legale 提供免費法律諮詢。 11 典藏的資
+            <lb />
+            料類型包含預印本 (e-prints) 、學位論文 (thesis) 、書籍 (book) 、書籍章節 (book
+            <lb />
+            chapter) 、書目(bibliography) 、指南 手冊(guide/manual) 、教程(tutorial) 、圖
+            <lb />
+            書館教學材料(library instructional material) 、會議論文集(conference proceedings) 、
+            <lb />
+            會議論文 (conference paper) 、會議海報 (conference poster) 、演講 (presentation) 、
+            <lb />
+            專案 商業計畫 (project/business plan) 、報告 (report) 、部門技術報告 (departmental
+            <lb />
+            technical report) 、技術報告(technical report) 、期刊文章(journal article) 、評論
+            <lb />
+            (review) 、報紙 雜誌文章(newspaper/magazine article) 、館藏(in collection) 、
+            <lb />
+            資料集(dataset)與其他(other) 。 12
+            <lb />
+        </p>
+        <p>
+            DOAJ 與 E-LIS 雖同為 OA 學術資源聯合目錄 ，但於典藏資料類型與資源描
+            <lb />
+            述形式 、同儕評閱與資料更新方式上皆有所不同：在典藏資料類型與資源描述
+            <lb />
+            形式方面 ，因 DOAJ 的典藏資料類型僅包含期刊與期刊文章的詮釋資料 ，故資
+            <lb />
+            源描述形式只使用都柏林核心集(Dublin Core，簡稱 DC)及自訂的 DOAJ Arti-
+            <lb />
+            cle 作為其詮釋資料格式(以下簡稱「DOAJ 詮釋資料格式」 ) ；而 E-LIS 則因收錄
+            <lb />
+            了包括預印本、學位論文 、期刊論文、會議論文、圖書……等多元資料類型 ，
+            <lb />
+            因此綜合採用了 DC、數位項目宣告語言(Digital Item Declaration Language，簡
+            <lb />
+            稱 DIDL) 、詮釋資料編碼與傳輸標準(Metadata Encoding and Transmission Stan-
+            <lb />
+            dard，簡稱 METS) 、英國電子學位論文(United Kingdom Electronic Theses and
+            <lb />
+            Dissertation，簡稱 UKETD)四種詮釋資料格式 ，可以對應使用在不同類型的資
+            <lb />
+            料上。 13 而在同儕評閱與資料更新方式上 ，DOAJ 所典藏的資料皆為經同儕評
+            <lb />
+            閱之期刊出版者上傳 ，而 E-LIS 所典藏的資料皆由一般使用者註冊並上傳 ，因
+            <lb />
+            此不保證其資料經過同儕評閱。
+            <lb />
+        </p>
+        <p>
+            換言之 ，DOAJ 僅收錄 OA 期刊而不含其他類型資料 ，如圖書或學位論文
+            <lb />
+            等 ，而在其所收錄的期刊文章中則包含圖書資訊學類與非圖書資訊學類；而
+            <lb />
+            E-LIS 則僅收錄圖書資訊學類之 OA 資源 ，但除了期刊還包含圖書或學位論文等
+            <lb />
+            各式資源。本研究所擬開發的系統即試圖從上述兩個 OA 平台 ，自動擷取出與
+            <lb />
+            圖書資訊學相關之 OA 期刊資源 ，捨棄 DOAJ 非圖書資訊學(Non-LIS) 、E-LIS
+            <lb />
+            非期刊(Non-Journal)的部分 ，完成一個「圖書資訊學開放取用期刊聯合目錄系
+            <lb />
+            統-LISOAJD」供圖書資訊學領域之研究者使用 ，如圖 3 所示。
+            <lb />
+        </p>
+        <figure>
+            圖3 圖書資訊學OA期刊聯合目錄概念圖
+            <lb />
+        </figure>
+        <p>
+            ㈣ OAI-PMH 通訊協定
+            <lb />
+            開放取用聯合目錄所需具備的重要功能之一是：支援標準化的通訊協
+            <lb />
+            定 ，以便在分散式的異質系統之間進行資料交換。早期線上聯合目錄普遍使用
+            <lb />
+            Z39.50，之後逐漸發展出不同的檢索協定 ，如：開放典藏協會詮釋資料獲取協
+            <lb />
+            定 OAI-PMH(Open Archives Initiative Protocol for Metadata Harvesting) 14 、簡易
+            <lb />
+            物件存取協定 SOAP(Simple Object Access Protocol) 15 、開放式統一資源定址協定
+            <lb />
+            OpenURL 16 、SRU/SRW(Search and Retrieve URL / Search and Retrieve Web) 17 ……
+            <lb />
+            等。 18 由於本研究擬連結的 DOAJ 與 E-LIS 皆支援 OAI-PMH，因此本系統也將基
+            <lb />
+            於 OAI-PMH 進行開發。
+            <lb />
+        </p>
+        <p>
+            OAI-PMH 是由開放典藏協會(Open Archives Initiative)所制訂的詮釋資料
+            <lb />
+            交換協定。該協定自 1999 年開始發展 ，至 2002 年 2.0 版逐漸完備 ，為國際上數
+            <lb />
+            位化資源詮釋資料交換標準之一。 19 OAI-PMH 最初的目的是作為學術性電子期
+            <lb />
+            刊預印本之互通性檢索 ，而後逐漸發展成為 Metadata 獲取(Metadata Havesting)
+            <lb />
+            的整合機制 ，在資訊交換過程中提供標準化的通訊協定 ，以將分散的資源加以
+            <lb />
+            匯整 ，因此可作為數位圖書館 、數位博物館 、數位典藏庫之間的互通框架 ，達
+            <lb />
+            成分散式數位典藏品整合檢索之目的。OAI-PMH 協定具實作容易 、開放性 ，
+            <lb />
+            採用 XML 與 HTTP 等開放標準 ，相容性高……等優點 ，在歐美已有許多單位進
+            <lb />
+            行建置與使用。 20
+            <lb />
+        </p>
+        <p>
+            在 OAI-PMH 架構中 ，主要是由資料提供者(data provider) 、服務提供者
+            <lb />
+            (service provider)和兩者之間共通的六個命令集(verbs)所構成。資料提供者
+            <lb />
+            主要作用是解讀並回應查詢需求 ，並將儲存器(Repository)之資料以符合 OAI-
+            <lb />
+            PMH 協定之 Metadata 格式傳送。服務提供者是一個客戶端應用程式(client
+            <lb />
+            application) ，主要任務是以獲取器(harvester)向資料提供者發送查詢需求 ，以
+            <lb />
+            便從儲存庫獲取所需數位典藏品的 Metadata，並以所獲得的 Metadata 建立加值
+            <lb />
+            服務。而兩者之間共通的六個命令集則分別為 Identify、ListMetadataFormats、
+            <lb />
+            ListSets、ListIdentifiers、ListRecords 及 GetRecord： 21
+            <lb />
+        </p>
+        <p>
+            n Identify：獲取器藉此命令取得儲存器之識別資訊。
+            <lb />
+        </p>
+        <p>
+            n ListMetadataFormats：獲取器藉此命令取得儲存器所支援的Metadata格式。
+            <lb />
+        </p>
+        <p>
+            n ListSets：獲取器藉此命令取得儲存器之資料集。
+            <lb />
+        </p>
+        <p>
+            n ListIdentifiers：獲取器藉此命令取得儲存器於指定期間的典藏品識別資料。
+            <lb />
+        </p>
+        <p>
+            n ListRecords：獲取器藉此命令取得儲存器於指定期間的 Metadata 資料。
+            <lb />
+        </p>
+        <p>
+            n GetRecord：獲取器藉此命令獲取儲存器中單筆的 Metadata 資料。
+            <lb />
+        </p>
+        <p>
+            ㈤ 系統開發環境
+            <lb />
+            本研究基於 LAMP(Linux、Apache、MySQL、PHP)環境開發並建置「圖
+            <lb />
+            書資訊學 OA 期刊聯合目錄」 ，詳細規格如表 1 所示。
+            <lb />
+        </p>
+        <figure type="table">
+            表 1 系統開發環境
+            <lb />
+            軟體環境 規格
+            <lb />
+            Linux
+            <lb />
+            作業系統：Centos 6.5
+            <lb />
+            記憶體：31.2GiB
+            <lb />
+            處理器： Intel(R) Xeon(R)
+            <lb />
+            CPU E5-2620 v2@2.10GHz
+            <lb />
+            Apache
+            <lb />
+            版本：2.2.15
+            <lb />
+            MySQL 版本：5.1.73
+            <lb />
+            協定版本：10
+            <lb />
+            字元集：UTF-8
+            <lb />
+            PHP
+            <lb />
+            版本：5.3.3
+            <lb />
+        </figure>
+        <head>
+            三、系統模組設計與開發
+            <lb />
+        </head>
+        <p>
+            本系統之設計與開發 ，共分為四大部分：㈠典藏模組與資料庫設計；㈡攝
+            <lb />
+            入模組與剖析器設計；㈢取用模組設計與流量控制；㈣管理模組設計。系統整
+            <lb />
+            合架構如圖 4 所示 ，讀者不難將其與 OAIS 參考模式對應。以下分述其開發過程
+            <lb />
+            與成果。
+            <lb />
+        </p>
+        <p>
+            ㈠ 典藏模組與資料庫設計
+            <lb />
+            典藏模組對應於 OAIS 參考模式之典藏儲存庫角色 ，本研究採用 MySQL
+            <lb />
+            資料庫儲存 OA 期刊之詮釋資料。為了建置能夠儲存 DOAJ 與 E-LIS 之 OA 期
+            <lb />
+            刊詮釋資料的資料庫 ，需對兩者之詮釋資料格式及著錄方式有所了解。如前
+            <lb />
+            所述 DOAJ 採用了 DC 與自訂的 DOAJ 詮釋資料格式；而 E-LIS 則採用了 DC、
+            <lb />
+            DIDL、METS 與 UKETD，除了 DC 之外 ，其他三者都應用於非期刊資料 ，不予
+            <lb />
+            討論。
+            <lb />
+        </p>
+        <p>
+            經分析 DOAJ 資料庫中 ，以自訂的 DOAJ 詮釋資料格式(以下稱為 oai_
+            <lb />
+            doaj)著錄期刊文章 ，所使用的標籤包括：language、publisher、journalTitle、
+            <lb />
+            issn、eissn、publicationDate、volume、issue、startPage、endPage、doi、publisher、
+            <lb />
+            RecordId、title、authors、abstract、fullTextUrl、keywords 等。其中較特別的是：
+            <lb />
+            RecordId 著錄該筆詮釋資料於原系統的唯一識別碼；而 authors 為複數標籤 ，
+            <lb />
+            因每篇文章可能不只一位作者 ，其下又以單數標籤 author 分隔每作者的基本資
+            <lb />
+            料 ，包括：name、email 與 affiliationId 等 ，而 affiliationId 又對應到 affiliationsList
+            <lb />
+            中分隔不同作者服務單位的標籤 affiliationName 之屬性 affiliationId；同樣的 ，複
+            <lb />
+            數標籤 keywords 之下也是再以單數標籤 keyword 分隔不同的關鍵字。
+            <lb />
+        </p>
+        <p>
+            而 DOAJ 資料庫中 ，以 DC 著錄的期刊文章詮釋資料(以下稱為 oai_dc) ，
+            <lb />
+            其標籤包括：title、creator、subject、description、publisher、date、type、
+            <lb />
+            source、rights、identifier、relation、language 等。由於 DC 在使用上保有彈性 ，
+            <lb />
+            以致於 DOAJ 在著錄時 ，自訂了一些較特別的部分 ，如：以 subject 作為關鍵字
+            <lb />
+            欄位 ，並以屬性「xsi:type」著錄 dcterms:LCSH，標示是否為美國國會圖書館標
+            <lb />
+            題表的詞彙；source 則作為複合欄位 ，著錄期刊題名 、卷 、期 、頁數與出版年
+            <lb />
+            份；identifier 則分別著錄 ISSN、EISSN、DOI 與該文章於 DOAJ 中頁面的網址；
+            <lb />
+            relation 則包含全文檔案網址與該文章的期刊於 DOAJ 中頁面的網址。
+            <lb />
+        </p>
+        <p>
+            E-LIS 雖然也採用 DC 著錄期刊文章(同樣稱為 oai_dc) ，但在使用方式上 ，
+            <lb />
+            自訂了一些與 DOAJ 不同之處 ，如：subject 為 E-LIS 自行設定的主題分類；type
+            <lb />
+            為資料類型與是否經同儕評鑑；identifier 標籤則重複著錄兩次 ，一為作者 、期
+            <lb />
+            刊文章題名 、期刊題名 、文章出版年 、卷期 、頁數與資料類型 ，另一 identifier
+            <lb />
+            則為全文檔案網址；relation 為該文章於 E-LIS 中的頁面網址。
+            <lb />
+        </p>
+        <figure>
+            圖4 圖書資訊學OA期刊聯合目錄系統整合圖
+            <lb />
+        </figure>
+        <p>
+            茲將上述分析整理成對應表 ，再依系統需求拆分為四個資料表 ，分別命名
+            <lb />
+            為 records、authors、keywords 和 rights，並規劃其欄位如表 2 所示：
+            <lb />
+        </p>
+        <figure type="table">
+            表 2 DOAJ 與 E-LIS 詮釋資料欄位對應表
+            <lb />
+            資料表欄位
+            <lb />
+            DOAJ
+            <lb />
+            E-LIS
+            <lb />
+            資料表 欄位
+            <lb />
+            oai_doaj
+            <lb />
+            oai_dc
+            <lb />
+            oai_dc
+            <lb />
+            records title
+            <lb />
+            title
+            <lb />
+            title
+            <lb />
+            title
+            <lb />
+            abstract
+            <lb />
+            abstract
+            <lb />
+            description description
+            <lb />
+            publisher
+            <lb />
+            publisher
+            <lb />
+            publisher publisher
+            <lb />
+            publicationDate publicationDate
+            <lb />
+            date
+            <lb />
+            date
+            <lb />
+            language
+            <lb />
+            language
+            <lb />
+            language language
+            <lb />
+            journalTitle
+            <lb />
+            journalTitle
+            <lb />
+            source
+            <lb />
+            identifier
+            <lb />
+            fullTextUrl
+            <lb />
+            fullTextUrl
+            <lb />
+            relation
+            <lb />
+            identifier
+            <lb />
+            starPage
+            <lb />
+            starPage
+            <lb />
+            source
+            <lb />
+            identifier
+            <lb />
+            endPage
+            <lb />
+            endPage
+            <lb />
+            source
+            <lb />
+            identifier
+            <lb />
+            volume
+            <lb />
+            volume
+            <lb />
+            source
+            <lb />
+            identifier
+            <lb />
+            issue
+            <lb />
+            issue
+            <lb />
+            source
+            <lb />
+            identifier
+            <lb />
+            issn
+            <lb />
+            issn
+            <lb />
+            identifier N/A
+            <lb />
+            eissn
+            <lb />
+            eissn
+            <lb />
+            identifier N/A
+            <lb />
+            doi
+            <lb />
+            doi
+            <lb />
+            identifier N/A
+            <lb />
+            format
+            <lb />
+            format (fullTextUrl attribute)
+            <lb />
+            format
+            <lb />
+            format
+            <lb />
+            PeerReviewed
+            <lb />
+            N/A
+            <lb />
+            N/A
+            <lb />
+            type
+            <lb />
+            authors name
+            <lb />
+            authors
+            <lb />
+            author
+            <lb />
+            name
+            <lb />
+            creator
+            <lb />
+            creator
+            <lb />
+            email
+            <lb />
+            email
+            <lb />
+            N/A
+            <lb />
+            N/A
+            <lb />
+            affiliationId
+            <lb />
+            affiliationId
+            <lb />
+            N/A
+            <lb />
+            N/A
+            <lb />
+            affiliationsName affiliationsList
+            <lb />
+            affiliationName N/A
+            <lb />
+            N/A
+            <lb />
+            keywords keyword
+            <lb />
+            keywords
+            <lb />
+            keyword
+            <lb />
+            subject
+            <lb />
+            subject
+            <lb />
+            LCSH
+            <lb />
+            N/A
+            <lb />
+            xsi:type
+            <lb />
+            (subject
+            <lb />
+            attribute)
+            <lb />
+            N/A
+            <lb />
+            rights
+            <lb />
+            right
+            <lb />
+            N/A
+            <lb />
+            rights
+            <lb />
+            rights
+            <lb />
+        </figure>
+        <p>
+            資料來源：本研究整理。
+            <lb />
+        </p>
+        <p>
+            其中 ，records、authors、keywords 和 rights 資料表各以 recordid、authorid、
+            <lb />
+            keywordid 和 rightid 作為主鍵(primary key，簡稱 PK)互相關聯 ，如圖 5 所示。
+            <lb />
+            此外 ，另有 admin、resumptiontoken、metadataformat、identify 四個獨立資料表
+            <lb />
+            作為其他模組之用。
+            <lb />
+        </p>
+        <p>
+            ㈡ 攝入模組與剖析器設計
+            <lb />
+            DOAJ 與 E-LIS 皆藉由 OAI-PMH 提供詮釋資料予資訊消費端。當本系統透
+            <lb />
+            過 OAI-PMH 從 DOAJ 與 E-LIS 獲取詮釋資料後 ，需藉由剖析器剖析 ，並將符合
+            <lb />
+            條件之圖書資訊學 OA 期刊詮釋資料存入資料庫 ，此即攝入模組之功能需求。
+            <lb />
+        </p>
+        <p>
+            本模組之剖析器開發 ，需依據 DOAJ 與 E-LIS 詮釋資料著錄方式 ，再以
+            <lb />
+            PHP 編寫剖析器程式碼 ，接著實際執行測試 ，若遭遇執行錯誤或無法成功剖析
+            <lb />
+            等問題 ，則對程式碼進行修改 ，直到能夠成功剖析詮釋資料為止。本模組係
+            <lb />
+            以 XML 的 DOM 方法 ，創建 DOMDocument 物件 ，並載入 XML 資料 ，再依據
+            <lb />
+            XML 樹狀結構 ，將父標籤下的子標籤以陣列形式拆解後再逐項解析 ，最後取得
+            <lb />
+            標籤中的資料。
+            <lb />
+        </p>
+        <p>
+            然而 ，在開發過程中不斷發現無論 DOAJ 或 E-LIS，在詮釋資料格式標準與
+            <lb />
+            詮釋資料的品質上皆存在許多差異與問題 ，甚至連 OAI-PMH 部分亦不符規格
+            <lb />
+            書的規範 ，以致造成攝入模組與剖析器開發複雜度與難度增加。這當中有些問
+            <lb />
+            題本研究已藉由撰寫程式一一克服並解決 ，但有些問題則是 DOAJ 與 E-LIS 資料
+            <lb />
+            品質問題。例如 ，來自 DOAJ 與 E-LIS 文章各項詮釋資料常有不一致情形 ，由
+            <lb />
+            於難以判斷何者正確 ，本系統以直接存入資料庫的方式處理 ，不另外清理不一
+            <lb />
+            致情形 ，且由於 DOAJ 與 E-LIS 兩者對於詮釋資料格式的定義不同 ，相同標籤
+            <lb />
+            中可能會存放類型迥異的資料 ，皆使得資料可能被存到不同欄位。此部分值得
+            <lb />
+            未來進一步對兩者資料品質進行探討 ，以下僅就本研究能處理之處加以說明。
+            <lb />
+        </p>
+        <figure>
+            圖5 本系統之資料庫結構
+            <lb />
+        </figure>
+        <p>
+            1. 複合資料剖析問題
+            <lb />
+            無論 DOAJ 或 E-LIS，採用 DC 所著錄的 oai_dc 詮釋資料 ，皆發現有單一標
+            <lb />
+            籤包含複合資料的情況：如 DOAJ 的 oai_dc 格式 ，在標籤 source 中包含了期刊
+            <lb />
+            題名 、卷 、期 、頁數與出版年份 ，如「Journal of Information Science Theory and
+            <lb />
+            Practice, Vol 4, Iss 1, Pp 49-64 (2016)」 ，全部集中在一個標籤。E-LIS 的 oai_dc 格
+            <lb />
+            式 ，則在標籤 identifier 中包含作者姓名 、期刊文章題名 、期刊題名 、出版年
+            <lb />
+            份 、卷 、期 、頁數與資料類型 ，如「G. Figuerola, Carlos and Gomez Díaz, Ra-
+            <lb />
+            quel and López de San Roman, Eva Stemming and n-grams in Spanish: An evaluation
+            <lb />
+            of their impact on information retrieval. Journal of Information Science, 2000, vol. 26,
+            <lb />
+            n. 6, pp. 461-467. [Journal article (Print/Paginated)]」 ，包含了更多不同性質的資
+            <lb />
+            料。因此 ，除了將資料從標籤中剖析出來外 ，本研究另撰寫額外的程式碼來解
+            <lb />
+            析複合資料 ，以便順利將資料存入適當的資料表欄位中。
+            <lb />
+        </p>
+        <p>
+            2. 詮釋資料格式標準不一問題
+            <lb />
+            DOAJ 與 E-LIS 共同皆使用的詮釋資料格式為 DC，但包含之內容與格式
+            <lb />
+            卻存在著差異 ，雖然同為 DC，但 DOAJ 與 E-LIS 在 DC 的 15 項標籤中 ，便有 9
+            <lb />
+            項包含的內容與格式有差異 ，分別為 subject、type、source、relation、rights、
+            <lb />
+            date、format、identifier 與 language，整理如表 3 所示。
+            <lb />
+        </p>
+        <figure type="table">
+            表 3 DOAJ 與 E-LIS 使用 DC 標籤異同比較表
+            <lb />
+            DC 標籤
+            <lb />
+            DOAJ
+            <lb />
+            E-LIS
+            <lb />
+            title
+            <lb />
+            文章題名
+            <lb />
+            文章題名
+            <lb />
+            subject
+            <lb />
+            關鍵字(包含美國國會圖書
+            <lb />
+            館標題表)
+            <lb />
+            E-LIS 自行設定的主題分類
+            <lb />
+            description 文章摘要
+            <lb />
+            文章摘要
+            <lb />
+            type
+            <lb />
+            資料類型(預設值為 article) 資 料 類 型 ( 期 刊 為 Journal
+            <lb />
+            article[ 線 上 或 紙 本 / 是 否 編 頁
+            <lb />
+            碼 ])以及是否有通過同儕評鑑
+            <lb />
+            source
+            <lb />
+            期刊題名 、卷期 、頁數及出
+            <lb />
+            版年
+            <lb />
+            未使用
+            <lb />
+            relation
+            <lb />
+            全文網址
+            <lb />
+            文章資料於 E-LIS 中的連結頁面
+            <lb />
+            網址
+            <lb />
+            coverage
+            <lb />
+            未使用
+            <lb />
+            未使用
+            <lb />
+            creator
+            <lb />
+            文章作者
+            <lb />
+            文章作者
+            <lb />
+            publisher
+            <lb />
+            期刊出版者
+            <lb />
+            期刊出版者
+            <lb />
+            contributor 未使用
+            <lb />
+            未使用
+            <lb />
+            rights
+            <lb />
+            文章授權方式
+            <lb />
+            未使用
+            <lb />
+            date
+            <lb />
+            文 章 出 版 年 月 日(YYYY-
+            <lb />
+            MM-DD)
+            <lb />
+            文 章 出 版 年 月 日( 格 式 不 定 ，
+            <lb />
+            YYYY 或 YYYY-MM 或 YYYY-
+            <lb />
+            MM-DD)
+            <lb />
+            format
+            <lb />
+            未使用
+            <lb />
+            全文檔案格式
+            <lb />
+            identifier
+            <lb />
+            ISSN、EISSN、DOI 以及文
+            <lb />
+            章資料於 DOAJ 的連結網址
+            <lb />
+            全文網址以及文章的期刊題名 、
+            <lb />
+            卷期 、頁數 、ISSN 及出版年
+            <lb />
+            language
+            <lb />
+            文 章 出 版 語 言(English、
+            <lb />
+            Chinese)
+            <lb />
+            文章出版語言(en、zh)
+            <lb />
+        </figure>
+        <p>
+            本研究之攝入模組雖已依據 DOAJ 與 E-LIS 詮釋資料著錄方式 ，開發符合
+            <lb />
+            其格式的剖析器 ，但發現 DC 雖能廣泛的讓各主題擁有統一標準之詮釋資料格
+            <lb />
+            式 ，但在給予使用者有較寬裕的自由去詮釋典藏品資料的情況下 ，卻也因此造
+            <lb />
+            成各自解讀其定義及用法的情形 ，使得統一的標準形同虛設 ，也徒增剖析器設
+            <lb />
+            計的困難度與複雜性。
+            <lb />
+        </p>
+        <p>
+            3. 資料缺漏問題
+            <lb />
+            攝入模組開發過程中 ，亦發現 DOAJ 與 E-LIS 的資料有嚴重缺漏的情形 ，
+            <lb />
+            使得所獲取的詮釋資料有誤 、重複或無法正確整併 ，也影響本系統的資料品
+            <lb />
+            質。截至 2016 年 12 月 18 日止 ，本系統共收錄期刊 688 種 ，期刊文章 11,491 篇。
+            <lb />
+            從攝入資料的過程中 DOAJ 與 的缺漏狀態共 12 項 ，分別為未填
+            <lb />
+            出版者 、起始頁 、結束頁 、頁數 、卷 、期 、ISSN、EISSN 與作者姓名
+            <lb />
+            作者單位 、關鍵字與摘要資訊不全等 ，若將其各項缺漏狀態百分比繪製成圖 ，
+            <lb />
+            則如圖 6 所示。從圖 6 也可發現 E-LIS 在未填 ISSN、EISSN、起始頁 、頁數 、
+            <lb />
+            卷 、期與出版者等 7 項 ，缺漏百分比皆高於 DOAJ，顯示 E-LIS 較無顧及資料品
+            <lb />
+            質。DOAJ 與 E-LIS 資料品質問題並非本系統能解決 ，建議學術傳播領域研究者
+            <lb />
+            未來可進一步探討之。
+            <lb />
+        </p>
+        <figure>
+            圖6 DOAJ與E-LIS各項缺漏狀態百分比
+            <lb />
+        </figure>
+        <p>
+            4. 未完全遵循 OAI-PMH 規範問題
+            <lb />
+            OAI-PMH 的規格書中 ，明確標示各個功能 、要求 、回應與屬性等 ，但本
+            <lb />
+            系統在實際獲取 DOAJ 和 E-LIS 資料時 ，發現兩者並未完全遵循 OAI-PMH 規
+            <lb />
+            範。例如 ，標籤 resumptionToken 必須具備屬性 completeListSize、cursor 與 expi-
+            <lb />
+            rationDate，但 E-LIS 並未具備上述三個屬性；另外 ，resumptionToken 編號在超
+            <lb />
+            過 expirationDate 後 ，應立即失效 ，但 DOAJ 與 E-LIS 的 resumptionToken 並不會
+            <lb />
+            因超過 expirationDate 而失效 ，都還能夠再次使用。又例如 ，OAI-PMH 為適用
+            <lb />
+            於集中式聯合目錄的檢索協定 ，擁有整併及儲存重複資料為單筆紀錄的功能 ，
+            <lb />
+            但若 DOAJ 與 E-LIS 並沒有特別檢查重複與不完整的資料 ，即便 OAI-PMH 擁有
+            <lb />
+            去除重複與獲取最正確資料的特性 ，也會因為DOAJ與E-LIS原始資料的缺陷
+            <lb />
+            造成仍然獲取重複與錯誤資料的情形。
+            <lb />
+        </p>
+        <p>
+            OAI-PMH 不具強制性 ，不遵守部分規範實際上並不影響系統運作 ，
+            <lb />
+            但 OAI-PMH 標準的本意是期望能使資料更容易互通 ，加速資訊傳播的速度 ，
+            <lb />
+            使 OA 學術資源能見度更加提高 ，若不遵循其規範 ，則徒增系統開發的困擾。
+            <lb />
+        </p>
+        <p>
+            ㈢ 取用模組設計與流量控制
+            <lb />
+            本系統除了獲取 DOAJ 與 E-LIS 的詮釋資料之外 ，也能夠轉換角色 ，作
+            <lb />
+            為資料提供端 ，以 ，此即取用模組之功
+            <lb />
+        </p>
+        <p>
+            首先 ，取用模組最重要的是要能解析 OAI-PMH 六項命令集 ，亦即在接收
+            <lb />
+            資訊消費端以 URL 送來的指令後 ，開始判斷所使用的 verb 及引數是否合法 ，意
+            <lb />
+            即是否為Identify、ListMetadataFormats、ListSets、ListIdentifiers、ListRecords
+            <lb />
+            GetRecord 其中一項命令 ，並判斷其引數是否包含在命令集定義的引數中；若判
+            <lb />
+            斷為合法 ，便進一步查詢資料庫中是否包含符合條件的資料；若有則依據該命
+            <lb />
+            令 ，以相對應的詮釋資料格式回應所需資料並結束程序；而以上三個步驟若判
+            <lb />
+            ，下一步皆顯示錯誤訊息 ，並且結束程序。
+            <lb />
+        </p>
+        <p>
+            ，值得注意的是：在提供詮釋資料的過程中 ，因 DOAJ 與 E-LIS 期刊
+            <lb />
+            文章的語言眾多 ，使用的編碼也不盡相同 ，故造成在提供詮釋資料時 ，會因特
+            <lb />
+            殊符號或未定義字碼而產生網頁錯誤 ，如期刊題名中包含「&amp;」或題名與摘要中
+            <lb />
+            包含「&apos;」或「&quot;」 。本系統使用「&lt;![CDATA[]]&gt;」
+            <lb />
+            其中 ，以解決此一問題。
+            <lb />
+        </p>
+        <p>
+            本系統取用模組之 baseURL 為「http://webserver.dils.tku.edu.tw/oai/oai.
+            <lb />
+            php」 ，六個命令集及引數可分別伴隨於「?verb=」之後。例如「http://webserver.
+            <lb />
+            dils.tku.edu.tw/oai/oai.php?verb=Identify」可取得本系統之識別資料；而「http://
+            <lb />
+            webserver.dils.tku.edu.tw/oai/oai.php?verb=ListMetadataFormats」則可得知本系統
+            <lb />
+            所支援之詮釋資料格式。取用模組在判斷命令及引數正確後 ，即以 OAI-PMH
+            <lb />
+            所規範的格式回應所需的詮釋資料。
+            <lb />
+        </p>
+        <p>
+            茲以 GetRecord 為例：
+            <lb />
+        </p>
+        <p>
+            其中 ， 「verb=GetRecord」表示資訊消費端想獲取單筆資料 ，而「identifier
+            <lb />
+            =5」則進一步指出想獲取識別碼 5 號之資料 ， 「metadataPrefix=oai_doaj」則指定
+            <lb />
+            以 oai_doaj 格式回應詮釋資料。本系統之取用模組對該命令的回應如下：
+            <lb />
+        </p>
+        &lt;OAI-PMH xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://www.
+        <lb />
+        xsi:schemaLocation=&quot;http://www.openarchives.org/OAI/2.0/ http://
+        <lb />
+        &lt;request verb=&quot;GetRecord&quot; metadataPrefix=&quot;oai_doaj&quot; identifier=&quot;5&quot;&gt;http://webserver.dils.tku.
+        <lb />
+        edu.tw/oai/oai.php&lt;/request&gt;
+        <lb />
+        &lt;GetRecord&gt;
+        <lb />
+        &lt;record&gt;
+        <lb />
+        &lt;header xmlns:oai_doaj=&quot;http://doaj.org/features/oai_doaj/1.0/&quot;&gt;
+        <lb />
+        &lt;identifier&gt;5&lt;/identifier&gt;
+        <lb />
+        &lt;datestamp&gt;2016-03-31&lt;/datestamp&gt;
+        <lb />
+        &lt;setSpec&gt;V0lEV0lTQVdO&gt;Mw==&gt;Mg==&lt;/setSpec&gt;
+        <lb />
+        &lt;/header&gt;
+        <lb />
+        &lt;metadata xmlns:oai_doaj=&quot;http://doaj.org/features/oai_doaj/1.0/&quot;&gt;
+        <lb />
+        &lt;oai_doaj:doajArticle xsi:schemaLocation=&quot;http://www.openarchives.org/OAI/2.0/ http://www.
+        <lb />
+        openarchives.org/OAI/2.0/OAI-PMH.xsd https://doaj.org/
+        <lb />
+        &lt;oai_doaj:language&gt;en&lt;/oai_doaj:language&gt;
+        <lb />
+        &lt;oai_doaj:publisher&gt;&lt;![CDATA[ SAPIENS ]]&gt;&lt;/oai_doaj:publisher&gt;
+        <lb />
+        &lt;oai_doaj:journalTitle&gt;&lt;![CDATA[ WIDWISAWN ]]&gt;&lt;/oai_doaj:journalTitle&gt;
+        <lb />
+        &lt;oai_doaj:publicationDate&gt;2005&lt;/oai_doaj:publicationDate&gt;
+        <lb />
+        &lt;oai_doaj:volume&gt;&lt;![CDATA[ 3 ]]&gt;&lt;/oai_doaj:volume&gt;
+        <lb />
+        &lt;oai_doaj:issue&gt;&lt;![CDATA[ 2 ]]&gt;&lt;/oai_doaj:issue&gt;
+        <lb />
+        &lt;oai_doaj:title&gt;&lt;![CDATA[Mapping the Scottish Common Information Environment, with a
+        <lb />
+        help from Google]]&gt;&lt;/oai_doaj:title&gt;
+        <lb />
+        &lt;oai_doaj:authors&gt;
+        <lb />
+        &lt;oai_doaj:author&gt;
+        <lb />
+        &lt;oai_doaj:name&gt;&lt;![CDATA[ Gordon ]]&gt;&lt;/oai_doaj:name&gt;
+        <lb />
+        &lt;/oai_doaj:author&gt;
+        <lb />
+        &lt;/oai_doaj:authors&gt;
+        <lb />
+        &lt;oai_doaj:abstract&gt;&lt;![CDATA[This article describes how the simple incorporation of Google
+        <lb />
+        Maps within information services can add value for users.]]&gt;&lt;/oai_doaj:abstract&gt;
+        <lb />
+        &lt;oai_doaj:fullTextUrl&gt;http://eprints.rclis.org/3819/1/issue3_2.pdf&lt;/oai_doaj:fullTextUrl&gt;
+        <lb />
+        &lt;oai_doaj:keywords&gt;
+        <lb />
+        &lt;oai_doaj:keyword&gt;&lt;![CDATA[ IZ. None of these, but in this section. ]]&gt;&lt;/oai_
+        <lb />
+        &lt;/oai_doaj:keywords&gt;
+        <lb />
+        &lt;/oai_doaj:doajArticle&gt;
+        <lb />
+        &lt;/metadata&gt;
+        <lb />
+        &lt;/record&gt;
+        <lb />
+        &lt;/GetRecord&gt;
+        <lb />
+        &lt;/OAI-PMH&gt;
+        <lb />
+        <p>
+            若改以「metadataPrefix=oai_dc」則指定以 oai_dc 格式回應詮釋資料：
+            <lb />
+        </p>
+        <p>
+            則本系統之取用模組的回應如下：
+            <lb />
+        </p>
+        xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+        <lb />
+        openarchives.org/OAI/2.0/&quot; http://
+        <lb />
+        &lt;request verb=&quot;GetRecord&quot; metadataPrefix=&quot;oai_dc&quot; identifier=&quot;5&quot;&gt;http://webserver.dils.tku.edu.
+        <lb />
+        tw/oai/oai.php&lt;/request&gt;
+        <lb />
+        &lt;responseDate&gt;2016-04-11T01:37:46Z&lt;/responseDate&gt;
+        <lb />
+        &lt;record&gt;
+        <lb />
+        &lt;header xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xmlns:oai_dc=&quot;http://www.openarchives.
+        <lb />
+        org/OAI/2.0/oai_dc/&quot;&gt;
+        <lb />
+        &lt;identifier&gt;5&lt;/identifier&gt;
+        <lb />
+        &lt;datestamp&gt;2016-03-31&lt;/datestamp&gt;
+        <lb />
+        &lt;setSpec&gt;V0lEV0lTQVdO&gt;Mw==&gt;Mg==&lt;/setSpec&gt;
+        <lb />
+        &lt;/header&gt;
+        <lb />
+        &lt;metadata xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xmlns:oai_dc=&quot;http://www.openarchives.
+        <lb />
+        org/OAI/2.0/oai_dc/&quot;&gt;
+        <lb />
+        http://www.
+        <lb />
+        openarchives.org/OAI/2.0/OAI-PMH.xsd&quot;&gt;
+        <lb />
+        &lt;dc:title&gt;Mapping the Scottish Common Information Environment, with a little help from
+        <lb />
+        &lt;dc:date&gt;2005&lt;/dc:date&gt;
+        <lb />
+        &lt;dc:relation&gt;http://eprints.rclis.org/3819/1/issue3_2.pdf&lt;/dc:relation&gt;
+        <lb />
+        &lt;dc:publisher&gt;&lt;![CDATA[ SAPIENS ]]&gt;&lt;/dc:publisher&gt;
+        <lb />
+        &lt;dc:type&gt;Journal article&lt;/dc:type&gt;
+        <lb />
+        &lt;dc:description&gt;&lt;![CDATA[This describes how the simple incorporation of Google
+        <lb />
+        within information services can add value for users.]]&gt;&lt;/dc:description&gt;
+        <lb />
+        &lt;dc:creator&gt;&lt;![CDATA[ Dunsire, Gordon ]]&gt;&lt;/dc:creator&gt;
+        <lb />
+        &lt;dc:subject&gt;&lt;![CDATA[ IZ. None of these, but in this section. ]]&gt;&lt;/dc:subject&gt;
+        <lb />
+        &lt;dc:language&gt;en&lt;/dc:language&gt;
+        <lb />
+        &lt;dc:source&gt;&lt;![CDATA[ WIDWISAWN, Vol 3, Iss 2, Pp -(2005) ]]&gt;&lt;/dc:source&gt;
+        <lb />
+        &lt;/oai_dc:dc&gt;
+        <lb />
+        &lt;/metadata&gt;
+        <lb />
+        &lt;/record&gt;
+        <lb />
+        &lt;/GetRecord&gt;
+        <lb />
+        &lt;/OAI-PMH&gt;
+        <lb />
+        <p>
+            在資料取用的過程中 ，由於 ListSets、ListIdentifiers ListRecords
+            <lb />
+            較為龐大 ，因此在提供資料給資料消費端取用時 ，可實施流量控制 ，以分批獲
+            <lb />
+            取資料。OAI-PMH 協定中控制流量之參數為 resumptionToken，但並未硬性規定
+            <lb />
+            ，而由各系統設計者彈性運用。本研究依據 OAI-PMH 官網之說
+            <lb />
+            明 ，採用號碼牌方式 ，由資料提供端給予一個號碼牌作為註記 ，而資料消費端
+            <lb />
+            以該參數回傳號碼牌時 ，資料提供端則回應接續於上批資料之後的紀錄。
+            <lb />
+        </p>
+        <p>
+            ㈣ 管理模組設計
+            <lb />
+            本系統之管理模組主要提供更改系統資訊 、更改資料獲取區間以及查看資
+            <lb />
+            訊不完整統計報表 、管理員登入登出及修改密碼等功能。此外 ，因本系統之資
+            <lb />
+            料來源皆為DOAJ與E-LIS，若資料有缺陷或重複乃DOAJ與E-LIS來源端問題 ，
+            <lb />
+            因此 ，本模組不提供新增 、刪除與修改詮釋資料等功能。
+            <lb />
+        </p>
+        <p>
+            1. 更改系統資訊
+            <lb />
+            OAI-PMH 命令 Identify
+            <lb />
+            repositoryName、baseURL與adminEmail等資訊。repositoryName是本系統名稱；
+            <lb />
+            baseURL 則是本系統取用模組之網址；adminEmail 是管理員的電子信箱。其他
+            <lb />
+            資訊如協定版本 、是否記錄刪除狀態及時間表示形式三項 ，則於程式內設定 ，
+            <lb />
+            不開放管理員更動。
+            <lb />
+        </p>
+        <p>
+            2. 更改資料獲取區間
+            <lb />
+            ListRecords 命令之
+            <lb />
+            from 與 until 間隔 ，因獲取資料的時間有時區限制 ，也因本系統時間表示形式僅
+            <lb />
+            使用年、月、日 ，未使用到小時與分秒以下單位 ，若資料攝入有所遺漏情況 ，
+            <lb />
+            可自行調整區間 ，以新的時間區間去獲取 DOAJ 與
+            <lb />
+            E-LIS 中符合條件的詮釋資料。
+            <lb />
+        </p>
+        <p>
+            3. 資訊不完整統計報表
+            <lb />
+            資訊不完整統計報表可以讓管理員對資料缺漏情形一目了然 ，分別為未填
+            <lb />
+            出版者 、起始頁 、結束頁 、頁數 、卷 、期 、ISSN、EISSN 與作者姓名 ，以及
+            <lb />
+            作者單位 、關鍵字與摘要資訊不全。此報表允許另外點擊連結 ，進一步了解缺
+            <lb />
+            漏情況詳細資料。
+            <lb />
+        </p>
+        <p>
+            透過修改密碼 、更改系統資訊 、更改資料獲取區間
+            <lb />
+            與登出五個功能 ，給予管理員在不改變 DOAJ 與 E-LIS 詮釋資料的情況下 ，能
+            <lb />
+            夠管理典藏資料 ，修改聯合目錄資訊 ，了解典藏資料的缺陷。
+            <lb />
+        </p>
+        <head>
+            四、系統整合與驗證
+            <lb />
+        </head>
+        <p>
+            在上述攝入模組 、典藏模組 、管理模組與取用模組完成後 ，本研究依
+            <lb />
+            據 OAIS 參考模式完成系統整合 ，如圖 4 所示(系統網址：http://webserver.dils.
+            <lb />
+            tku.edu.tw/) 。本系統之攝入模組能夠傳送 OAI-PMH 命令集至 DOAJ 與 E-LIS；
+            <lb />
+            DOAJ 與 E-LIS 回傳回應結果 ，經攝入模組的剖析器剖析及篩選後 ，將符合條
+            <lb />
+            件的中英文圖書資訊學 OA 期刊文章之詮釋資料 ，儲存至典藏模組之 LISOAJD
+            <lb />
+            資料庫。本系統將資料獲取頻率設為每日一次 ，並以 ListRecords 取得 DOAJ 與
+            <lb />
+            E-LIS 獲取資料日與獲取資料日前兩天 ，亦即前後三天之內所修改或新增的資
+            <lb />
+            料。為避免資料過時 ，若在獲取資料時發現該筆資料已擷取過 ，則不論是否有
+            <lb />
+            修改 ，一律將原有資料覆蓋過去 ，以確保資料為最新狀態。
+            <lb />
+        </p>
+        <p>
+            另一方面 ，資訊消費端也能發送 OAI-PMH 命令集給本系統 ，透過本系統
+            <lb />
+            之取用模組取得符合其條件之詮釋資料 ，或透過本系統提供之 Web 介面檢索與
+            <lb />
+            瀏覽本系統由 DOAJ 及 E-LIS 所匯集之期刊文章詮釋資料；而管理員可以透過管
+            <lb />
+            理模組登入進行系統管理。
+            <lb />
+        </p>
+        <p>
+            圖 7 為整合系統首頁 ，截至 2016 年 12 月 18 日止 ，本系統收錄來自 DOAJ 之
+            <lb />
+            期刊有 36 種 、E-LIS 有 665 種 、兩者重覆的有 13 種 ，期刊總數共 688 種；收錄之
+            <lb />
+            期刊文章來自DOAJ者有9,514篇、E-LIS者有1,977篇 ，期刊文章總數共11,491篇。
+            <lb />
+        </p>
+        <p>
+            進入本系統之查詢畫面後 ，可以選擇文章名稱 、文章摘要 、作者 、關鍵
+            <lb />
+            字 、期刊名稱 、出版者 、ISSN 與 EISSN 進行檢索；查詢結果呈現期刊文章的
+            <lb />
+            題名 、作者 、期刊題名 、是否經同儕評鑑 、ISSN、EISSN、出版日期 、卷 、
+            <lb />
+            期 、頁數 、全文連結按鈕 、全文格式 、語言 、出版者 、摘要 、關鍵字 、授權
+            <lb />
+            DOAJ 或 E-LIS，如圖 8 所示。
+            <lb />
+        </p>
+        <p>
+            本系統之介面設計採簡約風格 ，主要以使用者能查詢與瀏覽期刊文章資
+            <lb />
+            ，並能明確知道該筆資料來自 DOAJ 或 E-LIS；此外 ，本系統也能透過連結取
+            <lb />
+        </p>
+        <head>
+            五、結 論
+            <lb />
+        </head>
+        <p>
+            本研究以 OAIS 參考模式建置圖書資訊學 OA 期刊聯合目錄系統 ，兼顧資訊
+            <lb />
+            生產者 、管理者 、資訊消費者及典藏系統本身的需求 ，並
+            <lb />
+        </p>
+        <p>
+            ㈠ 典藏模組之資料庫結構設計須配合 DOAJ 與 E-LIS 詮釋資料格式
+            <lb />
+            由於 DOAJ ，因此 ，資料庫的資料表
+            <lb />
+            結構與欄位設計須依據兩者之異同 DOAJ 與 E-LIS 詮釋資
+            <lb />
+            料的資料表欄位。
+            <lb />
+        </p>
+        <p>
+            ㈡ 攝入模組之剖析器設計須兼顧 XML 標籤之語法及語意
+            <lb />
+            因為 DOAJ 與 E-LIS 在使用 XML 標籤的著錄方式上有部分差異 ，對於詮釋
+            <lb />
+            資料格式也有不同著錄方式 ，造成即使是相同名稱的標籤 ，也可能包含不同性
+            <lb />
+            質的詮釋資料。因此建置剖析器時 ，須要分別為 DOAJ 及 E-LIS 開發對應的剖析
+            <lb />
+            器 ，才能使詮釋資料被正確攝入到對應的資料表欄位。
+            <lb />
+        </p>
+        <p>
+            ㈢ 取用模組須能解讀OAI-PMH命令集且將資料封裝為XML格式並管控流量
+            <lb />
+            取用模組解讀 命令集並以相對應的詮釋資料格式回應結果 ，資
+            <lb />
+            訊消費者亦可依據需求指定詮釋資料之封裝格式。此外，本模組也能以resumption
+            <lb />
+            限定資料流量 ，若要獲取第二批以後的詮釋資料 ，則須以 resumptionToken
+            <lb />
+            重新傳送。
+            <lb />
+        </p>
+        <p>
+            ㈣ 管理模組設計應包含協助管理員管理本系統之功能
+            <lb />
+            本系統之管理模組提供管理員修改密碼 、系統資訊 、獲取資料之基礎網
+            <lb />
+            址 、管理員的電子信箱以及獲取資料的時間區間等功能 ，並隨時依據資料庫的
+            <lb />
+            詮釋資料情形 ，顯示詮釋資料資訊不完整統計報表 ，協助管理員了解資料品質。
+            <lb />
+        </p>
+        <figure> 圖9 系統驗證結果-以ListSets為例</figure>
+    </text>
+</tei>

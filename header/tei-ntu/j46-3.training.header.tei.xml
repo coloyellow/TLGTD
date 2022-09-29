@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j46-3"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第16卷第1期 (2018.6) 頁45-75<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.201806_16(1).045</idno>
+
+	
+	<docTitle>
+	<titlePart>大學生於科學爭議資訊之檢索行為研究<lb/></titlePart>
+	</docTitle>
+     Search Behavior of Undergraduate Students toward Conflicting<lb/> Scientific Information<lb/>
+	<byline>
+	<docAuthor>黃元鶴 1<lb/> </docAuthor>
+	</byline>
+    Yuan-Ho Huang 1<lb/>
+	摘 要 
+	<div type="abstract">網路充斥許多分歧資訊，並非每個人都有能力分辨真偽。大學生未來將成為社會中堅<lb/> 分子，面臨網路上科學或醫藥爭議資訊，是否能具備判斷力？經過圖書資訊學養成訓練課 程的大學生，相較於非圖書資訊學系背景者，其知識信念、檢索行為、解決問題的能力表 現上是否有差異？本研究採取前實驗設計、訪談、問卷、觀察及檢索歷程記錄內容分析等 方法，招募圖書資訊學系、文學院、理工學院各30位大學生擔任受試者，依指定任務檢 索，分析其檢索行為。研究結果顯示圖書資訊學系學生於解決問題時，較重視資訊之權威 性議題，網路資訊檢索策略較多元。圖書資訊學系與理工學院學生於檢索前後之知識信念 變化大，比文學院學生具備高階知識的思維特質。理工學院學生之科學素養雖高於圖書資 訊學系學生與文學院學生，然而，科學爭議問題之檢索得分並未顯著高於其他系學生。本 研究結果可協助發展大學生的多元思考方式，以提升網路資訊素養。<lb/></div>
+	 關鍵字： 
+	<keyword>資訊檢索行為、知識信念、問題解決能力、網路資訊可信度 </keyword>
+	Abstract<lb/>
+	Some people might be unaware of misinformation and unable to resolve conflicting information.<lb/> Undergraduate students become the pillars of the society in the future. Do they have enough capability<lb/> when confronted with conflicting scientific or medical information on the web? Do students majoring<lb/> in library and information science (LIS) differ from non-LIS students in epistemological beliefs,<lb/> search behavior, and problem-solving skills? Pre-experimental design, interviews, questionnaires,<lb/> observation, and search log analysis were adopted in this study. From LIS, liberal arts, and science &amp;<lb/> engineering (S&amp;T) students, we recruited 90 students. Participants were assigned the search task and<lb/> their search behaviors were analyzed. The results showed that LIS students consider authority as a<lb/> critical factor and show more diversified search strategies when solving problems on the web. Moreover,<lb/> LIS and S&amp;T students&apos; epistemological beliefs changed significantly from their pretest to posttest while<lb/> liberal arts students did not. This indicated that LIS and S&amp;T students possess higher-order knowledge<lb/> and thinking disposition than liberal arts students. Although S&amp;T students displayed higher scientific<lb/> literacy than the LIS and liberal arts students, there was no significant difference in problem-solving<lb/> capability and performance of search results among students with different background. This study is<lb/> helpful for undergraduate students to develop their multiple reflections and web literacy skills.<lb/>
+	Keywords:
+	Information Search Behavior; Epistemological Beliefs; Problem-solving Skills; Credibility<lb/> of Web Information<lb/>
+     1
+	<byline>
+	<affiliation> 輔仁大學圖書資訊學系<lb/>,</affiliation>
+	</byline>
+	Department of Library and Information Science, Fu Jen Catholic University
+	
+
+	New Taipei, Taiwan<lb/>
+
+	E-mail:
+	<email>yuanho@lins.fju.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

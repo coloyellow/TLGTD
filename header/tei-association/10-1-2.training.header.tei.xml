@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-1-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：1 (December 2015)：39-81
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 5 月 2 日；接受日期：2015 年 8 月 8 日
+				<lb />
+			</note>
+			Email: 陳書梅
+			<email>
+				synn@ntu.edu.tw
+				<lb />
+			</email>
+			<docTitle>
+				<titlePart>
+					大學圖書館組織創新行為之影響 因素研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			A Qualitative Study on Factors in Organizational
+			<lb />
+			Innovation Behavior of Taiwan&apos;s University Libraries
+			<byline>
+				<docAuthor>
+					陳書梅
+					<lb />
+				</docAuthor>
+			</byline>
+			Chen Su-may Sheih
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系暨研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Department and Graduate Institute of Library and Information Science
+			<lb />
+			National Taiwan University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				近年來，面對急遽變遷的社會環境，有關服務業的組織創新
+				<lb />
+				研究逐漸受到重視，而圖書資訊學相關文獻亦開始探討組織創新 的議題，然而目前仍鮮少實證研究探討大學圖書館之組織創新行
+				<lb />
+				為。爰此，本研究應用半結構式深度訪談法，以臺灣地區 11 所
+				<lb />
+				大學圖書館之從業人員作為研究對象，其中包含館長、副館長及
+				<lb />
+				部門組長等 25 位，藉以探討國內大學圖書館組織創新行為之現 況，以及影響組織創新行為的相關因素。訪談結果發現，受訪大
+				<lb />
+				學圖書館之組織創新行為，包括技術與管理兩大方面。而影響受 訪大學圖書館組織創新行為的相關因素，則可歸納為館員個人、 圖書館管理階層、圖書館內部組織，以及圖書館外部環境等四個
+				<lb />
+				面向。最後，本研究根據研究結果提出相關建議，藉供大學圖書 館組織作為施行創新服務之參考。
+				<lb />
+			</div>
+			As the society confronts a rapid change, organizational
+			<lb />
+			innovations are paramount in today&apos;s service industry. Pursuing
+			<lb />
+			ceaseless improvement, literatures on library and information science
+			<lb />
+			are also discussing how to cultivate organizational innovations in
+			<lb />
+			the library settings. To understand the current state and influential
+			<lb />
+			factors of innovation activities in Taiwan&apos;s university libraries, semi-
+			<lb />
+			structured in-depth interviews were deployed in this study. The
+			<lb />
+			interviewees consisted of 25 employees from 11 university libraries
+			<lb />
+			in Taiwan. The findings revealed that, technical innovations and
+			<lb />
+			management innovation are both adopted in the interviewed university
+			<lb />
+			libraries. The factors influencing organizational innovation behaviors
+			<lb />
+			were categorized into four perspectives, including librarians&apos; personal
+			<lb />
+			traits, library management, and the internal organization and external
+			<lb />
+			factors of libraries. Several suggestions are provided based on the
+			<lb />
+			research results.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				組織創新行為；組織創新；創新；大學圖書館
+				<lb />
+			</keyword>
+			Organizational innovation behavior; Organizational innovation; Innovation;
+			<lb />
+			University library
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="649-1115-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.411/649
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>點讀筆支援紙本繪本對兒童閱讀動機、 情緒、注意力與理解成效之探討 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳志銘 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			特聘教授
+			<lb />
+			E-mail：
+			<email>chencm@nccu.edu.tw</email>
+			<byline>
+				<docAuthor>陳冠雯 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>私立康橋雙語小學</affiliation>
+			</byline>
+			圖書館員
+			<lb />
+			E-mail：
+			<email>hv001785@yahoo.com.tw</email>
+			<byline>
+				<docAuthor>陳志修 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>桃園市立南美國小</affiliation>
+			</byline>
+			訓導主任
+			<lb />
+			E-mail：
+			<email>
+				meiyueh@nmps.tyc.edu.tw
+				<lb />
+			</email>
+			關鍵詞：
+			<keyword>點讀筆；紙本閱讀；閱讀動機；閱讀情緒；閱讀注意力；閱讀理解成效 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				隨著科技的進步，兒童繪本漸發展為多種數
+				<lb />
+				位媒體整合之電子繪本，具有優於傳統紙本繪
+				<lb />
+				本的互動性及多媒體元素，但電子繪本也存在
+				<lb />
+				過多動畫可能使兒童沉迷於感官刺激，分散其
+				<lb />
+				閱讀注意力的疑慮，在長時間的閱讀情境下，
+				<lb />
+				紙本仍較為合適。因此，近年來可搭配紙本閱
+				<lb />
+				讀的數位點讀筆興起，發展出可同時融合聽、
+				<lb />
+				說、讀、寫的多元閱讀模式，具有融合紙本及
+				<lb />
+				具有多媒體與互動功能的優勢。本研究針對運
+				<lb />
+				用點讀筆輔助紙本繪本搭配預測策略、電子繪
+				<lb />
+				本搭配預測策略及傳統紙本繪本搭配預測策
+				<lb />
+				略三種閱讀模式對於閱讀動機、閱讀情緒、閱
+				<lb />
+				讀注意力與閱讀理解成效進行探究。結果發現
+				<lb />
+				運用點讀筆輔助閱讀紙本繪本搭配預測策略
+				<lb />
+				的兒童，在閱讀動機提升上顯著優於閱讀紙本 繪本與閱讀電子繪本搭配預測策略的兒童；但
+				<lb />
+				是三種閱讀模式在情緒上無顯著差異；運用點
+				<lb />
+				讀筆輔助閱讀紙本繪本搭配預測策略的兒童
+				<lb />
+				在閱讀注意力上顯著優於閱讀紙本繪本搭配
+				<lb />
+				預測策略的兒童，但與閱讀電子繪本搭配預測
+				<lb />
+				策略的兒童則無顯著差異；電子繪本與點讀筆
+				<lb />
+				輔助紙本繪本搭配預測策略的閱讀模式，具有
+				<lb />
+				相同的閱讀理解成效，但兩者在閱讀理解成效
+				<lb />
+				上均優於傳統紙本閱讀搭配預測策略。根據研
+				<lb />
+				究結果，本研究亦提出對父母、教師、相關推
+				<lb />
+				動兒童閱讀單位以及未來研究的建議，希望能 對兒童的閱讀能力提升產生助益。
+			</div>
+		</front>
+	</text>
+</tei>

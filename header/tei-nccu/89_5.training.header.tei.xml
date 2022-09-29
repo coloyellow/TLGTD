@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="89_5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			Investigation on English E-learning resource of Learning Motivation
+			<lb />
+			and Satisfaction: A Case Study on Fu Jen Catholic University
+			<lb />
+			Undergraduate Students 
+			<lb />
+			Ling-Hung Kao
+	
+
+	
+			<lb />
+			Cheng-Juei Wu
+	
+
+	Abstract
+			<div type="abstract">
+				本研究主要在於了解英語數位學習資源的使用情況、學習動機、與滿意度，以提供圖書 館在選擇與推廣英語數位資源之參考。研究對象是輔仁大學圖書館提供的五種代表性英語數
+				<lb />
+				位資源：常春藤電子雜誌、空中美語系列電子雜誌、空中英語典藏頻道、Live ABC 英語學習
+				<lb />
+				系統、與卓越英語自學中心網站，以隨機方式對 100 位曾使用過這些數位學習資源的輔仁大 學大學部學生進行問卷調查。問卷內容除了背景資料和使用情況調查部分外，還包含學習動
+				<lb />
+				機四個構面：內在動機、外在動機、自我效能、學習經驗，共 17 個題項；以及滿意度三個構
+				<lb />
+				面：課程內容、學習方式、學習效益，共 14 個題項的調查。研究結果發現，首先，整體而言
+				<lb />
+				有六成同學曾使用過這些英語數位學習資源；其次，最多人使用過的資源是 Live ABC 英語學 習系統；再者，不同性別和年級的受訪者其使用情況，經卡方檢定皆未達顯著差異。此外，
+				<lb />
+			</div>
+			<byline>
+				<affiliation> 輔仁大學圖書資訊系</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			MA Student, Department of Library and Information Science, Fu Jen Catholic University
+			<lb />
+			E-mail:
+			<email>
+				bibilu990805@gmail.com
+				<lb />
+			</email>
+
+			<byline>
+				<affiliation> 輔仁大學圖書資訊系</affiliation>
+			</byline>
+			專任教授
+			<lb />
+			Professor, Department of Library and Information Science, Fu Jen Catholic University
+			<lb />
+			E-mail:
+			<email>
+				lins1022@mail.fju.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				8:2=89 (Dec &apos;16) 77-107
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.2016.89.04</idno>
+
+			<div type="abstract">
+				學生的學習動機最高分題項為學習英語是因為對將來找好工作有幫助，滿意度最高分題項是 英語數位學習的學習時間及地點較有彈性。
+				<lb />
+			</div>
+			The goal of this work is to investigate the utilization of English language resources provided by
+			<lb />
+			university libraries, as well as learning motivation and learning satisfaction. The subjects of
+			<lb />
+			investigation are five digital resources, including Ivy League English Magazine, USA Today, Studio
+			<lb />
+			Classroom, Live ABC, and Online English Self-Learning Center, provided by Fu-Jen Catholic
+			<lb />
+			University&apos;s library. 100 undergraduate students, who had used those digital resources before, are
+			<lb />
+			randomly selected for questionnaire. The content of the questionnaire consisted of several sections,
+			<lb />
+			including demographic information of the respondents, usage investigation, learning motivation,
+			<lb />
+			and learning satisfaction. The learning motivation section consisted of four perspectives -Intrinsic
+			<lb />
+			motivation, Extrinsic motivation, Self-efficacy, and Learning experience, and seventeen evaluation
+			<lb />
+			items in total. The learning satisfaction section consisted of three perspectives -Curriculum content,
+			<lb />
+			Learning style, and Learning outcomes, and fourteen evaluation items in total. The important
+			<lb />
+			findings of this investigation are as follows: first, 60% (100 out of 160) of the respondents have
+			<lb />
+			used those digital resources before. Second, Live ABC has the highest use ratio. Third, there is no
+			<lb />
+			statistically significant difference on the utilization of those digital resources between male and
+			<lb />
+			female respondents. In addition, there is no statistically significant difference on the utilization of
+			<lb />
+			those digital resources among freshman, sophomore, junior, and senior students as well. Fourth, the
+			<lb />
+			highest-scored item of learning motivation section is &quot;Learning English is helpful for finding a good
+			<lb />
+			job.&quot; Also, the highest-scored item of learning satisfaction section is &quot;E-learning provides location
+			<lb />
+			and time flexibilities.&quot;
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				英語學習 數位學習 學習動機 學習滿意度
+				<lb />
+			</keyword>
+			English learning；E-learning；Learning motivation；Learning satisfaction
+		</front>
+	</text>
+</tei>

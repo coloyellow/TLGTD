@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="86_5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			Spotify Last.fm YouTube Vimeo
+			<lb />
+			A Comparative Usability Study of Four Audio and Video Streaming
+			<lb />
+			Platforms: Spotify, Last.fm, YouTube, and Vimeo
+	
+	
+			<lb />
+			Yun Hsiao
+	
+
+	Abstract
+			<div type="abstract">
+				使用影音串流平台已是人們日常休閒之一。此類平台提供哪些功能，操作流程如何設 計，介面如何呈現，最直覺友善、便於使用？都是值得探究的議題，但國內外在這些方面
+				<lb />
+				研究卻不多。故本研究採取好用性研究方法，運用 Spotify、Last.fm、YouTube 及 Vimeo 四個影音串流平台，針對不同平台相同功能之操作方式進行評估，以期透過觀察、受測者 回饋與資料分析，得知功能操作流程問題，瞭解使用者對好用平台之期待，提出改善建議， 並建構一兼具效益、效率、滿意度與娛樂性之好用影音串流平台模型。
+				<lb />
+			</div>
+			A variety of audio and video streaming platforms, equipped with streaming technology
+			<lb />
+			that supports instant usage of media resources in the process of downloading, have become a
+			<lb />
+			popular part of daily entertainments. Current researches on streaming platforms mostly focus on
+			<lb />
+			the technical dimension of streaming technology, with much less attention to the usability
+			<lb />
+			dimension of streaming operation. Nevertheless, issues concerning platform design and
+			<lb />
+			user-friendly operation are worthy of further exploration. This study selects four currently most
+			<lb />
+			popular audio and video streaming platforms as research subjects, including Spotify, Last.fm,
+			<lb />
+			YouTube, and Vimeo. To examine the usability of these platforms, 12 users were arranged to
+			<lb />
+
+
+			<byline>
+				<affiliation>
+					 國立臺灣大學圖書資訊學系
+					<lb />
+				</affiliation>
+			</byline>
+			大學部學生
+		 Undergraduate Student, Department of Library &amp; Information Science, National Taiwan University
+			<lb />
+			E-mail:
+			<email>
+				yunh26@gmail.com
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				7:1=86 (June &apos;15) 97-131
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2015.86.05
+				<lb />
+			</idno>
+			perform 16 tasks by alternatively applying streaming functions provided on the platforms. Their
+			<lb />
+			activities and self-report data are observed and analyzed. Research results indicate some
+			<lb />
+			drawbacks in streaming operations as well as users&apos; expectation for streaming usability. Based
+			<lb />
+			on the research results, this study proposes some suggestions for improving streaming platform
+			<lb />
+			design, and furthermore configures a model of streaming platform that incorporates effective,
+			<lb />
+			efficient, enjoyable, and usable audio and video streaming services.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+
+			<keyword>
+				好用性評估 影音串流平台 使用者研究
+				<lb />
+			</keyword>
+			Usability study；Audio and video streaming platform；User study
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="658-1170-2-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.412/658
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>大學圖書館電子資源服務品質模式 與應用研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>王梅玲 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			E-
+			<email>mail：meilingw@nccu.edu.tw</email>
+			<byline>
+				<docAuthor>李函儒 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			碩士
+			<lb />
+			E-
+			<email>mail：hanlu780930@gmail.com</email>
+			關鍵詞：
+			<keyword>大學圖書館；電子資源；服務品質評鑑；電子資源服務 </keyword>
+			【摘要】
+			<div type="abstract">
+				大學圖書館提供許多電子資源館藏與服務，受到教師與研究生重視與大量使用，但是使用者 也常抱怨許多問題。探討電子資源使用研究與服務品質評鑑，有助於圖書館提供符合使用者需求 的電子資源服務。本論文旨在探討電子資源服務品質模式，與應用在電子資源服務評鑑，以了解 使用者對電子資源服務期望、感受的服務、與優良服務品質的看法。本研究採用焦點團體訪談與 問卷調查法，透過焦點團體訪談建構大學圖書館電子資源服務品質模式，包括電子資源館藏、網
+				<lb />
+				站服務與取用、服務影響三構面與 28 項指標。依據建構的模式採用問卷調查法，進行圖書館電
+				<lb />
+				子資源服務品質評鑑。以 C 大學為對象，調查其教師與研究生電子資源服務使用現況與對服務品 質的看法。研究結果顯示此服務品質模式具可行性，可以有效應用於電子資源服務品質評鑑，受
+				<lb />
+				測者對整體電子資源服務的期望平均分數為 4.07，感受的服務平均分數為 3.61，落差為-0.46。 由於感知的服務品質為負分，表示受測者認為電子資源服務品質不優良，尤其電子資源館藏服務， 網站服務與取用服務二構面的品質未達優良。本研究發現受測者最期望的十項電子資源服務，與 最不滿意的八項服務，並提出建議。
+			</div>
+		</front>
+	</text>
+</tei>

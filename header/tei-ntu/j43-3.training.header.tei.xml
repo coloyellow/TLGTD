@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j43-3"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第14卷第2期 (2016.12) 頁59-92<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2016.14(2).059</idno>
+    <docTitle>
+	<titlePart>圖書館館際互借服務品質評鑑研究<lb/></titlePart>
+	</docTitle>
+	
+	
+	A Study on the Assessment of Service Quality of Interlibrary Loan<lb/> 
+	<byline>
+	<docAuthor>王梅玲 1<lb/></docAuthor>
+	</byline>
+
+	
+	Mei-Ling Wang 1<lb/>
+	
+
+	摘 要 
+	<div type="abstract">服務品質評鑑是從使用者對服務的期望服務與感受服務的落差，評定服務是否達到優 良，可應用於圖書館館際互借服務，有助瞭解館際互借服務使用現況與使用者評價。本研 究旨在採用館際互借服務品質表評鑑某所大學圖書館的館際互借服務品質，研究目的包<lb/> 括：(1)應用館際互借服務品質評量表以評鑑圖書館館際互借服務；(2)探討使用者對<lb/> 館際互借服務的期望；(3)探討使用者對館際互借服務的滿意度；(4)探討使用者對館 際互借的服務品質評鑑，是否達到優良服務以為改進參考。本論文採用服務品質評鑑與問 卷調查，應用館際互借服務品質評量表設計調查問卷，涵蓋服務申請、資料提供、館員服 務三因素及其20項指標，調查使用者的期望服務與感受服務，從二者的落差以評鑑館際 互借服務品質。本研究選擇X大學圖書館為個案，採用網路問卷蒐集教師與研究生意見資 料，進行館際互借使用滿意度與服務品質調查。本研究取得561份有效問卷，235位受測者 過去一年使用過館際互借，先用因素分析與信度分析檢測館際互借服務品質評量表的效 度與信度，證實效度與信度良好。研究結果顯示受測者館際互借整體期望服務平均分數為<lb/> 4.26分，感受的服務平均分數為3.91分，落差為負0.35分，表示X大學教師與研究生認為館 際互借服務重要，品質不良，但接近滿意。受測者最重視館際互借資料提供、最滿意館員 服務、最不滿意館際互借服務申請；館際互借在服務申請與資料提供二構面，品質未達優 良，需要改善。本研究發現受測者最期望的館際互借服務、未達品質優良的服務，以及需 要優先改進的服務，並提出建議。<lb/></div>
+	
+	關鍵字：
+	 <keyword>館際互借評鑑、滿意度、服務品質、大學圖書館<lb/></keyword>
+	
+    1 
+	<byline>
+	<affiliation>國立政治大學圖書資訊與檔案學研究所<lb/> </affiliation>
+	</byline>
+	
+	Graduate Institute of Library, Information and Archival Studies, National Cheng-Chi University,<lb/>
+	
+
+	Taipei, Taiwan<lb/>
+	E-mail:
+	<email>meilingw@nccu.edu.tw</email>
+
+	Abstract<lb/>
+	Interlibrary Loan (ILL) is the sharing of materials among libraries across town or across the<lb/> globe. User satisfaction and service quality measurement helps us understand how library patrons<lb/> have used the service and how they perceive the value of the service. The objective of this study<lb/> is to compare the expected and perceived service levels from the ILL users&apos; perspective in order to<lb/> ascertain the current service gap and to make improvement. A model of service quality assessment<lb/> was developed for ILL service based on three focus group interviews. The measurement comprises 20<lb/> questionnaire items that represent three dimensions: service interface, content provision, and service<lb/> performance of the librarian. The survey was administered to the patrons of a university library and<lb/> 561 usable responses were analyzed. The result showed that 41.9% of the respondents had used ILL<lb/> within a year. For those who had used the service, the average expected service level was 4.26 by a<lb/> five-point Likert scale, while the perceived service level was 3.91. This shows that users did consider<lb/> ILL as important, but the current service requires improvement to fully satisfy them. The study also<lb/> reveals what aspects of that university&apos;s ILL service needed improvement.<lb/>
+
+	Keywords:
+
+	Interlibrary Loan Evaluation; Satisfaction; Service Quality; University Library
+	
+
+		</front>
+	</text>
+</tei>

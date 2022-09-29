@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="39-69" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<idno>
+				http://joemls.tku.edu.tw
+				<lb />
+			</idno>
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 55 , no. 1 (2018) : 39-69 台灣社會科學量化資料
+			<lb />
+			再用之研究：2001-2015年
+			<lb />
+			The Reuse of Quantitative Data in
+			<lb />
+			Social Sciences in Taiwan: 2001-2015
+			<lb />
+			林 奇 秀* Chi-Shiou Lin *
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+			<email>
+				mail：chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+			賴 璟 毅 Ching-Yi Lai
+			<lb />
+			Graduate Student
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+
+			<reference>
+				教育資料與圖書館學 55 : 1 (2018) : 39-69
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2018.551/0039.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					台灣社會科學量化資料
+					<lb />
+					再用之研究：2001-2015年
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>林奇秀 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>賴璟毅 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				本文分析 2001-2015 年間 ，社會科學領域利用既有量化資料從事具
+				<lb />
+				原創性研究之狀況 ，取 TSSCI 2015 年收錄之經濟 、政治 、社會 、
+				<lb />
+				教育與心理共五學門 57 種期刊 ，辨識出 1,484 篇再用論文 ，佔整
+				<lb />
+			</div>
+
+			<div type="abstract">
+				體實徵論文 17.38%，經濟與政治學門比例最高 ，心理則非常稀
+				<lb />
+				少。全部被引資料筆數共 2,990 筆 ，亦多由經濟與政治論文使用 ， 且兩大學門論文同時使用多筆資料為常態；社會與教育論文則以
+				<lb />
+				使用一筆資料居多。在資料來源與資料類型上 ，政府機關資料及
+				<lb />
+				業務數據為被用大宗 ，但不同領域在資料來源與類型上有明顯差 異；個別研究與一次性資料再用程度都很低。本文建議社會科學
+				<lb />
+				的資料庋用服務應著力於蒐集並媒合公私部門的大規模 、長期性
+				<lb />
+				數據資料 ，並建立跨政府與民間的服務機制 ，當可裨益資料的充 分再用。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				資料再用，資料引用，量化資料，社會科學
+				<lb />
+			</keyword>
+			a
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			研究生
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2017/09/04投稿；2017/12/15修訂；2018/02/07接受</note>
+
+		</front>
+	</text>
+</tei>

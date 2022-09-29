@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="684-1307-2-PB" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2016.421/684
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>資訊及資訊行為如何對其他工作場域行為 產生貢獻 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>李宗曄 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士候選人
+			<lb />
+			E-
+			<email>mail：bigyes@gmail.com</email>
+			關鍵字：
+			<keyword>職場學習；資訊通訊科技；職場霸凌；資訊行為 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				「我們形塑了工具，工具也形塑了我們。」，資訊通訊科技(ICT)快速的進展更迭，除了
+				<lb />
+				對工作場域及其資訊生態帶來了改變，同時也對職場資訊行為研究帶來挑戰與機會。在 2015 年
+				<lb />
+				「歐洲網路工作資訊研究網」(European Network for Workplace Information)會議中，有數篇
+				<lb />
+				研究提到職場資訊行為(workplace information behavior)，特別是關於職場學習(workplace
+				<lb />
+				learning)，其中也提到一個關於資訊行為的黑暗面-職場霸凌(workplace bullying)的研究議 題。本文將逐一介紹各篇之研究內容，並加以比較、論述。
+			</div>
+		</front>
+	</text>
+</tei>

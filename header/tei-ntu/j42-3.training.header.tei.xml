@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j42-3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學刊 第14卷第1期 (2016.6) 頁41-85
+				<lb />
+			</reference>
+
+			<idno>doi:10.6182/jlis.2016.14(1).041</idno>
+
+			<docTitle>
+				<titlePart>
+					同儕審查的起源、研究現況與展望
+					<lb />
+				</titlePart>
+			</docTitle>
+			History, Research, and Challenges: A Systematic Analysis of
+			<lb />
+			Peer Review for Journals, Grants, and Faculty Appointments
+			<lb />
+
+
+			<byline>
+				<docAuthor>
+					黃慕萱 1 
+				</docAuthor>
+			</byline>
+			<byline>
+			<docAuthor>嚴竹蓮 2<lb /></docAuthor>
+			</byline>
+			Mu-Hsuan Huang 1 , Chu-Lien Yen 2
+			<lb />
+			摘 要
+			<div type="abstract">
+				同儕審查是學術界進行科學探索時所採用的一項自律機制，幾乎已制度化地納入學術 組織的運作之中，並普遍獲得學界人士的支持。基本上同儕審查的正當性是基於學術社群 成員之間的信賴與誠信，在各項學術活動中以不同的作業模式分配有限資源，包括學術文 獻出版、研究計畫獎助、大學教職聘用與升遷，以及學術成就獎勵等。但是同儕審查的運 作方式迄今未臻完善，除了出現效用、效率，以及信度等問題外，許多研究亦已證實存在 多種評審者偏見，因此有愈來愈多的學者主張對同儕審查進行持續性地檢驗與監督，以提 升評審作業的品質與公平性。本文透過文獻分析論述同儕審查在學術領域的應用與研究， 首先說明同儕審查的定義、分類與優缺點，並以學術期刊稿件、獎助計畫，以及大學教職
+				<lb />
+				聘用 升遷之同儕審查為例，探討同儕審查的起源、發展與研究現況，最後分析同儕審查 的國際合作及其與書目計量的關係。
+				<lb />
+			</div>
+			關鍵字：
+			<keyword>
+				同儕審查、書目計量
+				<lb />
+			</keyword>
+			1
+			<byline>
+				<affiliation>
+					國立臺灣大學圖書資訊學系暨研究所
+					<lb />
+				</affiliation>
+			</byline>
+			Department and Graduate Institute of Library and Information Science, National Taiwan University,
+			<lb />
+			Taipei, Taiwan
+			<lb />
+			2
+			<byline>
+				<affiliation>
+					中華民國外交部資訊及電務處
+					<lb />
+				</affiliation>
+			</byline>
+			Department of Archives, Information Management and Telecommunications, Ministry of Foreign
+			<lb />
+			Affairs,
+			
+			Taipei, Taiwan
+			<lb />
+			* 通訊作者Corresponding Author: 嚴竹蓮Chu-Lien Yen, E-mail:
+			<email>clyen01@mofa.gov.tw</email>
+			Abstract
+			<lb />
+			Peer review is a self-regulation mechanism for scientific inquiry. Institutionalized and
+			<lb />
+			incorporated into the structure and operation of science, it has received considerable support in the
+			<lb />
+			academic setting. The legitimacy of peer review is based on trust and integrity. In various ways, it
+			<lb />
+			allocates scarce resources such as journal space, research funding, faculty recruitment, recognition,
+			<lb />
+			and rewards for academic achievements. But there are growing indications that peer review has yet
+			<lb />
+			to fulfill its potential functions, leading to negative assessments as to whether it is effective, efficient,
+			<lb />
+			or reliable. Many studies have found links between potential sources of bias and judgments in peer
+			<lb />
+			review and expressed reservations over the fairness of the process. It is, therefore, important that the
+			<lb />
+			peer review process should be subjected to serious scrutiny and regular evaluation that would lead to
+			<lb />
+			better quality and greater fairness. This study presents a systematic review of the empirical literature
+			<lb />
+			on peer review of journal manuscripts, grant applications, and faculty appointments and promotions.
+			<lb />
+			Historical and contextual information is provided as a basis for interpreting this review. Finally, the
+			<lb />
+			authors discuss international recommendations for good practice in peer review and the potential and
+			<lb />
+			problems of peer review and bibliometrics.
+			<lb />
+			Keywords:
+	Peer Review; Bibliometrics
+		</front>
+	</text>
+</tei>

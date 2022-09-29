@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j45-5"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第15卷第2期 (2017.12) 頁101-133<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.2017.15(2).101</idno>
+
+	
+	<docTitle>
+	<titlePart>大學生對個資之資訊需求與尋求分析<lb/></titlePart>
+	</docTitle>
+    College Students&apos; Information Needs and Information Seeking<lb/> Behaviors regarding Personal Information<lb/> 
+	  
+	
+	<byline>
+	<docAuthor>劉郁 1 <lb/></docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>林麗娟 2</docAuthor>
+	</byline>
+    Yu-Wen Liu 1 , Lih-Juan ChanLin 2<lb/>
+	摘 要<lb/> 
+	<div type="abstract">本研究目的在於探討大學生對於個人資訊(個資)之認知，與大學生對個資資訊需求 與尋求之分析。研究藉由相關文獻基礎，分析個資相關議題，並針對大學生個資資訊之取 用與需求情境設計問題，以徵求學生反應。本研究以北部某大學之大學生為研究對象，共 計回收252份有效問卷。問卷結果反映學生對個資相關概念之需求時機通常在個資外洩疑<lb/> 慮產生之補救(M = 4.29)，採取方式以上網搜尋居多(M = 4.24)，個資資訊取用的原則，<lb/> 也反映對內容易理解的需求(M = 4.04)，而一般學生對於政府或非政府機構的個資保護之<lb/> 信任感低(多數題項M &lt; 3.0)。未來應增進教育與政府單位對大學生對於個資相關概念與知 識之重視，協助改善個人個資資訊行為，降低因個資認識不清而產生之資訊之不確定感。<lb/></div>
+	 
+	關鍵字： 
+	<keyword>個人資料、個人資料保護法、個人資料隱私保護、資訊需求、資訊尋求行為</keyword>
+	Abstract<lb/>
+	This study analyzed college students&apos; reactions toward the issues of personal information.<lb/> Students&apos; needs and seeking behaviors for personal information were assessed. Relevant literature was<lb/> reviewed for framing the research questions and designing the questionnaire items for survey. Survey<lb/> subjects were students from an university at northern Taiwan. A set of questionnaire items were used<lb/> to collect research data. Statistical analysis from 252 valid data reveals some items were highly rated:<lb/> Students reflected highly for their need of knowledge under the security threat of personal information<lb/> (M = 4.29). They reacted strongly on acquiring knowledge and resources through the Internet (M = 4.24).<lb/> They preferred the use of resources clear and easy to be understood (M = 4.04). However, most students<lb/> had low level faith toward either government or non-governmental organizations in securing their personal<lb/> information (M &lt; 3.0 for most items). More effort among education and government should be emphasized<lb/> in the future to improve personal use and reduce uncertainty in the use of personal information.<lb/>
+
+	Keywords:
+	Personal Information; Personal Data Protection Act; Security of Personal Information;<lb/> Information Need; Information Seeking Behavior<lb/>
+
+	1,2
+	<byline>
+	<affiliation> 輔仁大學圖書資訊學系<lb/> </affiliation>
+	</byline>
+	Department of Library and Information Science, Fu Jen Catholic University,
+	
+
+	New Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 林麗娟Lih-Juan ChanLin, E-mail:
+	<email>lins1005@mail.fju.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

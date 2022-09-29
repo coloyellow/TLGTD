@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="231-267" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 3 (Summer 2015) : 231-267
+
+	大學圖書館組織 創新行為調查研究
+			<lb />
+			Organizational Innovation Behavior in
+			<lb />
+			Taiwan&apos;s University Libraries: A Quantitative Study
+			<lb />
+			陳 書 梅 Chen Su-May Sheih
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：synn@ntu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 3 (Summer 2015) : 231-267
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.523/0018.RS.AM </idno>
+
+
+			<docTitle>
+				<titlePart>大學圖書館組織創新行為調查研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳書梅 </docAuthor>
+			</byline>
+			摘要
+			<lb />
+			<div type="abstract">
+				本研究以量化實證方式 ，針對國內 144 所大學院校圖書館之 785
+				<lb />
+				位館員進行問卷調查 ，以探討台灣地區大學圖書館的組織創新行
+				<lb />
+				為 ，以及影響大學圖書館組織創新行為的相關因素。研究結果顯
+				<lb />
+				示 ，館員對於大學圖書館之組織創新行為 ，給予正面肯定 ，且技
+				<lb />
+				術創新表現優於管理創新。其次 ，館員亦認同大學圖書館之組織
+				<lb />
+				氣候有助於促進創新行為。在圖書館組織結構特徵方面 ，本研究
+				<lb />
+				顯示大學圖書館具有中高水準之正式化程度。另外 ，本研究亦發
+				<lb />
+				現 ，個人決策權對大學圖書館組織創新行為具負向顯著影響。而
+				<lb />
+				正式化程度 、主管支持 、組織鼓勵 、資源與學習對組織創新行為 具正向顯著影響。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>組織創新行為，組織創新，創新，大學圖書館 </keyword>
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			通訊作者：
+			<email>
+				synn@ntu.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2015/04/30投稿；2015/08/06修訂；2015/08/07接受</note>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="9-2-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 9：2 (June 2015)：1-38
+				<lb />
+			</reference>
+			* 本文通訊作者
+			<lb />
+			<note type="submission">
+				投稿日期：2014 年 11 月 31 日；接受日期：2015 年 3 月 6 日
+				<lb />
+			</note>
+			Email: 林豐政
+			<email>lin@niu.edu.tw；</email>
+			李芊芊
+			<email>
+				sophia-0715@hotmail.com
+				<lb />
+			</email>
+			<docTitle>
+				<titlePart>
+					數位落差、數位機會 與數位包容之關聯性研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			A Study of the
+	
+	Relationship of Digital Divide,
+			<lb />
+			Digital Opportunity and Digital Inclusion
+			<lb />
+			<byline>
+				<docAuthor>
+					林豐政
+					<lb />
+				</docAuthor>
+			</byline>
+			*
+	Feng-Jeng Lin
+			<lb />
+
+			<byline>
+				<affiliation>國立宜蘭大學應用經濟與管理學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department of Applied Economics and Management
+			<lb />
+			National Ilan University
+			<byline>
+				<docAuthor>
+					李芊芊
+					<lb />
+				</docAuthor>
+			</byline>
+			Qian-Qian Li
+			<lb />
+
+
+			<byline>
+				<affiliation>國立宜蘭大學應用經濟與管理學系</affiliation>
+			</byline>
+			研究助理
+			<lb />
+			Research Assistant
+			<lb />
+			Department of Applied Economics and Management
+			<lb />
+			National Ilan University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				本文旨在提出「資訊近用」、「資訊素養」、「資訊應用」 與「數位機會」的關係模式。研究中除了驗證模式適配能力與說
+				<lb />
+				明影響效果外，並透過多群組分析探究不同「背景分群」對關係
+				<lb />
+				模式是否產生干擾效果，藉以評估分群模式構面間的影響性。其 次，進一步探究「數位包容」者上網意願，根據其對於電腦與網
+				<lb />
+				路的認知與態度，歸納成認知群、興趣群與欲求群；同時，應用 對應分析予以群組化，進而探討「背景分群」與三群體間的關係。
+				<lb />
+				結果顯示：研究中所提的關係模式在各項指標上皆具良好配適度 與解釋力，不同「年齡層」群與「教育程度」群於關係模式中具
+				<lb />
+				明顯的干擾效果。在分群模式的影響路徑中，具「老年」、 「少年、 初等學歷」、「中年」以及「老年」特徵者，其分別於「資訊近
+				<lb />
+				用」對「資訊素養」、「資訊近用」對「資訊應用」、「資訊素 養」對「資訊應用」及「資訊應用」對「數位機會」路徑上影響 力相對較高。在「數位包容」者的上網意願分析中，具「初等學
+				<lb />
+				歷」者屬「認知群」，具「61 歲以上、男性」者屬「興趣群」，
+				<lb />
+				具「41-60 歲、女性」者則屬「欲求群」。
+				<lb />
+			</div>
+			In this paper, a model was proposed to investigate the relationship
+			<lb />
+			among information access, information literacy, information
+			<lb />
+			application and digital opportunity. Firstly, besides verifying the model
+			<lb />
+			fit and explaining its influential effects, this study aims to evaluate
+			<lb />
+			whether different individual traits will have moderating effects on this
+			<lb />
+			relational model by using a multi-group analysis. Secondly, the study
+			<lb />
+			will further explore the intention for using the Internet for those people
+			<lb />
+			who are digital inclusive. We will classify them into three groups in
+			<lb />
+			light of their awareness of and attitude towards the computer and the
+			<lb />
+			Internet; these are awareness group, interest group and desire group.
+			<lb />
+			Meanwhile, the relations between individual traits and these three
+			<lb />
+			groups will also be discussed by using a correspondence analysis.
+			<lb />
+			Four important findings are noted as follows: (1) the relational model
+			<lb />
+			has a good model fit and explanatory ability; (2) different age and
+			<lb />
+			education levels have significant moderating effects on the relational
+			<lb />
+			model; (3) the result gleaned from the multi-group model analysis
+			<lb />
+			indicates that people with old age had higher influential effects on
+			<lb />
+			how the information access might impact on the information literacy;
+			<lb />
+			people with young and elementary education had higher influential
+			<lb />
+			effects on how the information access might impact on the information
+			<lb />
+			application; people with middle age had higher influential effects
+			<lb />
+			on how the information literacy might impact on the information
+			<lb />
+			application; people with old age had higher influential effects on how
+			<lb />
+			the information application might impact on the digital opportunity;
+			<lb />
+			(4) the result from the digital inclusion analysis unfolds that people
+			<lb />
+			with the elementary education was clustered into the awareness
+			<lb />
+			group; people who are over 61 years old and male was assembled into
+			<lb />
+			the interest group; people who are between 41 and 60 years old and
+			<lb />
+			female was classified into the desire group.
+			<lb />
+			[ 關鍵字 Keywords]
+			<lb />
+			<keyword>
+				資訊近用；資訊素養；資訊應用；數位機會；數位包容
+				<lb />
+			</keyword>
+			Information access; Information literacy; Information application; Digital
+			<lb />
+			opportunity; Digital inclusion
+		</front>
+	</text>
+</tei>

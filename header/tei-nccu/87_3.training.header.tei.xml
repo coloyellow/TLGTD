@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="87_3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			Establishment of an E-Portfolio System for Professional Development:
+			<lb />
+			A Case Study of Library Association of the Republic of China (Taiwan) 
+			<lb />
+			Meng-Yi Lin 
+			<lb />
+			Hao-Ren Ke
+	
+
+	Abstract
+			<div type="abstract">
+				近年來臺灣已有許多大專校院將電子化歷程檔案運用於學生學習，但鮮少以專業發展為 取向之電子化歷程檔案供專業從業人員彙整、展示其於專業領域內的各項紀錄與成果。本研 究依循系統開發生命週期瀑布模式，設計並建置屬於中華民國圖書館學會之電子化歷程檔案 系統，並將內容以資源描述框架格式轉換成為鏈結資料，藉此電子化歷程檔案擁有者能將分 散於各處的歷程檔案加以連結與整合。最後，網路問卷調查結果顯示多數使用者對本系統接 受與滿意度頗高。
+				<lb />
+			</div>
+			In recent years, there have been many e-Portfolio systems in Taiwan implemented for students&apos;
+			<lb />
+			learning in universities yet rarely for professional development. This study aims to design and
+			<lb />
+			
+			<byline>
+				<affiliation> 國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			MA Student, Graduate Institute of Library and Information Studies,
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			E-mail：
+			<email>
+				oldwetdream@gmail.com
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation> 國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授兼圖書館館長
+			<lb />
+			Professor &amp; University Librarian, Graduate Institute of Library and Information Studies, National
+			<lb />
+			Taiwan Normal University
+			<lb />
+			E-mail：
+			<email>
+				clavenke@ntnu.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				7:2=87 (Dec &apos;15) 54-76
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2015.87.03
+				<lb />
+			</idno>
+			establish an e-Portfolio system for professional development. Five steps of System Development
+			<lb />
+			Life Cycle (SDLC) were adopted to build an e-Portfolio system for members of Library Association
+			<lb />
+			of the Republic of China (Taiwan). In addition, the open-source content management system,
+			<lb />
+			Drupal, was employed as the development tool. The data in this e-Portfolio system were converted
+			<lb />
+			into linked data with Resource Description Framework (RDF). Through the system, e-Portfolio
+			<lb />
+			owners can link and integrate all of their own e-Portfolios dispersed everywhere. Finally, this study
+			<lb />
+			evaluated the e-Portfolio system with an online questionnaire to understand users&apos; satisfaction with
+			<lb />
+			the functions and the whole system. The results showed that most users had high acceptance and
+			<lb />
+			satisfaction with the system.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				電子化歷程檔案 專業發展 系統開發生命週期瀑布模式 鏈結資料
+				<lb />
+			</keyword>
+			e-Portfolio；Professional development；System Development Life Cycle；Linked Data
+		</front>
+	</text>
+</tei>

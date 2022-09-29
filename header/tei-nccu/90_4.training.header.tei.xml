@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="90_4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			3D
+			<lb />
+			The Development and Applications of Three-Dimensional Printing 
+			<lb />
+			Li-Han Hsu 
+			<lb />
+			Shin-Ping Tung 
+			<lb />
+			Sze-Ying Lin
+	
+
+	
+			<lb />
+			Chi-Shiou Lin
+	
+    
+			<byline>
+				<affiliation>國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			大學部學生
+			<lb />
+			Undergraduate Student, Department of Library &amp; Information Science, National Taiwan University
+			<lb />
+			E-mail:
+			<email>b01106003＠ntu.edu.tw</email>
+			
+			<byline>
+				<affiliation> 國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			大學部學生
+			<lb />
+			Undergraduate Student, Department of Library &amp; Information Science, National Taiwan University
+			<lb />
+			E-mail:
+			<email>
+				b01106006＠ntu.edu.tw
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation> 國立臺灣大學圖書資訊學系</affiliation>
+			</byline>
+			大學部學生
+			<lb />
+			Undergraduate Student, Department of Library &amp; Information Science, National Taiwan University
+			<lb />
+			E-mail:
+			<email>
+				b01106020@ntu.edu.tw
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation>
+					國立臺灣大學圖書資訊學系
+				</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor, Department of Library &amp; Information Science, National Taiwan University
+			<lb />
+			E-mail:
+			<email>
+				chishioulin@ntu.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				9:1=90 (June &apos;17) 32-51
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.2017.90.03</idno>
+			Abstract
+			<lb />
+			<div type="abstract">
+				近年來 3D 列印蓬勃發展，圖書館也逐漸引進 3D 列印服務。本文首先介紹 3D 列印的基
+				<lb />
+				本概念與發展歷史，續介紹六種不同的 3D 列印技術，包含屬於「光照射法」的光固化立體造 型、數位光固化處理、選擇性雷射燒結法、層壓實體製造法，以及屬於「黏合成型法」的熔
+				<lb />
+				融沈積成型與粉床噴墨列印法。而後探討 3D 列印在各領域的應用概況，包含商業領域中的客 製化製造服務、線上代印與整體服務方案及新創商品的線上集募製造服務等；在圖書館方面，
+				<lb />
+				則介紹「自造者空間」的服務理念以及 3D 列印在各類型圖書館的服務潛力。最後，討論 3D 列印之限制與挑戰，包含對環境與產業的影響、倫理問題及攸關圖書館服務的智慧財產權、 教育訓練與諮詢需求等。
+				<lb />
+			</div>
+			This paper describes the development and applications of the three-dimensional printing (3D
+			<lb />
+			printing) technology. It first introduces the basics and the history of 3D printing, followed by an
+			<lb />
+			overview of six currently popular 3D printing methods, i.e., stereolithography apparatus (SLA),
+			<lb />
+			digital light processing (DLP), selective laser sintering (SLS), laminated object manufacturing
+			<lb />
+			(LOM), fused deposition modeling (FDM), and powder bed and inkjet head 3D printing. It goes on
+			<lb />
+			to describe the commercial and library applications of 3D printing. Specifically, the concept of
+			<lb />
+			makerspace and the potentials of 3D printing are mentioned in different types of libraries. Finally,
+			<lb />
+			the limitations and challenges of 3D printing including its impact on the environment and industries,
+			<lb />
+			ethical issues, intellectual property rights in library service, as well as the training and consultation
+			<lb />
+			needs of library patrons are discussed in the paper.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				3D 列印 自造者空間
+				<lb />
+			</keyword>
+			3D printing；Library makerspace
+		</front>
+	</text>
+</tei>

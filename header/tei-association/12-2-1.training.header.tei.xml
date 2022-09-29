@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-2-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：2 (June 2018)：1-36
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					中國大陸圖書資訊學領域
+					<lb />
+					「作者群研究」之學術論文探析：
+					<lb />
+					以 CNKI 收錄之中文學術論文 為例
+					<lb />
+				</titlePart>
+			</docTitle>
+			An Exploration Study of the Authorship Literatures of
+			<lb />
+			Library and Information Science in China: A Case Study
+			<lb />
+			based on CNKI
+			<byline>
+				<docAuthor>
+					葉淑慧
+					<lb />
+				</docAuthor>
+			</byline>
+			Shu-Hwei Yeh
+			<lb />
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			<byline>
+				<affiliation>國立故宮博物院圖書文獻處</affiliation>
+			</byline>
+			助理研究員
+			<lb />
+			Ph. D. Student
+			<lb />
+			Graduate Institute of Library, Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<lb />
+			Assistant Curator
+			<lb />
+			Dept. of Rare Books and Documents, National Palace Museum
+			<byline>
+				<docAuthor>蔡明月</docAuthor>
+			</byline>
+			✽
+			<lb />
+			Ming-Yueh Tsay
+			<lb />
+
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			特聘教授
+			<lb />
+			Distinguished Professor
+			<lb />
+			GraduateInstitute of Library, Information and Archival Studies
+			<lb />
+			National Chengchi University
+
+	✽
+			<lb />
+			通訊作者：蔡明月
+			<email>
+				mytsay@nccu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2017 年 4 月 6 日；接受日期：2018 年 4 月 16 日
+				<lb />
+			</note>
+			摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				評估國家、機構、學科主題之研究人力與發表論文作者乃 屬書目計量學研究的目標之一，目的即統計分析作者群的發展 趨勢、核心作者的研究陣容，並解析作者間跨國、跨機構、跨
+				<lb />
+				學科的知識交流現況。本研究利用「中國知網」(CNKI)之「中
+				<lb />
+				國期刊全文數據庫」蒐集期刊論文，統整中國大陸圖書資訊學
+				<lb />
+				領域作者群研究之相關中文學術文獻，自 1991 年至 2016 年合
+				<lb />
+				計 241 篇，運用內容分析法及書目計量法，解析作者群學術論 文的出版年代、研究方法、資料來源、研究對象及主題等研究 現況，並且以計量方法臚列主要的分析項目，最後舉例並歸納
+				<lb />
+				本研究蒐集的學術論文有關作者機構、職稱、性別分布、作者 合作度及國際合著的量化數據及研究結果，以揭示作者群間的 組成結構及消長，進而得致觀察與結論。經歸納與分析，中國
+				<lb />
+				圖書資訊學領域作者群研究在質與量上皆具備研究設計與分析 面向的多樣化，呈現研究主力上的人力結構的發展現況，並且 注重研究人才的知識交流與科研合作研究議題的發展，是值得 參考的研究趨勢與方向。
+				<lb />
+			</div>
+			Bibliometrics is a quantitative study of literature to evaluate
+			<lb />
+			and quantify research productivity and authorship from the angles of
+			<lb />
+			countries, institutional affiliations, and subjects so as to further analyze
+			<lb />
+			the developmental trend of contributors and the main authors, and to
+			<lb />
+			understand the existing situation of international, interdisciplinary
+			<lb />
+			and cross-institution knowledge exchange with a simple statistical
+			<lb />
+			method of bibliography counting. In this study, CNKI database was
+			<lb />
+			selected and we got a total of 241 Chinese articles published from
+			<lb />
+			1991 to 2016. With the documentary analysis and content Analysis,
+			<lb />
+			the bibliography counting results include published years, research
+			<lb />
+			methods, research designs and samplings, and subject of literatures.
+			<lb />
+			After retrieving specific parts of data, we conclude authors&apos; institution
+			<lb />
+			distributions, professional titles, gender distribution, degress of co-
+			<lb />
+			authorship and the collaboration between international authors to
+			<lb />
+			reveal constitution and growth ratio among authorship. The quality
+			<lb />
+			and quantity of research productivity and authorship of library and
+			<lb />
+			information science in China have been researched a certain level.
+			<lb />
+			Nowadays, the research show not only the human structure of
+			<lb />
+			authorship but knowledge exchange and cooperation research topic
+			<lb />
+			development, which also shows the importance of the coopeation and
+			<lb />
+			communication of researchers among different subjects in the future
+			<lb />
+			study.
+			<lb />
+			【關鍵字 Keyword】
+			<lb />
+			<keyword>
+				圖書資訊學；研究生產力；作者；中國；書目計量學；合著
+				<lb />
+			</keyword>
+			Library and information science; Research productivity; Authorship; China;
+			<lb />
+			Bibliometrics; Collaboration
+		</front>
+	</text>
+</tei>

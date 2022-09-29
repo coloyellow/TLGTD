@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="88_4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			The Content Analysis and Application Problem of the
+			<lb />
+			Preservation Policy in Archives 
+			<lb />
+			Chiao-Min Lin
+	
+
+	
+			<lb />
+			Pei-Shan Li
+	
+
+	Abstract
+			<div type="abstract">
+				檔案館藏需要適當的儲存環境與保存、維護措施，故而制定一份館藏維護政策有其必要 性。本研究透過文獻，先分析國外重要檔案機構的館藏維護政策並整理提出政策內容綱要， 進而訪談檔案機構人員瞭解國內檔案保存維護現行作業問題及其對於制定政策的看法。研究 結果發現臺灣檔案維護相關規範散布於各項作業指導文件，尚無機構訂有完整館藏維護政 策，但受訪者普遍認可館藏維護政策的效益與功能，未來發展此項政策需要考量現今機構專 業人力不足與既有規範配合問題。研究建議檔案機構可配合相關上位法令與內部作業規範， 逐漸往制定政策的目標邁進，並推廣保存維護概念，提升人員對此議題的共識。
+				<lb />
+			</div>
+			
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor, Graduate
+	
+	Institute of Library, Information and Archival Studies, National
+			<lb />
+			Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				cmlin@nccu.edu.tw
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation> 國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			碩士
+			<lb />
+			Master, Graduate Institute of Library, Information and Archival Studies, National Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				lily25262729@gmail.com
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				8:1=88 (June &apos;16) 41-60
+				<lb />
+			</reference>
+
+			<idno>
+				DOI: 10.6575/JILA.2016.88.03
+				<lb />
+			</idno>
+			Archival repositories have to provide an appropriate storage environment and take effective
+			<lb />
+			measures of preservation and conservation, and thus a preservation policy, assisting to settle down
+			<lb />
+			all of these works, is indispensable. The study analyzed the preservation policies of four foreign
+			<lb />
+			archives and then developed the fundamental framework. In-depth interviews with archival
+			<lb />
+			repositories employees were taken to understand the difficulties of implementing preservation
+			<lb />
+			workflow and the demand of preservation policy. The results indicated that archival repositories in
+			<lb />
+			Taiwan were short of integrity in making preservation policy, which led the relevant regulations to
+			<lb />
+			scatter over the different working instructions. In general, interviewees approved of the benefits
+			<lb />
+			from the preservation policies with the positive feedbacks, but they felt concern about the
+			<lb />
+			management problems existing in the organizations such as insufficient professionals and scattered
+			<lb />
+			legislation. The findings suggest that archival repositories can assess their preservation needs and
+			<lb />
+			consider how to harmonize existing rules into preservation policy, and that the promotion of
+			<lb />
+			preservation knowledge is helpful for reaching a consensus about the policy.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+			<keyword>
+				館藏維護政策 檔案典藏機構 檔案保存
+				<lb />
+			</keyword>
+			Preservation policy；Archives repository；Archives conservation
+		</front>
+	</text>
+</tei>

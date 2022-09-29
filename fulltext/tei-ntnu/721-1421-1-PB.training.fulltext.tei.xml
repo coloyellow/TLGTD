@@ -1,0 +1,2213 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="0" />
+    </teiHeader>
+    <text xml:lang="en">
+        <head>
+            緒論
+            <lb />
+        </head>
+        <p>
+            隨著資訊科技的突飛猛進，以數位化方式表徵和呈現知識資料已是輕而易舉的事。然而
+            <lb />
+            傳統上大多數檔案的內容意涵難以為機器所解讀，由一個機器(程式)所產生的知識資料亦
+            <lb />
+            難以為另一個機器(程式)所攝入(ingest) 、再利用(reuse) ，造成機器間溝通困難。然而這
+            <lb />
+            種情形在知識本體(Ontology) 、語意網(Semantic Web)和鏈結資料(Linked Data)技術逐
+            <lb />
+            漸成熟之後已有所改觀。
+            <lb />
+        </p>
+        <p>
+            Gruber(1993)曾在他的研究中解釋知識本體： 「An ontology is an explicit specification of
+            <lb />
+            a conceptualization. The term is borrowed from philosophy, where an ontology is a systematic
+            <lb />
+            account of Existence.」 ，亦即知識本體是特定領域中概念化定義的明確規範，知識本體源於哲
+            <lb />
+            學，用來系統化解釋何謂「存在」 。計算機科學家則將知識本體視為以機器解讀的方式定義特
+            <lb />
+            定領域中的基本概念，以及概念間的關聯(Noy &amp; McGuinness, 2001) 。運用知識本體技術，
+            <lb />
+            有助於人們或軟體代理人分享特定領域的知識結構和促進領域知識的重複利用(Noy &amp;
+            <lb />
+            McGuinness, 2001) 。
+            <lb />
+        </p>
+        <p>
+            在網際網路和全球資訊網蓬勃發展之後，大量資料在網際網路湧現，無論在資料的發現、
+            <lb />
+            取用、整合及再利用皆帶來許多困難。Tim Berners-Lee(2000)認為要解決此一問題，需要
+            <lb />
+            將資料以電腦能夠理解的形式發布於全球資訊網環境中，形成一個讓電腦能夠直接或間接處
+            <lb />
+            理的資料網(Web of Data) ，此即語意網(Semantic Web)的開端。語意網的實現必須仰賴多
+            <lb />
+            項網路相關技術，包含：URI、UNICODE、XML、RDF、RDFS、OWL、SPARQL 等。而為
+            <lb />
+            了具體實踐語意網，2006 年 Tim Berners-Lee 更提出了所謂的「鏈結資料」做為實踐語意網的
+            <lb />
+            最佳實務，企圖以結構化資料建構全球資訊網的內容，並加以串聯成為一個機器能理解、富
+            <lb />
+            含語意和結構化的資料網路(Linked Data, n.d.) 。
+            <lb />
+        </p>
+        <p>
+            為展現知識本體、語意網、鏈結資料的具體應用，本研究將建置王振鵠教授事業歷程的
+            <lb />
+            知識本體，透過一名具有學術影響力的重要學者角色，去建構圖資領域學者個人生涯發展歷
+            <lb />
+            史的知識本體；再進一步建立王振鵠教授的鏈結資料網，透過背後的知識本體技術與結構，
+            <lb />
+            建置瀏覽、搜尋、關聯王教授事業歷程的網站。
+            <lb />
+        </p>
+        <head>
+            文獻探討
+            <lb />
+        </head>
+        <p>
+            本研究主旨在於以王振鵠教授為研究對象，產生可描述臺灣圖書資訊學者個人發展歷程的
+            <lb />
+            知識本體，進一步運用此知識本體，建構具備鏈結資料功能之圖書資訊學領域學者的事業歷程
+            <lb />
+            網站。由於採用的技術包含知識本體和鏈結資料，本節針對此二主題的相關文獻進行探討。
+            <lb />
+        </p>
+        <p>
+            知識本體
+            <lb />
+            知識本體源自於哲學領域，別稱有「存有學」 、 「本體論」或「一般形上學(general
+            <lb />
+            metaphysics) 」 ，後來被計算機科學、知識工程所採納，用來使機器(計算機)認知人類知識。
+            <lb />
+            知識本體是由概念(concept)和關聯(relation)所組成，概念又可分為實體(entities) 、屬性
+            <lb />
+            (attributes)等元素， 「實體」指的是特定領域中有形或無形的重要事物； 「屬性」用以敘述
+            <lb />
+            概念的特性和可能的範圍等； 「關聯」則用以說明實體間或實體與概念間的關係(Gruber,
+            <lb />
+            1993；Uschold &amp; Gruninger, 1996；阮明淑、溫達茂，2002) 。
+            <lb />
+        </p>
+        <p>
+            知識本體在圖書資訊學領域的主要用途是知識組織。阮明淑與溫達茂(2002)將知識組
+            <lb />
+            織定義為，以一定的規則與方法將雜亂或分散的特定知識加以排序、集中、定址，以方便知
+            <lb />
+            識的提供、利用與傳播。他們提到，概念是知識的基本單位，也是思維的最小單位，並透過
+            <lb />
+            所指事物與語言符號來描述，即語言符號是概念的表達形式，而概念是語言的思想內容，所
+            <lb />
+            指事物、語言符號和概念三者之間的關係，常以語義三角來描述。
+            <lb />
+        </p>
+        <p>
+            一般常見的字典、分類表、索引典等工具的基礎概念即為知識組織的應用。而知識組織
+            <lb />
+            與知識本體之關聯，須顧慮到今日的數位化資源，在知識組織時需要一個具有多用途、高彈
+            <lb />
+            性的智慧型表達工具，達到完整資訊的呈現與檢索，而知識本體自哲學領域提出以來，一直
+            <lb />
+            扮演著概念化人類知識的工具，透過資訊技術的結合，可滿足人類對於改善知識組織工具的
+            <lb />
+            需求。
+            <lb />
+        </p>
+        <p>
+            Noy 與 McGuinness(2001)在〈Ontology Development 101: A Guide to Creating Your First
+            <lb />
+            Ontology〉指出建置知識本體的七大步驟，分別為： (一)定義本體領域與範圍， (二)考慮
+            <lb />
+            使用現有的本體， (三)列舉本體中的重要詞彙， (四)定義類別與類別階層， (五)定義類別
+            <lb />
+            的屬性， (六)定義屬性的層面， (七)創建實例。
+            <lb />
+        </p>
+        <p>
+            為確定知識本體的效用，需要針對一或多個知識本體進行評估或比較。一般而言，評估
+            <lb />
+            知識本體的方法可約略分為下列四種(Brank, Grobelnik, Mladenić, 2005)： (一)與黃金標準
+            <lb />
+            (golden standard)比較， (二)將知識本體使用在應用中並評估其結果， (三)與知識本題涵
+            <lb />
+            蓋領域之相關資料進行比較， (四)由專家或使用者人為判斷知識本體是否符合某些準則、標
+            <lb />
+            準或需求。本研究採用第(二)種方法評估所建置之知識本體。
+            <lb />
+        </p>
+        <p>
+            本研究之主要目的在於建置描述王振鵠教授事業歷程的知識本體，該知識本體乃以
+            <lb />
+            VIVO 為核心架構。VIVO 係由康乃爾大學所發展的一套表徵研究者的鏈結資料工具，除了基
+            <lb />
+            於全球資訊網的網站、編輯器、內容整合工具與管理系統外，其核心之知識本體運用了所屬
+            <lb />
+            機構、研究活動、出版、教學、服務等實體、屬性及關聯來描述學者(Börner, Conlon,
+            <lb />
+            Corson-Rikert, &amp; Ding, 2012) 。VIVO 的目的著重於描述各學科領域的共同性而非差別性，
+            <lb />
+            VIVO 亦不強調涵蓋所有與學者相關的資訊，因此 VIVO 可謂構成描述學者資訊的基礎知識
+            <lb />
+            本體，各研究可視需要加以擴充。例如 Chambers 等人(2013)所建置之以英文和荷蘭文描述
+            <lb />
+            荷蘭學者的雙語知識本體便是以 VIVO 為基礎加以擴充，容納荷蘭國家學術研究及合作資訊
+            <lb />
+            網路系統(Dutch National Academic Research and Collaborations Information System, NARCIS)
+            <lb />
+            中的額外資訊。
+            <lb />
+        </p>
+        <p>
+            語意網與鏈結資料在圖書館的應用
+            <lb />
+            Tim Berners-Lee(2000)曾提出語意網的概念，並在 2006 年指稱鏈結資料即是實現語
+            <lb />
+            意網概念的最佳途徑(Linked Data, n.d.) 。鏈結資料的特色在於能透過等價的描述語句，連
+            <lb />
+            結兩個不同來源的結構化資料，這樣的描述語句包含了 owl:sameAs 與其他類型的鏈結屬性，
+            <lb />
+            而這些屬性是建立在網路本體語言(Web Ontology Language, OWL)之下，換句話說，知識
+            <lb />
+            本體技術使得鏈結資料具有機器可推理性，兩者密不可分(Parundekar, Knoblock, &amp; Ambite,
+            <lb />
+            2010) 。
+            <lb />
+        </p>
+        <p>
+            鏈結資料已廣泛運用於各種領域，如生命科學、地理、社群網路、媒體等各領域，截至
+            <lb />
+            2014 年 8 月為止，LOD 已收錄至少 1,014 個資料集 (Schmachtenberg, Bizer, &amp; Paulheim, 2014) 。
+            <lb />
+            鏈結資料在圖書館界亦獲得重視，主要的計畫包括虛擬國際化權威檔(Virtual International
+            <lb />
+            Authority File, VIAF) 、美國國會圖書館鏈結資料服務(LC Linked Data Service: Authorities and
+            <lb />
+            Vocabularies) 、大英圖書館的自由化資料服務(free data service)等。OCLC 的 WorldCat 和歐
+            <lb />
+            盟的 Europeana 亦在系統中加入鏈結資料服務。這些鏈結資料服務的重點有的是權威檔或控
+            <lb />
+            制詞彙的鏈結資料化，如 VIAF、美國國會圖書館鏈結資料服務；有的則是以書目紀錄為主，
+            <lb />
+            發展書目紀錄知識本體或是導入鏈結資料，融合資料元素與資料值，達成資料間的鏈結，包
+            <lb />
+            括大英圖書館的自由化資料服務、歐盟的 Europeana 及 OCLC 的 WorldCat 等；有些計畫像是
+            <lb />
+            開放型詮釋資料註冊中心(Open Metadata Registry, OMR)同時涵蓋了圖書館界相關的多種知
+            <lb />
+            識本體(如：FRBR、FRAD、FRSAD) 、控制詞彙(如：GEM) 、內容(如：RDA、ISBD) 、
+            <lb />
+            資料元素(如：Dublin Core、MARC21)等，是一個提供詮釋資料描述、發掘、儲存與交換
+            <lb />
+            的綱要資料庫(柯皓仁、陳亞寧，2013) 。
+            <lb />
+        </p>
+        <head>
+            系統設計與建置
+            <lb />
+        </head>
+        <p>
+            本節說明系統建置過程的所有步驟，依序說明研究對象、系統建置流程，以及展示網站
+            <lb />
+            結果。
+            <lb />
+        </p>
+        <p>
+            研究對象
+            <lb />
+            本研究以王振鵠教授的專業歷程為研究個案。王教授投入臺灣圖書館事業發展超過半世
+            <lb />
+            紀，一直扮演著相當具有影響力的角色，對臺灣圖書館事業貢獻卓著。
+            <lb />
+        </p>
+        <p>
+            根據國立臺灣師範大學圖書館(2014)的統計，從民國 45 年到 103 年，王教授的著作共
+            <lb />
+            有專著 43 種，單篇文章 382 篇，另曾指導 36 篇學位論文，而他人傳略更有 39 篇。而根據鄭
+            <lb />
+            麗敏(1994，1995)對 1974 到 1993 年間，圖書館學及資訊科學期刊的論文引用分析，王教
+            <lb />
+            授的論著是這二十年間被引用次數最多的著者，而王教授所著的《圖書館學論叢》一書更是
+            <lb />
+            被引用次數最多的中文個人著作。
+            <lb />
+        </p>
+        <p>
+            除了學術產出外，王教授一生的事業生涯亦影響圖資界深遠。他在民國 66 年至 78 年期
+            <lb />
+            間擔任中央圖書館(即國家圖書館)館長，並持續出任圖書館學會多項委員會召集人，不管
+            <lb />
+            在教育、行政及組織領導上，都扮演著重要的多重角色。顧力仁(2005)讚揚王教授： 「能在
+            <lb />
+            公餘研究不輟，質精量豐，論著的內容遍及圖書館學的理論與技術、圖書館事業發展的歷程
+            <lb />
+            以及各國圖書館事業經營的方法…，涵蓋面極為廣泛，這種旺盛的研究動機當源自於先生對
+            <lb />
+            圖書館事業的熱愛。」
+            <lb />
+        </p>
+        <p>
+            王教授堪稱是臺灣圖書館事業發展的領航人，在擔任國立中央圖書館館長時，建樹良多。
+            <lb />
+            宋建成(2005)將王教授對我國圖書館事業的建樹列為八大項:1.完成中央圖書館新館遷建工
+            <lb />
+            程；2.推動全國圖書館自動化作業；3.創設漢學研究中心；4.創設資訊圖書館；5.實施中華民
+            <lb />
+            國國際標準書號；6.舉辦臺北國際書展；7.促進人文及社會科學資料單位合作；8.舉辦全國圖
+            <lb />
+            書館會議等。除此之外，還創編了「圖書館學與資訊科學」刊物，並擔任主編。
+            <lb />
+        </p>
+        <p>
+            王振鵠教授將近半世紀的圖書館學術和專業生涯，造就了如今臺灣圖書館學與圖書館事
+            <lb />
+            業的蓬勃發展，而其在職生涯中與各重要單位交流頻繁，脈絡之廣值得探討，故本研究選擇
+            <lb />
+            王教授為研究對象。
+            <lb />
+        </p>
+        <p>
+            系統建置流程
+            <lb />
+            本研究以〈Ontology Development 101: A Guide to Creating Your First Ontology〉 (Noy &amp;
+            <lb />
+            McGuinness, 2001)作為參考依據，設計王振鵠教授之事業歷程的知識本體，並使用此知識本
+            <lb />
+            體建置系統網站，最後再評估本系統是否能滿足圖資領域研究者之需求，以及審視系統在操
+            <lb />
+            作上的易用性表現。本研究之系統規劃與建置分為資料蒐集與範圍定義、知識本體規劃設計、
+            <lb />
+            資料庫映射檔配置、伺服器與網站建置共四個階段。
+            <lb />
+        </p>
+        <p>
+            一、資料蒐集與範圍定義
+            <lb />
+            本階段蒐集王振鵠教授於學術歷程中之所有產出，蒐集內容範圍分為產出文獻、關聯組
+            <lb />
+            織、歷史事件與互動學者四大類。產出文獻包含學位論文、期刊論文、合著文章、專著與出
+            <lb />
+            版物等學術文獻。參與組織包含學術機構、政府單位、出版單位等與王教授有關聯性的組織。
+            <lb />
+            歷史事件則包含王教授過去生涯中之重大事件，比如圖書館搬遷、獲頒獎項、就職等活動與
+            <lb />
+            事件。互動學者之定義為與王教授有過合作發表、共同研究之學者，以及王教授曾經指導過
+            <lb />
+            的學生。
+            <lb />
+        </p>
+        <p>
+            資料來源是國立臺灣師範大學圖書館轄下的校史經營組，該單位於慶祝王教授九秩生日
+            <lb />
+            時整合了由中華民國圖書館學會、中華民國國家圖書館以國立臺灣師範大學所提供的王教授
+            <lb />
+            資料，並且逐一考察權威性(國立臺灣師範大學圖書館，2014) ；同時本研究也盡可能地收集
+            <lb />
+            王教授之相關歷程資料，以增加知識本體之功能性與網站價值。
+            <lb />
+        </p>
+        <p>
+            本階段需與建置知識本體的第一步驟-定義本體領域與範圍-同步進行，以確保蒐集的
+            <lb />
+            資料能和知識本體領域與範圍相契合。
+            <lb />
+        </p>
+        <p>
+            二、知識本體規劃設計
+            <lb />
+            在確認資料與本體範圍後，此階段將參考知識本體設計流程中的後面六個步驟進行：
+            <lb />
+        </p>
+        <p>
+            (一)考慮使用現有的本體
+            <lb />
+            在知識本體的選擇上，需要考慮到未來資料的互操作性(interoperability) ，也就是使資
+            <lb />
+            料能讓其他應用程式再利用，因此必須選擇受到廣泛使用的現有知識本體作為參考，本研究
+            <lb />
+            選擇 VIVO(DuraSpace Organization, 2016)與 DBpedia(Auer et al., 2007)作為知識本體的參
+            <lb />
+            考來源。
+            <lb />
+        </p>
+        <p>
+            但考慮到上述兩種知識本體可能與本研究之需求有些微差異，若是無法確切滿足研究上
+            <lb />
+            的需求，將造成資料貧乏以及描述不完善等系統功能缺失，因此本研究使用知識本體編輯工
+            <lb />
+            具 Protégé(Stanford Center for Biomedical Informatics Research, 2014)進行修改與編輯，使得
+            <lb />
+            原本的知識本體屬性皆能符合研究需求。
+            <lb />
+        </p>
+        <p>
+            (二)列舉本體中的重要詞彙
+            <lb />
+            在確定蒐集到的資料和知識本體範圍後，本研究從資料中將與學者個人事業歷程的詞彙
+            <lb />
+            擷取出來，諸如學者、學位論文、組織、事件、學位、領域、出版品和期刊等重要類別詞彙，
+            <lb />
+            以及出版、影響、具有身分或指導等介於實體之間的關聯詞彙。
+            <lb />
+        </p>
+        <p>
+            (三)定義類別與類階層
+            <lb />
+            將前一階段所擷取到的詞彙進行分類，同其所同，異其所異，並且將相似的類別，以一
+            <lb />
+            個更大的類目概括，而最上位的類目為事物(Thing) 。在〈Ontology Development 101: A Guide
+            <lb />
+            to Creating Your First Ontology〉中，整理了三種方式以建置知識本體，分別是由上而下
+            <lb />
+            (top-down) 、由下而上(down-top)以及整合法(combination) 。
+            <lb />
+        </p>
+        <p>
+            由上而下的方法乃是根據一般知識的分類產生知識本體，如生物分類法中的界、門、綱、
+            <lb />
+            目、科、屬、種，而對應於本研究的需求，即為 DBpedia 與 VIVO，也就是具有權威性與公
+            <lb />
+            信力的知識本體。相反地，由下而上的建置方法，是透過收集該領域的特殊實體，歸類出適
+            <lb />
+            用於該領域的知識本體，例如：在前一步所蒐集到的詞彙中，圖書館為一個需要特別關注的
+            <lb />
+            特殊單位，故在本研究中需自成一類。最後的整合法顧名思義是同時採用上述兩種方法建置
+            <lb />
+            知識本體，除了具有明確的分類依據，同時還能保有領域的特殊性。因此，為了讓本研究能
+            <lb />
+            同時保有這些優點，故採以整合法作為建置方法。
+            <lb />
+        </p>
+        <p>
+            本研究透過整合法同時整合 DBpedia、VIVO 以及領域詞彙，並根據前述資料來源爬梳各
+            <lb />
+            項資料、定義出知識本體領域與範圍後，產生表 1 所列之類別階層，總計 26 個類別，其中因
+            <lb />
+            為 DBpedia 與 VIVO 的知識本體也參考了許多其他現有知識本體，故表 2 列出各類別參考來
+            <lb />
+            源的網域，在這些類別當中不乏由本研究自行創建而未選用其他網域定義的類別(網域縮址
+            <lb />
+            為 vh 者) ，原因是外部來源不一定符合本系統的要求，為了將語意定義得更加明確，故決定
+            <lb />
+            自行定義類別，而各項類別的操作型定義於表 3 中逐一說明。
+            <lb />
+        </p>
+        <figure type="table">
+            表 1 本研究所設計之知識本體類別階層
+            <lb />
+            階層一
+            <lb />
+            階層二
+            <lb />
+            階層三
+            <lb />
+            階層四
+            <lb />
+            階層五
+            <lb />
+            階層六
+            <lb />
+            Thing
+            <lb />
+            (owl)
+            <lb />
+            Agent
+            <lb />
+            (foaf)
+            <lb />
+            Person
+            <lb />
+            (foaf)
+            <lb />
+            Organization
+            <lb />
+            (foaf)
+            <lb />
+            Academia
+            <lb />
+            Organization
+            <lb />
+            (vh)
+            <lb />
+            Entity
+            <lb />
+            (obo)
+            <lb />
+            Occurrent
+            <lb />
+            (obo)
+            <lb />
+            Temporal Region
+            <lb />
+            (obo)
+            <lb />
+            Period
+            <lb />
+            (vh)
+            <lb />
+            Date-Time
+            <lb />
+            Interval
+            <lb />
+            (vivo)
+            <lb />
+            Process
+            <lb />
+            (obo)
+            <lb />
+            Event
+            <lb />
+            (event)
+            <lb />
+            Item
+            <lb />
+            (vh)
+            <lb />
+            Publication
+            <lb />
+            (obo)
+            <lb />
+            Journal
+            <lb />
+            (bibo)
+            <lb />
+            Paper
+            <lb />
+            (obo)
+            <lb />
+            Journal Article
+            <lb />
+            (obo)
+            <lb />
+            Thesis
+            <lb />
+            (bibo)
+            <lb />
+            Articles
+            <lb />
+            (bibo)
+            <lb />
+            Book
+            <lb />
+            (bibo)
+            <lb />
+            Concept
+            <lb />
+            (skos)
+            <lb />
+            Academic Degree
+            <lb />
+            (vivo)
+            <lb />
+            Research Area
+            <lb />
+            (vh)
+            <lb />
+            Organization Type
+            <lb />
+            (vh)
+            <lb />
+            Identity
+            <lb />
+            (obo)
+            <lb />
+            Event Type
+            <lb />
+            (vh)
+            <lb />
+        </figure>
+        <figure type="table">
+            表 2 本研究知識本體中各類別的來源網域
+            <lb />
+            網域縮址
+            <lb />
+            網域
+            <lb />
+            適用對象
+            <lb />
+            owl
+            <lb />
+            http://www.w3.org/2002/07/owl#
+            <lb />
+            泛用類別：Thing
+            <lb />
+            obo
+            <lb />
+            http://purl.obolibrary.org/obo/
+            <lb />
+            實體類別：Period、Entity、Occurrent 、Process、Publication、
+            <lb />
+            Journal Article、Identity、Papers
+            <lb />
+            bibo
+            <lb />
+            http://purl.org/ontology/bibo/
+            <lb />
+            文獻類別：Journal、Thesis、Books、Articles
+            <lb />
+            foaf
+            <lb />
+            http://xmlns.com/foaf/0.1/
+            <lb />
+            人物類別：Person、Organization、Agent
+            <lb />
+            skos
+            <lb />
+            http://www.w3.org/2004/02/skos/core# 概念類別：Concept
+            <lb />
+            vivo
+            <lb />
+            http://vivoweb.org/ontology/core#
+            <lb />
+            VIVO 自定義類別：Academic Degree、Date-Time_Interval
+            <lb />
+            event
+            <lb />
+            http://purl.org/NET/c4dm/event.owl#
+            <lb />
+            事件類別：Event
+            <lb />
+            vh
+            <lb />
+            http://localhost/VIVOhistory.owl#
+            <lb />
+            本研究自定義類：Research Area、Academia Organization、
+            <lb />
+            Item、Event Type、Organization Type、Period
+            <lb />
+        </figure>
+        <figure type="table">
+            表 3 本研究中各類別的操作型定義
+            <lb />
+            類別
+            <lb />
+            中文
+            <lb />
+            操作型定義
+            <lb />
+            子類別或實例
+            <lb />
+            Thing
+            <lb />
+            事物
+            <lb />
+            指各類型事物，為最上層類目
+            <lb />
+            人、抽象實體、物品、概念
+            <lb />
+            Agent
+            <lb />
+            人
+            <lb />
+            用以包含人或人群的類目
+            <lb />
+            個人、組織
+            <lb />
+            Person
+            <lb />
+            個人
+            <lb />
+            指單人，包含目標學者及其指導學生或合著對
+            <lb />
+            象
+            <lb />
+            如王振鵠、張春興
+            <lb />
+            Organization
+            <lb />
+            組織
+            <lb />
+            包含與目標學者有關的組織機構，階層較學術
+            <lb />
+            組織上位
+            <lb />
+            如國立臺灣師範大學
+            <lb />
+            Academia
+            <lb />
+            Organization
+            <lb />
+            學術組織
+            <lb />
+            意指組織下的學術組織，包含研究團隊或出版
+            <lb />
+            部門
+            <lb />
+            如國立臺灣師範大學圖書資
+            <lb />
+            訊學研究所
+            <lb />
+            Entity
+            <lb />
+            抽象實體 用以操作抽象實體的類別
+            <lb />
+            時間性實體
+            <lb />
+            Occurrent
+            <lb />
+            時間實體 與時間性有關的實體類別
+            <lb />
+            時間區間、進程
+            <lb />
+            Temporal Region 時間區間 用以表述一段時間的實體類別
+            <lb />
+            時期
+            <lb />
+            Period
+            <lb />
+            時期
+            <lb />
+            指兩個年代點所勾勒成的時間區間
+            <lb />
+            如 1955_1959
+            <lb />
+            Date-Time
+            <lb />
+            Interval
+            <lb />
+            日期間隔 本研究以年代作為時間段的間隔
+            <lb />
+            如 1955
+            <lb />
+            Process
+            <lb />
+            進程
+            <lb />
+            指的是不只包含時間的長期時間性實體
+            <lb />
+            事件
+            <lb />
+            Event
+            <lb />
+            事件
+            <lb />
+            此處用以表述學者所參與的大小事件
+            <lb />
+            如王教授擔任國家圖書館館
+            <lb />
+            長
+            <lb />
+            Item
+            <lb />
+            物品
+            <lb />
+            具有具體形式之實體
+            <lb />
+            出版物
+            <lb />
+            Publication
+            <lb />
+            出版物 指經由出版單位發行之學者相關著作
+            <lb />
+            期刊、書、論文
+            <lb />
+            Journal
+            <lb />
+            期刊
+            <lb />
+            指曾有刊登過學者著作之連續性出版品
+            <lb />
+            如教育學報
+            <lb />
+            Paper
+            <lb />
+            論文
+            <lb />
+            為該學者著作或指導之論文
+            <lb />
+            期刊文章、學位論文、文章
+            <lb />
+            Journal Article 期刊文章 為目標學者發表於期刊上的文章
+            <lb />
+            如〈中國大學生課外閱讀興
+            <lb />
+            趣之調查研究〉
+            <lb />
+            Thesis
+            <lb />
+            學位論文 為目標學者所指導之學位論文
+            <lb />
+            如《杜威十進分類法研究》
+            <lb />
+            Articles
+            <lb />
+            文章
+            <lb />
+            指目標學者所著之單篇文章
+            <lb />
+            如〈圖書館事業發展概述〉
+            <lb />
+            Book
+            <lb />
+            書
+            <lb />
+            指目標學者所著之出版書籍
+            <lb />
+            如《書緣》
+            <lb />
+            Concept
+            <lb />
+            概念
+            <lb />
+            指人類普遍用於分類知識與描繪事物之抽象實
+            <lb />
+            體
+            <lb />
+            學術學位、研究領域、組織
+            <lb />
+            類型、身分、事件類型
+            <lb />
+            Academic Degree 學術學位 用以區分學位論文級別的概念
+            <lb />
+            如博士、碩士
+            <lb />
+            Research Area
+            <lb />
+            研究領域 用來表述某篇文章主題或某學者之研究主題
+            <lb />
+            如圖書館史
+            <lb />
+            Organization
+            <lb />
+            Type
+            <lb />
+            組織類型 用以區分人群組織的各種型態
+            <lb />
+            如學院、出版社
+            <lb />
+            Identity
+            <lb />
+            身分
+            <lb />
+            用以區分學者於本體事件中的各種身分
+            <lb />
+            如學者、公務員
+            <lb />
+            Event Type
+            <lb />
+            事件類型 用以表述該學者所參與事件的各種事件類型
+            <lb />
+            如就職、搬遷
+            <lb />
+        </figure>
+        <p>
+            (四)定義類別的屬性
+            <lb />
+            知識本體中的每項類別與實例都會有其屬性，故此階段乃從現有的本體和取得的資料中
+            <lb />
+            擷取出各類別與實例的屬性，除了 rdfs:label、rdf:type 與 rdfs:about 三個所有類別與實例的共
+            <lb />
+            同屬性外，共整理出 29 項屬性，如表 4。其中有部分屬性並無採用其他網域的現有屬性，而
+            <lb />
+            是選擇由本研究自行定義，原因在於現有的屬性未必能表現出本研究所想表達之語意，以
+            <lb />
+            vh:article_produce 來說，雖然 vivo:Authorship 可以表現其部分含意，但若將 vh:article_produce、
+            <lb />
+            vh:journal_produce、vh:has_thesis 三者皆以 vivo:Authorship 表達，在語意上則會遺失許多資訊，
+            <lb />
+            這並不是本研究所期望的。
+            <lb />
+        </p>
+        <p>
+            此外，在一般概念裡，一件事物的屬性並沒有上限，全看研究者的研究範圍與主題來決
+            <lb />
+            定屬性的種類與數量。因此本研究僅採用前述階段所收集到的資料集，其中曾提及或收錄到
+            <lb />
+            的屬性，或是對本研究有幫助的屬性，其餘相關性較低的屬性若是收錄進本體，只會造成主
+            <lb />
+            題模糊，以及研究定義不明確，故不予採用。
+            <lb />
+        </p>
+        <figure type="table">
+            表 4 本研究各類別之屬性
+            <lb />
+            類別
+            <lb />
+            屬性
+            <lb />
+            意涵
+            <lb />
+            Person
+            <lb />
+            vh:article_produce
+            <lb />
+            產出了某篇文章
+            <lb />
+            rdfs:advising
+            <lb />
+            指導了某人
+            <lb />
+            schema:attendee
+            <lb />
+            參與了某事(個人)
+            <lb />
+            obo:RO_0000087
+            <lb />
+            具有某身分
+            <lb />
+            vivo: hasResearchArea
+            <lb />
+            擅長某研究領域
+            <lb />
+            vh:journal_produce
+            <lb />
+            產出了某期刊文獻
+            <lb />
+            vh:co_authorship
+            <lb />
+            合著關係
+            <lb />
+            vh:has_thesis
+            <lb />
+            產出了某學位論文
+            <lb />
+            Organization
+            <lb />
+            schema:attendee
+            <lb />
+            參與了某事(團體)
+            <lb />
+            obo:BFO_0000051
+            <lb />
+            旗下有某部門
+            <lb />
+            vh:organize_type
+            <lb />
+            是某類型的團體
+            <lb />
+            rdfs:seeAlso
+            <lb />
+            可參照某事物
+            <lb />
+            Period
+            <lb />
+            vh:period_included
+            <lb />
+            包含了某年分
+            <lb />
+            Event
+            <lb />
+            vh:event_about
+            <lb />
+            關於某種事件主題
+            <lb />
+            Event:time
+            <lb />
+            發生在某年分
+            <lb />
+            vh:event_period
+            <lb />
+            發生在某期間
+            <lb />
+            Journal Article
+            <lb />
+            schema:isPartOf
+            <lb />
+            包含在某文章
+            <lb />
+            dbpedia:firstPublicationYear
+            <lb />
+            出版在某年分
+            <lb />
+            schema:author
+            <lb />
+            被撰寫於某人
+            <lb />
+            dbpedia:publisher
+            <lb />
+            出版於某組織
+            <lb />
+            Thesis
+            <lb />
+            dbpedia:publisher
+            <lb />
+            出版於某組織
+            <lb />
+            dbpedia:firstPublicationYear
+            <lb />
+            出版於某年分
+            <lb />
+            vh:thesis_degree
+            <lb />
+            具有某學位資格
+            <lb />
+            Articles
+            <lb />
+            dbpedia:firstPublicationYear
+            <lb />
+            出版於某年分
+            <lb />
+            vivo:has_subject_area
+            <lb />
+            關於某主題
+            <lb />
+        </figure>
+        <figure type="table">
+            (續表 4)
+            <lb />
+            類別
+            <lb />
+            屬性
+            <lb />
+            意涵
+            <lb />
+            Book
+            <lb />
+            dbpedia:publisher
+            <lb />
+            出版於某組織
+            <lb />
+            dbpedia:firstPublicationYear
+            <lb />
+            出版於某年分
+            <lb />
+            Research Area
+            <lb />
+            vivo: researchAreaOf
+            <lb />
+            相關學者
+            <lb />
+            vh:related_research
+            <lb />
+            相關研究
+            <lb />
+        </figure>
+        <p>
+            (五)定義屬性的層面
+            <lb />
+            在傳統資料處理上，大多數的人類語言與符號都是以字串(string)的形式儲存，而電腦
+            <lb />
+            並無法解析其字詞中的語意與意涵，同樣也無法處理人類知識的邏輯推理，但在結合了知識
+            <lb />
+            本體架構的資料中，系統可透過對於實體的屬性內容以辨別實體，而不再僅是字串上的儲存，
+            <lb />
+            達到如此成效的關鍵就在於屬性的層面種類，分為物件屬性與資料屬性，透過屬性的差異便
+            <lb />
+            可辨識大多數字詞是否為實體。
+            <lb />
+        </p>
+        <p>
+            本階段將上一個階段所定義出的屬性進行分類，分為物件屬性與資料屬性，這關係到描
+            <lb />
+            述物件在本研究中被視為實體或字串呈現。如「1989 年」可以被定義為一個時間實體，但也
+            <lb />
+            可被定義為年代字串，然而由於本研究將年代視為一個重要關鍵，因此將年代定義為時間實
+            <lb />
+            體，使得與年代有關聯之屬性皆為物件屬性。透過上述的方式產出如表 5 的屬性清單，清楚
+            <lb />
+            定義出本體內各屬性之功能與定義。
+            <lb />
+        </p>
+        <figure type="table">
+            表 5 本研究各屬性之層面類型
+            <lb />
+            屬性
+            <lb />
+            意涵
+            <lb />
+            層面類型
+            <lb />
+            vh:article_produce
+            <lb />
+            產出了某篇文章
+            <lb />
+            物件屬性
+            <lb />
+            rdfs:advising
+            <lb />
+            指導了某人
+            <lb />
+            物件屬性
+            <lb />
+            schema:attendees
+            <lb />
+            參與了某事(個人)
+            <lb />
+            物件屬性
+            <lb />
+            obo:RO_0000087
+            <lb />
+            具有某身分
+            <lb />
+            物件屬性
+            <lb />
+            vivo:has_research_area
+            <lb />
+            擅長某研究領域
+            <lb />
+            物件屬性
+            <lb />
+            vh:journal_produce
+            <lb />
+            產出了某期刊文獻
+            <lb />
+            物件屬性
+            <lb />
+            vh:has_thesis
+            <lb />
+            產出了某學位論文
+            <lb />
+            物件屬性
+            <lb />
+            schema:attendee
+            <lb />
+            參與了某事(團體)
+            <lb />
+            物件屬性
+            <lb />
+            obo:BFO_0000051
+            <lb />
+            旗下有某部門
+            <lb />
+            物件屬性
+            <lb />
+            vh:organize_type
+            <lb />
+            是某類型的團體
+            <lb />
+            物件屬性
+            <lb />
+            rdfs:seeAlso
+            <lb />
+            可參照某事物
+            <lb />
+            字串屬性
+            <lb />
+            vh:period_included
+            <lb />
+            包含了某年分
+            <lb />
+            物件屬性
+            <lb />
+            vh:event_about
+            <lb />
+            關於某種事件主題
+            <lb />
+            物件屬性
+            <lb />
+            Event:time
+            <lb />
+            發生在某年分
+            <lb />
+            物件屬性
+            <lb />
+            vh:event_period
+            <lb />
+            發生在某期間
+            <lb />
+            物件屬性
+            <lb />
+            schema:isPartOf
+            <lb />
+            包含了某文章
+            <lb />
+            物件屬性
+            <lb />
+            dbpedia:publisher
+            <lb />
+            出版於某組織
+            <lb />
+            物件屬性
+            <lb />
+            dbpedia:firstPublicationYear
+            <lb />
+            出版於某年分
+            <lb />
+            物件屬性
+            <lb />
+            vh:thesis_degree
+            <lb />
+            具有某學位資格
+            <lb />
+            物件屬性
+            <lb />
+            vivo: researchAreaOf
+            <lb />
+            有某相關學者
+            <lb />
+            物件屬性
+            <lb />
+        </figure>
+        <figure type="table">
+            (續表 5)
+            <lb />
+            屬性
+            <lb />
+            意涵
+            <lb />
+            層面類型
+            <lb />
+            vivo: has_subject_area
+            <lb />
+            關於某主題
+            <lb />
+            物件屬性
+            <lb />
+            schema:author
+            <lb />
+            被撰寫於某人
+            <lb />
+            物件屬性
+            <lb />
+            vh:related_research
+            <lb />
+            相關研究
+            <lb />
+            物件屬性
+            <lb />
+            vh:co_authorship
+            <lb />
+            合著者
+            <lb />
+            物件屬性
+            <lb />
+        </figure>
+        <p>
+            值得注意的是，本研究視近乎所有的屬性為物件屬性，原因在於字串屬性無法仿效物件
+            <lb />
+            屬性去連接其他實體，造成日後本體難以擴展範圍，形成後續研究上的困難，雖然 rdfs:seeAlso
+            <lb />
+            在系統中設定為字串屬性，但該欄位所記載之資料為 URL 字串，因此在實際操作上與物件屬
+            <lb />
+            性無異。考量到未來增加本體的可擴展性與各實體之間的關聯強度，本研究決定將本體內的
+            <lb />
+            屬性大多視為物件屬性處理。
+            <lb />
+        </p>
+        <p>
+            (六)創建實例
+            <lb />
+            在確定好所有類別與屬性後，方可新增實例至適當的類別下，增加本體價值與資料豐富
+            <lb />
+            程度。然而此階段會視後續研究而有所不同，因〈Ontology Development 101: A Guide to
+            <lb />
+            Creating Your First Ontology〉的主旨在於建置知識本體，但本體建置僅為本研究系統之初步
+            <lb />
+            建設步驟，後續將建置 MySQL 資料庫以放置所有實例，因此除了幾項便於檢視本體結構的
+            <lb />
+            實例資料外，其餘資料將於後續階段輸入。
+            <lb />
+        </p>
+        <p>
+            在此階段優先建置的實例如表 6，優先建置的原因在便於設計者檢視本體的關聯結構有
+            <lb />
+            無衝突，保證本研究之知識本體具有一定程度的可推論性，從而避免影響日後本體發展，故
+            <lb />
+            設計時全程使用了可插件於 Protégé 內的 Pellet 推論引擎即時檢測，經由引擎推論檢測後，確
+            <lb />
+            認符合 OWL DL 標準才可進入下一階段。
+            <lb />
+        </p>
+        <figure type="table">
+            表 6 本研究各類別之實例
+            <lb />
+            類別
+            <lb />
+            實例
+            <lb />
+            意涵
+            <lb />
+            Academic Degree
+            <lb />
+            Master
+            <lb />
+            碩士
+            <lb />
+            Doctor
+            <lb />
+            博士
+            <lb />
+            Organization Type
+            <lb />
+            College
+            <lb />
+            學院
+            <lb />
+            Library
+            <lb />
+            圖書館
+            <lb />
+            Research Organization
+            <lb />
+            研究組織
+            <lb />
+            University
+            <lb />
+            大學
+            <lb />
+            Institute
+            <lb />
+            研究所
+            <lb />
+            Identity
+            <lb />
+            Researcher
+            <lb />
+            學者
+            <lb />
+            Civil Service
+            <lb />
+            公務人員
+            <lb />
+            Industry
+            <lb />
+            業界人士
+            <lb />
+            Event Type
+            <lb />
+            Worked
+            <lb />
+            就職
+            <lb />
+            Establish
+            <lb />
+            創立
+            <lb />
+            Life
+            <lb />
+            人生事件
+            <lb />
+            Move
+            <lb />
+            搬遷事件
+            <lb />
+        </figure>
+        <figure type="table">
+            (續表 6)
+            <lb />
+            類別
+            <lb />
+            實例
+            <lb />
+            意涵
+            <lb />
+            Event Type
+            <lb />
+            Educational
+            <lb />
+            教育事件
+            <lb />
+            Project
+            <lb />
+            計畫事件
+            <lb />
+            Official
+            <lb />
+            政府事件
+            <lb />
+        </figure>
+        <p>
+            三、資料庫與映射檔配置
+            <lb />
+            在依循〈Ontology Development 101: A Guide to Creating Your First Ontology〉的步驟以及
+            <lb />
+            使用 Protégé 修改與編輯後，使用前述所建置的知識本體，設計一份可對應於關聯式資料庫的
+            <lb />
+            映射檔。映射檔是由 D2RQ 開發團隊所設計的映射語言(mapping language)寫成(Cyganiak,
+            <lb />
+            2012) ，目的在於轉置、操作跟搜尋 RDF，透過 Jena 的 RDF Model 編輯功能以及映射檔，可
+            <lb />
+            以轉置出符合研究需求之 RDF 檔案，並完成鏈結資料的轉置工作。接著，因為需要將前面所
+            <lb />
+            收集到的王教授資料轉置到 MySQL 中以做後續應用，因此本階段所產出之映射檔，其編譯
+            <lb />
+            內容即是轉置 RDF 格式成功與否的關鍵。
+            <lb />
+        </p>
+        <p>
+            (一)資料庫建置
+            <lb />
+            本研究採用 MySQL 作為存放檔案的資料庫。完成資料庫架設後，即可參考先前設計的
+            <lb />
+            知識本體與收集到的資料，手動建置資料表與各項欄位，並將資料逐一輸入至 MySQL 資料
+            <lb />
+            庫中，全數輸入後，資料庫內的類別與實例狀況如表 7。
+            <lb />
+        </p>
+        <figure type="table">
+            表 7 本研究中的實例數量與範例
+            <lb />
+            類別
+            <lb />
+            中文
+            <lb />
+            實例筆數
+            <lb />
+            Person
+            <lb />
+            個人
+            <lb />
+            4 4 筆
+            <lb />
+            Organization
+            <lb />
+            組織
+            <lb />
+            2 0 筆
+            <lb />
+            Academia Organization
+            <lb />
+            學術組織
+            <lb />
+            2 7 筆
+            <lb />
+            Period
+            <lb />
+            時期
+            <lb />
+            7 筆
+            <lb />
+            Date-Time Interval
+            <lb />
+            日期間隔
+            <lb />
+            9 2 筆
+            <lb />
+            Event
+            <lb />
+            事件
+            <lb />
+            6 5 筆
+            <lb />
+            Journal
+            <lb />
+            期刊
+            <lb />
+            7 3 筆
+            <lb />
+            Journal Article
+            <lb />
+            期刊文章
+            <lb />
+            158 筆
+            <lb />
+            Thesis
+            <lb />
+            學位論文
+            <lb />
+            3 6 筆
+            <lb />
+            Articles
+            <lb />
+            文章
+            <lb />
+            105 筆
+            <lb />
+            Book
+            <lb />
+            書
+            <lb />
+            4 4 筆
+            <lb />
+            Academic Degree
+            <lb />
+            學術學位
+            <lb />
+            2 筆
+            <lb />
+            Research Area
+            <lb />
+            研究領域
+            <lb />
+            5 筆
+            <lb />
+            Organization Type
+            <lb />
+            組織類型
+            <lb />
+            5 筆
+            <lb />
+            Identity
+            <lb />
+            身分
+            <lb />
+            3 筆
+            <lb />
+            Event Type
+            <lb />
+            事件類型
+            <lb />
+            7 筆
+            <lb />
+        </figure>
+        <p>
+            為了配合 D2RQ 伺服器，在資料庫中的類別與物件屬性是以資料表的方式記錄，而資料
+            <lb />
+            屬性則是在類別資料表中以欄位記錄，本研究在 MySQL 建立與類別和物件屬性名稱相同的
+            <lb />
+            資料表，完整的實體關聯圖(Entity-Relationship Model)請參見符興智(2016) 。在完成各項
+            <lb />
+            資料表後，便可開始設計映射檔。
+            <lb />
+        </p>
+        <p>
+            (二)映射檔配置
+            <lb />
+            透過 D2RQ 的映射語言，可以將 MySQL 裡的資料表欄位對應到相對的類別、屬性與實
+            <lb />
+            例，進而將一般的字串資料轉成具有知識本體功能的 RDF 資料。
+            <lb />
+        </p>
+        <p>
+            表 8 為本研究映射檔(mapping file)的配置程式碼。程式碼第 1-18 行@prefix 的主要用
+            <lb />
+            途為縮詞，將 URI 縮寫為自定義詞，方便後續程式碼的撰寫。程式碼第 19-26 行 map:database
+            <lb />
+            段落的功能，在於設定 D2RQ 與 MySQL 之間的連結，包含帳號、密碼與位址等參數。
+            <lb />
+        </p>
+        <figure type="table">
+            表 8 映射檔配置程式碼
+            <lb />
+            1 @prefix map: &lt;#&gt; .
+            <lb />
+            2 @prefix db: &lt;&gt; .
+            <lb />
+            3 @prefix vocab: &lt;vocab/&gt; .
+            <lb />
+            4 @prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+            <lb />
+            5
+            <lb />
+            @prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+            <lb />
+            6
+            <lb />
+            @prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+            <lb />
+            7 @prefix d2rq: &lt;http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#&gt; .
+            <lb />
+            8
+            <lb />
+            @prefix jdbc: &lt;http://d2rq.org/terms/jdbc/&gt; .
+            <lb />
+            9
+            <lb />
+            @prefix vh: &lt;http://localhost/VIVOhistory.owl#&gt;.
+            <lb />
+            10 @prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt; .
+            <lb />
+            11 @prefix owl: &lt;http://www.w3.org/2002/07/owl#&gt; .
+            <lb />
+            12 @prefix vhc: &lt;http://localhost:2020/resource/class/&gt; .
+            <lb />
+            13 @prefix vhp: &lt;http://localhost:2020/resource/property/&gt; .
+            <lb />
+            14 @prefix skos: &lt;http://www.w3.org/2004/02/skos/core#&gt; .
+            <lb />
+            15 @prefix vivo: &lt;http://vivoweb.org/ontology/core#&gt; .
+            <lb />
+            16 @prefix event: &lt;http://purl.org/NET/c4dm/event.owl#&gt; .
+            <lb />
+            17 @prefix obo: &lt;http://purl.obolibrary.org/obo/&gt; .
+            <lb />
+            18 @prefix bibo: &lt;http://purl.org/ontology/bibo/&gt; .
+            <lb />
+            19 map:database a d2rq:Database;
+            <lb />
+            20 d2rq:jdbcDriver &quot;com.mysql.jdbc.Driver&quot;;
+            <lb />
+            21 d2rq:jdbcDSN &quot;jdbc:mysql://localhost/jenadbtest&quot;;
+            <lb />
+            22 d2rq:username &quot;root&quot;;
+            <lb />
+            23 d2rq:password &quot;********&quot;;
+            <lb />
+            24 jdbc:autoReconnect &quot;true&quot;;
+            <lb />
+            25 jdbc:zeroDateTimeBehavior &quot;convertToNull&quot;;
+            <lb />
+            26 .
+            <lb />
+        </figure>
+        <p>
+            在完成與 MySQL 的連結設定後，可開始映射資料。映射檔的撰寫邏輯是由資料庫中的
+            <lb />
+            資料表去對映到類別與物件屬性，表 9 中撰寫的內容為對映資料表 Event 到類別 Event 的程
+            <lb />
+            式碼，程式碼第 1 行以#開頭為註記；程式碼第 2 行「event:Event a d2rq:ClassMap;」在於宣
+            <lb />
+            告 event:Event 為一項類別；第 3 行「d2rq:dataStorage map:database;」為類別對映到的資料庫
+            <lb />
+            路徑；第 4 行「d2rq:uriPattern &quot;Event/@@Event.id@@&quot;;」是設定該類別實例的 URI 樣式；第
+            <lb />
+            5 行 「d2rq:class event:Event;」 是設定該類別在顯示時的 URI ，而第 6 行 「d2rq:classDefinitionLabel
+            <lb />
+            &quot;Event&quot;;」則是該類別的定義標籤。
+            <lb />
+        </p>
+        <figure type="table">
+            表 9 Event 類別的映射程式碼
+            <lb />
+            1 ###### Table Event
+            <lb />
+            2
+            <lb />
+            event:Event a d2rq:ClassMap;
+            <lb />
+            3 d2rq:dataStorage map:database;
+            <lb />
+            4
+            <lb />
+            d2rq:uriPattern &quot;Event/@@Event.id@@&quot;;
+            <lb />
+            5
+            <lb />
+            d2rq:class event:Event;
+            <lb />
+            6 d2rq:classDefinitionLabel &quot;Event&quot;;
+            <lb />
+            7
+            <lb />
+            .
+            <lb />
+            8
+            <lb />
+            event:Event_id a d2rq:PropertyBridge;
+            <lb />
+            9 d2rq:belongsToClassMap event:Event;
+            <lb />
+            10 d2rq:property rdfs:about;
+            <lb />
+            11 d2rq:pattern &quot;@@Event.id@@&quot;;
+            <lb />
+            12 .
+            <lb />
+            13 event:Event_label a d2rq:PropertyBridge;
+            <lb />
+            14 d2rq:belongsToClassMap event:Event;
+            <lb />
+            15 d2rq:property rdfs:label;
+            <lb />
+            16 d2rq:pattern &quot;@@Event.label@@&quot;;
+            <lb />
+            17 .
+            <lb />
+        </figure>
+        <p>
+            在基本資料表設定完成後，接續的內容為該類別的資料屬性，第 8 行「event:Event_id a
+            <lb />
+            d2rq:PropertyBridge;」表示類別 event:Event 中的每一個實例都有一個資料屬性為 id；第 9 行
+            <lb />
+            「d2rq:belongsToClassMap event:Event;」則說明這項屬性將指向 event:Event 這個類別；第 10
+            <lb />
+            行「d2rq:property rdfs:about;」意指這項屬性將顯示為 rdfs:about，而第 11 行「d2rq:pattern
+            <lb />
+            &quot;@@Event.id@@&quot;;」則是屬性本身的 URI 呈現方式。
+            <lb />
+        </p>
+        <p>
+            在 D2RQ 的映射檔中，物件屬性也是以資料表的方式儲存，表 10 是物件屬性的對映設
+            <lb />
+            定，程式碼第 2 行「map:event_year a d2rq:PropertyBridge;」即為宣告資料表 event_year 是一
+            <lb />
+            項屬性連接；第 3 行「d2rq:belongsToClassMap event:Event;」意思為 map:event_year 用於屬性
+            <lb />
+            event:Event；第 4 行「d2rq:property Event:time;」該屬性的呈現 URI 為 Event:time；第 5 行
+            <lb />
+            「d2rq:refersToClassMap vivo:date-time_interval;」說明該屬性指向 vivo:date-time_interval；第
+            <lb />
+            6 行「d2rq:join &quot;event_year.Event_id =&gt; Event.id&quot;;」與第 7 行「d2rq:join &quot;event_year.year_id =&gt;
+            <lb />
+            date-time_interval.id&quot;;」為仿效關聯式資料庫的 JOIN，定義三個資料表之間的欄位參照關係。
+            <lb />
+        </p>
+        <figure type="table">
+            表 10 物件屬性映射程式碼
+            <lb />
+            1 ######Table event_year
+            <lb />
+            2
+            <lb />
+            map:event_year a d2rq:PropertyBridge;
+            <lb />
+            3 d2rq:belongsToClassMap event:Event;
+            <lb />
+            4
+            <lb />
+            d2rq:property Event:time;
+            <lb />
+            5
+            <lb />
+            d2rq:refersToClassMap vivo:date-time_interval;
+            <lb />
+            6 d2rq:join &quot;event_year.Event_id =&gt; Event.id&quot;;
+            <lb />
+            7 d2rq:join &quot;event_year.year_id =&gt; date-time_interval.id&quot;;
+            <lb />
+            8
+            <lb />
+            .
+            <lb />
+        </figure>
+        <p>
+            完整的配置程式碼請參見符興智(2016) 。在將所有的類別與屬性定義的映射完成後，
+            <lb />
+            D2RQ 也將會依照此檔案中的設定將資料庫中各資料表的欄位字串轉換為 RDF 格式的資料，
+            <lb />
+            便可透過 SPARQL 端點(endpoint)網站中的 SPARQL 語句進行搜尋與利用這些 RDF 資料，
+            <lb />
+            後續才有辦法建置實例以及網站建設。
+            <lb />
+        </p>
+        <p>
+            配置完成後，經 SPARQL 語法搜尋結果顯示，本系統內有 26 種類別、29 項屬性、720
+            <lb />
+            件實例，總計可產生 3,645 條三元組描述句，若不計算 rdfs:label、rdfs:about、rdf:type 三種資
+            <lb />
+            料屬性，也仍有 1,421 條透過物件屬性所產生的三元組描述句。
+            <lb />
+        </p>
+        <p>
+            四、伺服器與網站建置
+            <lb />
+            Apache Web Server 是目前最廣泛使用的伺服器軟體之一。在進行資料導入及轉置工作之
+            <lb />
+            前，必須先將伺服器建置完成，過程包含了軟體安裝以及伺服器與資料庫連結。在完成上述
+            <lb />
+            工作後，即可參考先前設計的知識本體以及映射檔案的架構，完成轉置工作。
+            <lb />
+        </p>
+        <p>
+            為了讓轉置完成的 RDF 資料能透過網路讓使用者方便瀏覽與使用，因此還需要利用網頁
+            <lb />
+            呈現的方式，讓使用者能透過瀏覽器，從遠端就能取得本系統資料。因為結合了免費工具
+            <lb />
+            sparqllib.php 的功能，使用者可以經由 PHP 語法所撰寫的網站，從網頁傳遞 SPARQL 查詢語
+            <lb />
+            句到 D2RQ Server 的端點進行搜尋，再透過 D2RQ 的映射檔轉換 MySQL 的資料成 RDF 格式，
+            <lb />
+            傳回並呈現於網頁上，此外網站還融合了 LodLive，這是一套以 JavaScript 所寫成的 RDF 視
+            <lb />
+            覺化網頁工具，來輔助使用者透過圖形化檢索的方式，了解各實體之間的關聯性。
+            <lb />
+        </p>
+        <p>
+            網站結果
+            <lb />
+            本研究的最終結果為王振鵠教授鏈結資料網，透過背後的知識本體技術與結構，本網站
+            <lb />
+            可達到瀏覽、搜尋、關聯，以及 SPARQL 端點四項功能，接下來將說明每一項功能是如何幫
+            <lb />
+            助使用者在資料間進行瀏覽與查找，達到比一般傳統網站更方便的使用價值。
+            <lb />
+        </p>
+        <p>
+            一、瀏覽
+            <lb />
+            本功能的設計目的在於提供使用者傳統階層式的瀏覽模式。網站設計者使用 SPARQL 語
+            <lb />
+            言配合 PHP 語法，將網站內所有類別列出，如圖 1 所示。使用者可以先推估目標實體之類別，
+            <lb />
+            在點選代表該類別的超連結之後，即可瀏覽該類別底下的所有實體，選擇目標超連結之後，
+            <lb />
+            便可檢索到該目標的所有屬性資訊。
+            <lb />
+        </p>
+        <p>
+            透過傳統瀏覽模式的設計，可以讓尚未熟悉知識本體結構的使用者從一般瀏覽模式的超連
+            <lb />
+            結跳轉中探索出知識本體網狀結構的概念，進而掌握知識本體的其他呈現方式與檢索模式。
+            <lb />
+        </p>
+        <figure>
+            圖 1 網站瀏覽功能畫面
+            <lb />
+        </figure>
+        <p>
+            二、搜尋
+            <lb />
+            此功能頁面可讓使用者透過位於畫面中央的文字欄，輸入個體的標籤(label)屬性，進
+            <lb />
+            行簡單的關鍵字查找，網頁畫面如圖 2，與瀏覽相比，因為多了一個搜尋的步驟，因此省去
+            <lb />
+            了人眼逐一比對目標的繁瑣過程，加快搜尋速度。
+            <lb />
+        </p>
+        <figure>
+            2 網站搜尋功能畫面
+            <lb />
+        </figure>
+        <p>
+            網站同時搭配了使用 JavaScript 所設計的 LodLive 圖形化瀏覽功能，讓使用者在找到目
+            <lb />
+            標實體後，可透過圖 3 所示的圖形化瀏覽方式瞭解各實體之間的關聯網絡，且在探索過程中，
+            <lb />
+        </p>
+        <figure>
+            3 LodLive 工具瀏覽畫面
+            <lb />
+        </figure>
+        <figure>
+            圖 4 網站關聯功能頁面
+            <lb />
+        </figure>
+        <p>
+            關聯查找功能是本網站基於知識本體架構才得以實現的查找功能。在功能頁面中，使用
+            <lb />
+            4 頁面中的下拉式選單，選取符合需求的關聯選項，共有七項關聯可供選擇：
+            <lb />
+            參與某事件當下出版的合著出版品與合著者；4.王教授在某職位期間的相關事件；5.王教授在
+            <lb />
+            某職位期間出版的文章；6.王教授在某職位期間指導的學位論文；7.王教授的某著作出版時所
+            <lb />
+            指導學生之論文。
+            <lb />
+        </p>
+        <p>
+            在選擇好關聯後，使用者可於下方的文字欄，輸入欲查找之實體關鍵字，按下搜尋後，
+            <lb />
+            5 所示，以條列式呈現。
+            <lb />
+        </p>
+        <figure>
+            圖 5 網站關聯功能查詢結果頁面
+            <lb />
+        </figure>
+        <p>
+            上述七項關聯是設計者在評估知識本體內容後所選擇的代表性關聯，並採用 結合
+            <lb />
+            SPARQL 語言所撰寫，故關聯功能是以設計者預設之 SPARQL 語句進行查找，除了避免大多
+            <lb />
+            數使用者不熟悉 SPARQL 語言的困擾，同時省去了撰寫 SPARQL 查詢的繁瑣過程。此外每一
+            <lb />
+        </p>
+        <p>
+            四、SPARQL 端點
+            <lb />
+            倘若關聯查找中預設之 SPARQL SPARQL 端點
+            <lb />
+            搜尋頁面，畫面如圖 6。該功能讓使用者能自行輸入 SPARQL 語言進行查找，補足設計者無
+            <lb />
+            法設想周到之處，使網站的查找功能更加完善。
+            <lb />
+        </p>
+        <p>
+            結合上述的四大搜尋功能，使用者可依照需求查找資源，而知識本體結構也能幫助使用
+            <lb />
+        </p>
+        <figure>
+            圖 網站 SPARQL 功能頁面
+            <lb />
+        </figure>
+        <p>
+            為了驗證本系統網站在使用性上較未含有知識本體的一般網站更為有效率，且更容易發
+            <lb />
+            方法(Brank, Grobelnik, Mladenić, 2005) 。本研究將實驗分為實驗組與對照組，實驗組選用的
+            <lb />
+            設計的「王振鵠教授九秩榮慶特展網站」 (國立臺灣師範大學圖書館，2014) ，該網站是國立
+            <lb />
+        </p>
+        <p>
+            受試對象
+            <lb />
+            本研究的受試對象來源為國立臺灣大學、國立政治大學、國立臺灣師範大學以及私立天
+            <lb />
+            名已畢業與未畢業之研究生，以及圖書資
+            <lb />
+            訊學系的 18 6 名正於圖書館工作之館員，主要是這類受試
+            <lb />
+            對象： (一)擁有圖資領域的基礎概念，能以一個具有基礎知識的資訊需求者角度，去檢視系
+            <lb />
+            統的使用性； (二)對於圖資學術主題有基本認知，能審視知識本體的推論結果是否符合圖資
+            <lb />
+            主題之間的關聯性； (三)為當前圖資領域的學習者或實務工作者，能測試本系統平臺能否幫
+            <lb />
+            保受測者的學歷背景不影響測試結果，實驗組與對照組各為 25 名研究生、9 名大學生以及 3
+            <lb />
+            名館員，一組 37 人，共兩組，總計 74 人。
+            <lb />
+        </p>
+        <p>
+            實驗設計
+            <lb />
+            本研究實驗是參考亞利桑那大學圖書館網站的使用性十點評估簡易模式 (呂淑惠，2002)
+            <lb />
+            來設計實驗，實驗分為四個階段：
+            <lb />
+        </p>
+        <p>
+            一、向受測者說明實驗與基本資料填寫
+            <lb />
+            任何會影響到實驗結果的變數。
+            <lb />
+        </p>
+        <p>
+            二、讓受測者熟悉系統
+            <lb />
+            說明完實驗流程後，讓受測者進行一次練習任務，任務內容是使用指定的工具平台查找
+            <lb />
+            階段。
+            <lb />
+        </p>
+        <p>
+            三、進行實測
+            <lb />
+            實測有四項任務，任務內容與練習任務相仿，差異在於有限時五分鐘的查找時間，且每
+            <lb />
+        </p>
+        <p>
+            四、測後問卷與回饋
+            <lb />
+            在實測後請受測者對於實驗中的特殊情形進行問卷填寫以及口頭回饋，透過實驗人員與
+            <lb />
+        </p>
+        <p>
+            實驗環境
+            <lb />
+            本節將詳細說明整項研究的測試環境，包含測試工具、測試設計與測試任務，盡可能地
+            <lb />
+        </p>
+        <p>
+            螢幕錄製工具：為了收集足夠的數據以輔助日後的研究，本研究使用螢幕錄製軟體
+            <lb />
+            Broadcaster Software(OBS)記錄整個實驗過程。本研究除了錄製測試中的螢幕內容外，
+            <lb />
+            同時也利用視訊鏡頭測錄受測者的受測情形，並且記錄於同一檔案中，以方便日後回顧
+            <lb />
+            測試過程。
+            <lb />
+        </p>
+        <p>
+            瀏覽器也統一使用 Chrome 的無痕模式，避免在測試過程中，瀏覽器暫存所影響到的任
+            <lb />
+            何變數。
+            <lb />
+        </p>
+        <p>
+            二、測試設計
+            <lb />
+            實驗一開始會先請受測者填寫基本資料，在完成基本資料後，會對受測者進行實驗解說，
+            <lb />
+            加深印象，螢幕上也會提供小卡幫助受測者閱讀說明。
+            <lb />
+        </p>
+        <p>
+            在受測者完整了解實驗規則後，會先請受測者進行測試題，採取計時而不限時的方式，
+            <lb />
+        </p>
+        <p>
+            待受測者了解平台操作模式後，並開始進入實測，以限時五分鐘的方式控制受測者的搜
+            <lb />
+            成與否及完成數，記錄完畢才進入下一項任務。
+            <lb />
+        </p>
+        <p>
+            作上的遲疑、任務語意的誤會或是其他特殊情形，這些內容都是日後延伸研究的重要資訊。
+            <lb />
+        </p>
+        <p>
+            任務的設計將直接影響到實驗結果，本研究將任務設計的重心放在查找實體之間的關聯
+            <lb />
+        </p>
+        <p>
+            1. 任務一：任務題目為「王振鵠教授在被選為中國圖書館學會理事長的這段期間，共出版
+            <lb />
+            ，目的在測試目標平台對於學者職位與其出版書籍關聯性的表達
+            <lb />
+            功能。此任務題目與練習題相似，因此可以檢測出使用者在熟悉檢索路徑後，是否會有
+            <lb />
+            2. 任務二：任務題目為「王振鵠教授在擔任國立中央圖書館(現國家圖書館)館長期間發
+            <lb />
+            ，目的在測試目標平台對於學者在特定職位期間所發生事件的表達能力。
+            <lb />
+            因為本研究的對照網站是以條列式表格呈現年代表，因此研究人員預先假設此任務若使
+            <lb />
+            用對照網站進行查詢，應當會有良好的表現結果，但若本研究網站能比對照網站擁有更
+            <lb />
+            3.
+            <lb />
+            ，目的在測試目標平台對於學者在特定著作發表的同時，其指導的學生論文
+            <lb />
+            4.
+            <lb />
+            ，本題目的設計較為特殊，使用者使用本研究平台的關聯搜
+            <lb />
+            正確。透過這樣的設計，可以檢測使用者是否會過於依賴搜尋功能，而未能進一步探索。
+            <lb />
+        </p>
+        <p>
+            實驗結果
+            <lb />
+            本節內容為實驗測試後的結果，分別根據各項任務結果進行評估，並採以成對樣本 t 檢
+            <lb />
+            執行時，使用者投注在檢索關聯上的平均時間，是否有顯著差異。為方便呈現，下文便以 「LOD
+            <lb />
+            網站」 簡稱 「王振鵠教授鏈結資料網」 簡稱 「王振鵠教授九秩榮慶特展網站」 。
+            <lb />
+        </p>
+        <p>
+            參與實驗人數分別為 LOD 網站 38 人，傳統網站 人，為了取得正確數據，本研究將任
+            <lb />
+            務失敗的數據剔除，任務失敗的情形包含(一)未成功搜尋到目標關聯、 (二)未完整搜尋到
+            <lb />
+            所有目標關聯、 (三)回報錯誤目標以及(四)搜尋時間過長。剔除失敗數據後，僅計算任務
+            <lb />
+            算個別平台的失誤次數。
+            <lb />
+        </p>
+        <p>
+            表 11 為任務一的統計結果，在執行任務一時，兩組受測群體在檢索速度上有顯著差異，且
+            <lb />
+            網站的錯誤次數為 2，傳統網站的錯誤次數為 1。
+            <lb />
+        </p>
+        <figure type="table">
+            表 11 任務一的統計結果
+            <lb />
+            測試平台
+            <lb />
+            觀察值個數(人)
+            <lb />
+            平均數(秒)
+            <lb />
+            標準差
+            <lb />
+            p
+            <lb />
+            t
+            <lb />
+            LOD 網站
+            <lb />
+            35
+            <lb />
+            50.42
+            <lb />
+            40.33
+            <lb />
+            0.014**
+            <lb />
+            1.994
+            <lb />
+            傳統網站
+            <lb />
+            36
+            <lb />
+            73.03
+            <lb />
+            35.45
+            <lb />
+        </figure>
+        <p>
+            表 12 為任務二的統計結果，在執行任務二時，兩組受測群體在檢索速度上有顯著差異，
+            <lb />
+            LOD 網站快於傳統網站。而 LOD 網站的錯誤次數為 0，傳統網站的錯誤次數為 2。
+            <lb />
+        </p>
+        <figure type="table">
+            表 12 任務二的統計結果
+            <lb />
+            測試平台
+            <lb />
+            觀察值個數(人)
+            <lb />
+            平均數(秒)
+            <lb />
+            標準差
+            <lb />
+            p
+            <lb />
+            t
+            <lb />
+            LOD 網站
+            <lb />
+            37
+            <lb />
+            54.53
+            <lb />
+            40.31
+            <lb />
+            0.004**
+            <lb />
+            1.994
+            <lb />
+            傳統網站
+            <lb />
+            35
+            <lb />
+            86.86
+            <lb />
+            53.10
+            <lb />
+        </figure>
+        <p>
+            表 13 為任務三的統計結果，在執行任務三時，兩個受測群體在檢索速度上未達到顯著差
+            <lb />
+            異。在錯誤次數上，LOD 網站的錯誤次數為 4。
+            <lb />
+        </p>
+        <figure type="table">
+            表 13 任務三的統計結果
+            <lb />
+            測試平台
+            <lb />
+            觀察值個數(人)
+            <lb />
+            平均數(秒)
+            <lb />
+            標準差
+            <lb />
+            p
+            <lb />
+            t
+            <lb />
+            LOD
+            <lb />
+            72.23
+            <lb />
+            62.49
+            <lb />
+            0.442
+            <lb />
+            2.00324
+            <lb />
+            傳統網站
+            <lb />
+            33
+            <lb />
+            62.61
+            <lb />
+            37.52
+            <lb />
+        </figure>
+        <p>
+            此項任務的結果與前兩項不同，經過研究人員仔細觀察實驗錄像後，發現使用者多半無
+            <lb />
+            LOD 網站中關聯查詢的功能語意，此任務的正確路徑是使用「王教授的某著作出
+            <lb />
+            的關聯查詢進行查找，但將 SPARQL 查詢語意轉為自然語言時，
+            <lb />
+        </p>
+        <p>
+            表 14 為任務四的統計結果，結果顯示兩個受測群體在檢索速度上有顯著差異，且傳統網
+            <lb />
+            LOD 網站。在錯誤次數方面，LOD 網站的錯誤次數為 1，傳統網站的錯誤次數為 4。
+            <lb />
+            務目標設計成必須點擊超連結，連結到該目標物件的詳細屬性頁面下，才可觀測到目標答案，
+            <lb />
+            簡言之，與先前的三項任務不同的地方在於，使用者必須多一個步驟，才能看到答案。
+            <lb />
+        </p>
+        <figure type="table">
+            表 14 任務四的統計結果
+            <lb />
+            測試平台
+            <lb />
+            觀察值個數(人)
+            <lb />
+            平均數(秒)
+            <lb />
+            標準差
+            <lb />
+            p
+            <lb />
+            LOD 網站
+            <lb />
+            36
+            <lb />
+            107.08
+            <lb />
+            69.63
+            <lb />
+            0.000***
+            <lb />
+            1.99647
+            <lb />
+            傳統網站
+            <lb />
+            33
+            <lb />
+            48.82
+            <lb />
+            16.68
+            <lb />
+        </figure>
+        <p>
+            研究人員在觀察實驗時，發現部分使用者在使用關聯查詢後，未進行下一步點選，反而
+            <lb />
+            實驗結束後，對受測者進行簡單的詢問，發現受測者操作錯誤的情況發生於： (一)受測者認
+            <lb />
+            LOD 網站的關聯搜尋過於便利，可能為陷阱題； (二)既使在練習時已知曉 的超連結
+            <lb />
+            功能，但執行本任務時，依然疏忽超連結功能，而無法進行下一步操作； (三)誤會呈現方式
+            <lb />
+            不是研究人員所期望的，轉以其他呈現方式； (四)發現結果沒有自己所想的答案，很可能是
+            <lb />
+        </p>
+        <p>
+            總結上述各項任務的結果，在任務失敗次數上，LOD 網站任務失敗總次數為 6 次，傳統
+            <lb />
+            網站失敗總次數是 11 次。任務一跟任務二中，受測者在 LOD 網站的搜尋時間顯著快於傳統
+            <lb />
+            網站，任務三中兩者則無顯著差異，任務四則是傳統網站明顯快於 LOD 網站。透過測後回饋
+            <lb />
+            的內容中可以發現，造成任務三與任務四如此情況的原因，在於 語言轉自然語言的困
+            <lb />
+            難，以及實體屬性過多時如何取捨回傳的屬性或是設計更友善的介面引導使用者完成任務。
+            <lb />
+        </p>
+        <head>
+            結論與建議
+            <lb />
+        </head>
+        <p>
+            本研究透過知識本體技術，以王振鵠教授為對象，建置適用於描述圖書資訊領域學者事
+            <lb />
+            與
+            <lb />
+            兩個普遍應用且具有權威價值的知識本體，增加與外部知識本體連結時的共通性與便利性外，
+            <lb />
+            亦經由探索王振鵠教授的個人資料，萃取描述圖資學者事業歷程的知識本體。而最後經
+            <lb />
+            語法搜尋結果顯示，本系統內的知識本體有 26 個類別、29 項屬性、720 件實例，總
+            <lb />
+            計可產生 3,645 條三元組描述句，若不計算 rdfs:label、rdfs:about、rdf:type 三種資料屬性，也
+            <lb />
+            1,421 條透過物件屬性所產生的三元組描述句。
+            <lb />
+        </p>
+        <p>
+            完成知識本體設計後，下一步便是建置知識本體網站。本研究運用了 Apache、MySQL、
+            <lb />
+            PHP、D2RQ、SPARQ 工具以及 LOD Live，提供使用者便利的瀏覽、搜尋、關聯等功能。此
+            <lb />
+            外還能將知識本體內容轉化為鏈結資料，除了可以透過 SPARQL 端點取用資料外，也能將知
+            <lb />
+            識本體內容轉為 RDF 格式下載，達到資料加值的目的。
+            <lb />
+        </p>
+        <p>
+            為了驗證本系統是否能幫助使用者有效率地發現實體之間的關聯，幫助人文學者探索歷
+            <lb />
+            SPARQL 語法的推理功能，可縮減人類思考搜尋路徑的過程，讓搜尋更快速且錯誤率更
+            <lb />
+            知識本體網站在介面建置上值得注意的細節，以及未來將會遭遇的困難。
+            <lb />
+        </p>
+        <p>
+            本研究未來的發展方向有三，說明如下：
+            <lb />
+            一、 持續修正知識本體，並擴展知識本體收錄範圍與深度：知識本體的創建與維護並非一蹴
+            <lb />
+            Development 101: A Guide to Creating Your First Ontology〉
+            <lb />
+            (Noy &amp; McGuinness, 2001)所揭櫫的步驟建置王振鵠教授的知識本體，雖有初步成果，
+            <lb />
+            但未來仍須不斷修正；此外，本研究僅以王振鵠教授之著作以及三個機構所保存的王教
+            <lb />
+            授資料為研究內容。倘若收錄範圍增加至與王教授相關人事物的其他描述，則其脈絡探
+            <lb />
+            索更可擴展到人際互動，或是王教授對於圖資領域的間接影響程度。
+            <lb />
+        </p>
+        <p>
+            二、 應用於其他領域及學者：除了探索圖資領域學者的個人脈絡外，更可以透過本研究所使
+            <lb />
+            用的建置方法，擴展知識本體範圍，建立領域研究者的知識本體；甚至可套用至其他領
+            <lb />
+            具的開發，讓知識本體的應用更為便利與多元，才能促使人類的知識流通更有效率。
+        </p>
+    </text>
+</tei>

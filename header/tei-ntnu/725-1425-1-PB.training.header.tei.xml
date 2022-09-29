@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="725-1425-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2017.431/725</idno>
+			<docTitle>
+				<titlePart>關於網路時代知識組織的幾個思考 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>吳美美 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授兼所長
+			<lb />
+			E-mail:
+			<email>meiwu@ntnu.edu.tw</email>
+			關鍵詞：
+			<keyword>分類理論；知識組織；鏈結資料；知識本體；語意網絡 </keyword>
+			【摘要】
+			<div type="abstract">
+	本文思考網路時代知識組織的相關發展，首先討論為什麼用知識組織來取代過去常用的資訊 組織，並從馮道的啟發來提醒知識組織必先確定知識的範圍；其次討論網路環境中知識組織的思 考，網路時代的知識組織方法，和傳統知識組織最大的不同，在於網路時代的資訊物件的界線不 復存在，資訊和知識互聯的特質，促使知識組織的概念和方法產生根本變革，從傳統以單一資訊 物件為知識組織單元的孤島式知識組織，演進為多面向知識組織方法，但其功能都仍以辨識和搜 尋知識為主，語意網絡化的知識組織，允許知識重新建構組織，賦予新的知識詮釋，形成更全面 的知識開展，這是在網路時代，知識組織方法發展之後，對人類知識理解的新的貢獻；最後列舉 知識組織處理人類全體知識、領域知識、社群知識和個人知識的案例，論述和辯證知識組織新進 的發展，並檢討現代知識組織所需要的新知能。
+	</div>
+		</front>
+	</text>
+</tei>

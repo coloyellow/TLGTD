@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="9-2-4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 9：2 (June 2015)：111-148
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 6 月 2 日；接受日期：2015 年 6 月 20 日
+				<lb />
+			</note>
+			Email: 林巧敏
+			<email>
+				cmlin@nccu.edu.tw
+				<lb />
+			</email>
+
+			<docTitle>
+				<titlePart>
+					國家檔案館藏使用分析 及其使用者意見調查
+					<lb />
+				</titlePart>
+			</docTitle>
+			The Usage Analysis and User Survey of National Archives
+			<byline>
+				<docAuthor>
+					林巧敏
+					<lb />
+				</docAuthor>
+			</byline>
+			Chiao-Min Lin
+			<lb />
+
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			GraduateInstitute of Library, Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				檔案館需要瞭解使用者需求及其如何與檔案館藏互動的過
+				<lb />
+				程，才能從使用者的角度，著手規劃並提供滿足使用需求之服 務。本研究以國內典藏國家檔案之檔案館為個案，分析其使用者 背景資料及其館藏調閱紀錄，探討該檔案館使用族群特性，並瞭
+				<lb />
+				解館藏使用狀況，進而分析各主題館藏數量與調閱比例是否相 稱，以知悉過度使用與不使用之館藏主題。本研究並輔以問卷及 訪談調查，探知檔案館使用者滿意度及其使用過程意見，俾於綜
+				<lb />
+				合分析。研究發現該檔案館使用者，男多於女，且以 20 至 40 歲 之青壯族群為主，職業以學生及教職者居多，檔案使用目的多為 「學術研究」。檔案館藏內容主題數量偏頗，並呈現多數調閱集
+				<lb />
+				中在少數特定主題或全宗，尤其以國防及經貿等主題最多；使用 者到館使用頻率不高，館藏內容與取用便利是影響使用意願的主
+				<lb />
+				要原因，最終擬具建議提供檔案館重塑工作流程與改善讀者服務 作業之參考。
+				<lb />
+			</div>
+			Archives require a greater knowledge of the needs of their
+			<lb />
+			users as well as a better understanding of how users interact with
+			<lb />
+			archival collections so as to meet the users&apos; need. This study selected
+			<lb />
+			a National Archives as the case to analyze the users&apos; registration
+			<lb />
+			forms and circulation data. The distinguishing characteristics of users
+			<lb />
+			and user groups are interpreted for realizing the differences between
+			<lb />
+			users. The amount of collection topics and their access statistics are
+			<lb />
+			compared for tracking which collections are overused or seldom used.
+			<lb />
+			The questionnaire and interviews are also adopted for understanding
+			<lb />
+			the satisfaction and opinions of users.
+			<lb />
+			This study reveals the users of archive are more male than female.
+			<lb />
+			Their ages distribution massed on twenty to forty years old. The
+			<lb />
+			occupations of users were mostly students and faculty. The intentions
+			<lb />
+			of visiting archives were academic research. The topics of collection
+			<lb />
+			were severely biased, therefore the most access centralized in a few
+			<lb />
+			specific topics or fonds, particularly in the defense and economics
+			<lb />
+			topics. The frequency of visiting archives was not as expect, but the
+			<lb />
+			quality and available of archival collections were vital factors for
+			<lb />
+			attracting user visits. Finally, this study proposed suggestions for
+			<lb />
+			streamlining workflow and improving public services of archives.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				檔案使用研究 ; 使用者調查 ; 調閱分析 ; 國家檔案館
+				<lb />
+			</keyword>
+			Archive use tudy; User survey; Circulation analysis; National archives
+		</front>
+	</text>
+</tei>

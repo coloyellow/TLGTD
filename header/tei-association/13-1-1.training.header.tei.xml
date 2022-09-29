@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13-1-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 13：1 (December 2018)：1-50
+				<lb />
+			</reference>
+
+
+			<docTitle>
+				<titlePart>國民中小學閱讀與資訊素養融入 教學現況調查</titlePart>
+			</docTitle>
+			<lb />
+			The Current Status of Reading and Information Literacy
+			<lb />
+			Integrated with Teaching in Taiwan&apos;s Elementary and
+			<lb />
+			Junior High Schools
+			<byline>
+				<docAuthor>
+					陳海泓
+					<lb />
+				</docAuthor>
+			</byline>
+			Hai-Hon Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立臺南大學教育學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Department of Education
+			<lb />
+			National University of Tainan
+			<byline>
+				<docAuthor>
+					陳昭珍
+					<lb />
+				</docAuthor>
+			</byline>
+			Chao-Chen Chen
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				閱讀能力和資訊素養讓學習無所不在，具備閱讀能力及資訊 素養，學生得以延伸課堂所學，擴展知識領域，其重要性不言而
+				<lb />
+				喻。近十年來，我國國民中小學逐漸重視閱讀及資訊素養教學， 然而過去有關國民中小學閱讀與資訊素養教育之調查，主要以某
+				<lb />
+			</div>
+			作者：陳海泓
+			<email>
+				haihon@mail.nutn.edu.tw
+				<lb />
+			</email>
+			；陳昭珍 
+			
+			<email>cc4073@ntnu.edu.tw</email>
+
+			<note type="submission">
+				投稿日期：2017 年 9 月 8 日；接受日期：2018 年 8 月 15 日
+				<lb />
+			</note>
+			<div type="abstract">
+				一地區為主，或以圖書教師為調查對象，而未有進行全國性普查 者，以致於無法全面掌握全國中小學實施閱讀及資訊素養教學之
+				<lb />
+				現況。本研究以研究者和全國圖書教師團隊自編的「國民小學閱 讀教學及資訊素養融入教學現況調查」問卷以及「國民中學閱讀
+				<lb />
+				教學及資訊素養融入教學現況調查」問卷為研究工具，針對全國
+				<lb />
+				2,633 所國小和 733 所國中問卷調查，用以蒐集資料。國小和國
+				<lb />
+				中回收問卷分別是 1,593(60.50%)和 531(72.44%)；有效問
+				<lb />
+				卷分別是 1,540(96.67%)和 526(99.06%)。以次數分配和百 分比進行資料處理，以了解臺灣地區國民中小學教師的閱讀教學
+				<lb />
+				與資訊素養融入教學現況，以作為政府當局、教師專業養成、學 校課程規劃等之參考，及未來進一步研究之基礎。
+				<lb />
+			</div>
+			Reading competency and information literacy are used greatly
+			<lb />
+			in our daily life. They enable students to extend what they learn from
+			<lb />
+			the class and expand their knowledge field. It shows the importance
+			<lb />
+			of reading competency and information literacy. In the recent
+			<lb />
+			decade, our elementary schools have started to focus on teaching
+			<lb />
+			reading and information literacy. However, the surveys on reading
+			<lb />
+			and information literacy of the elementary and junior high school
+			<lb />
+			conducted in the past often based on a certain area, or only the schools
+			<lb />
+			with teacher librarians. There is a lack of national census so that the
+			<lb />
+			current development of the reading competence and information
+			<lb />
+			literacy in elementary and junior high school is not clear. This study
+			<lb />
+			applied the questionnaires that designed by the researcher and the
+			<lb />
+			teacher librarian group as research tools. The questionnaire is about
+			<lb />
+			the reading instruction and information literacy integrated into the
+			<lb />
+			teaching in elementary and junior high schools. The questionnaires
+			<lb />
+			were distributed to all the 2,633 elementary schools and 733 junior
+			<lb />
+			high schools. The collected responses were 1,593 (60.50%) from
+			<lb />
+			elementary schools and 531 (72.44%) from junior high schools. The
+			<lb />
+			valid responses are 1,540 (96.67%) from elementary schools and 526
+			<lb />
+			(99.06%) from junior high schools. The collected data were analyzed
+			<lb />
+			with frequency distribution and percentage. The results show the
+			<lb />
+			current status of the reading instruction and information literacy
+			<lb />
+			integrated with teaching. It could be provided as the reference for the
+			<lb />
+			government, teachers&apos; professional development, curriculum planning
+			<lb />
+			and as the base for the further research in the future.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				閱讀教學、資訊素養融入教學、國民小學、國民中學
+				<lb />
+			</keyword>
+			Reading instruction; Information literacy integrated with teaching; Elementary
+			<lb />
+			school; Junior high school
+		</front>
+	</text>
+</tei>

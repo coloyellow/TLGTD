@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12-1-4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 12：1 (December 2017)：111-137
+				<lb />
+			</reference>
+
+
+			<docTitle>
+				<titlePart>
+					圖書館資料倉儲應用模式之研究 以客製化報表為例
+					<lb />
+				</titlePart>
+			</docTitle>
+			The Study of Data Warehouse Application Model in Libraries
+			<lb />
+			A Case Study of Customized Reports
+			<byline>
+				<docAuthor>
+					楊依婷
+					<lb />
+				</docAuthor>
+			</byline>
+			Yi-Ting Yang
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			Ph.D. Student
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<byline>
+				<docAuthor>謝建成</docAuthor>
+			</byline>
+			✽
+			<lb />
+			Jiann-Cherng Shieh
+			<lb />
+
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library and Information Studies
+			<lb />
+			National Taiwan Normal University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				圖書館客製化報表是圖書館管理者亟欲解決的問題之一， 圖書館自動化系統廠商對此至今依舊難有具成本效益之解決方
+				<lb />
+				案。近幾年，ExLibris 公司針對其自動化系統 Aleph 開發報表系統
+				<lb />
+				ARC，提供客戶超過 100 種事先定義的報表。然此報表系統僅支
+				<lb />
+			</div>
+			✽ 通訊作者 : 謝建成
+			<email>
+				jcshieh@ntnu.edu.tw
+				<lb />
+			</email>
+			<note type="submission">
+				投稿日期：2017 年 3 月 12 日；接受日期：2017 年 6 月 30 日
+				<lb />
+			</note>
+			<div type="abstract">
+				援 Aleph 系統，對國內多數非 Aleph 系統圖書館報表需求毫無助 益，且無法滿足各館即時性多元報表需求。在基於成本效益及客
+				<lb />
+				製化需求，本研究提出以 SQL Server 之資料倉儲應用模式解決以 上困境。本研究以實際案例驗證模式之可行性。
+				<lb />
+			</div>
+			The development of library customized reports has always been
+			<lb />
+			one of the intractable problems that library managers urgently seek
+			<lb />
+			to solve. Similarly, library automation system manufacturers are
+			<lb />
+			bruised on this issue, not only the high cost of development services,
+			<lb />
+			but also the frequent changes in demand. The problem is still difficult
+			<lb />
+			to have by a cost-effective solution. In recent years, ExLibris has
+			<lb />
+			developed an add-on system Aleph Reporting Center (ARC) for its
+			<lb />
+			library automation system Aleph to provide Aleph customers more
+			<lb />
+			than 100 pre-defined statistical reports. However, such reporting
+			<lb />
+			systems only support specific automation systems, and cannot fully
+			<lb />
+			meet the customized needs of libraries&apos;. Data warehouse technology
+			<lb />
+			has been quite mature since the 1970s. Most database management
+			<lb />
+			systems such as SQL Server also provide tools to support the
+			<lb />
+			establishment of data warehouses. Considering the cost-effectiveness
+			<lb />
+			and the demand elasticity of customization, this study proposes the
+			<lb />
+			data warehouse application model of libraries to solve the above
+			<lb />
+			dilemma. The application model proposed in this research, the system
+			<lb />
+			environment is constructed by Microsoft SQL Server, EXCEL; design
+			<lb />
+			and development are mainly accomplished by the librarian and system
+			<lb />
+			librarian. This study concludes with a practical case to verify the
+			<lb />
+			feasibility of the proposed model.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				資料倉儲；圖書館自動化；客製化報表
+				<lb />
+			</keyword>
+				Data Warehouse; Library automation system; Customized reports
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="127-156" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 2 (Spring 2015) : 127-156
+
+	台灣圖書資訊學期刊論文之 文內引用錯誤研究
+			<lb />
+			Quotation Errors in the Articles of Library
+			<lb />
+			and Information Science Journals in Taiwan
+			<lb />
+			高 瑄 鴻 Hsuan-Hung Kao
+
+	Master
+			<lb />
+			林 雯 瑤* Wen-Yau Cathy Lin*
+			<lb />
+			Associate Professor
+			<lb />
+			E-
+	mail：wylin@mail.tku.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 2 (Spring 2015) : 127-156
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2015.522/0009.RS.AM</idno>
+
+			<lb />
+			<docTitle>
+				<titlePart>
+					台灣圖書資訊學期刊論文之 文內引用錯誤研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>高瑄鴻 </docAuthor>
+			</byline>
+			a
+			<byline>
+				<docAuthor>林雯瑤 </docAuthor>
+			</byline>
+			b* 摘要
+			<div type="abstract">
+				本研究主要目的在探討台灣圖書資訊學期刊論文之文內引用錯
+				<lb />
+				誤 ，利用引用文獻分析法 ，分析 2011 年至 2013 年間圖書資訊學一
+				<lb />
+				級期刊所出版 111 篇中文文章之 622 筆期刊類型的中文引用文獻 ，
+				<lb />
+				藉以了解文內引用文獻錯誤率與錯誤類型 ，以及直接引用或改寫
+				<lb />
+				期刊文章時是否符合引用規範。研究結果顯示 ，在文內引用文獻
+				<lb />
+				錯誤率方面 ，平均文內引用文獻錯誤率為 13.67%。文內引用文獻
+				<lb />
+				錯誤類型中 ，無法證實及不當二次引用的錯誤為最多 ，而正確改
+				<lb />
+				寫比率介於 90.77% 至 96.65% 之間。本研究建議學術文獻作者引用
+				<lb />
+				他人文獻時應更謹慎 ，以確保引用文獻正確性。建議未來亦可透
+				<lb />
+				過對各期刊編輯團隊的訪談 ，深入探討關於提高引用文獻品質的 相關議題。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>文內引用錯誤，圖書資訊學，台灣，期刊文獻，引用文 獻分析 </keyword>
+			a
+			<lb />
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			碩士
+			<lb />
+			b
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			*
+	通訊作者：
+			<email>
+				wylin@mail.tku.edu.tw
+				<lb />
+			</email>
+
+
+			<note type="submission">2015/03/01投稿；2015/04/28修訂；2015/05/05接受</note>
+
+		</front>
+	</text>
+</tei>

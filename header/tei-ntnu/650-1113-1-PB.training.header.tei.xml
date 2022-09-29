@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="650-1113-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI:10.6245/JLIS.2015.411/650
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>新自由主義下開放(政府)資料 與商品化的困境分析 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>黃昭謀</docAuthor>
+			</byline>
+			<byline>
+				<affiliation>世新大學資訊傳播學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			E-mail：
+			<email>
+				exercise@cc.shu.edu.tw
+				<lb />
+			</email>
+			關鍵詞：
+			<keyword>開放(政府)資料；資訊政策；新自由主義；商品化 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				開放(政府)資料是近期重要的資訊政策之
+				<lb />
+				一，行政部門強調對資料的鬆綁近用，能夠創
+				<lb />
+				造極高的經濟產值。此一新自由主義觀點，重
+				<lb />
+				視國家整體財富累積，但從商品化推動，卻易
+				<lb />
+				產生「追求產值與經濟效益」、「球員兼裁判
+				<lb />
+				的操作方式」，以及「經濟成果會向下滲透」
+				<lb />
+				的迷思。本文透過文獻、網路資源等文本分
+				<lb />
+				析，爬梳臺灣官方推動歷程和探討商品化的困
+				<lb />
+				境，並建議開放(政府)資料不應以成為商品
+				<lb />
+				為首要或唯一考量，而需聚焦使用者需求與社 會正義，並構築創新的文化與環境。
+			</div>
+		</front>
+	</text>
+</tei>

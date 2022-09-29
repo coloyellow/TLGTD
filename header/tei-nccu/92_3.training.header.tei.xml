@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="92_3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			The Design and Implementation of the Digital System of Classics and
+			<lb />
+			Annotations Using &quot;The Compilation of Vijñaptimātratāsiddhiśāstra
+			<lb />
+			and its Annotations&quot; as Example 
+			<lb />
+			Jen-Jou Hung 
+			<lb />
+			Po-Lang Tsai
+	
+
+	Abstract
+			<div type="abstract">
+				在佛學研究領域中，多文本間的對讀以及單一文本之於諸多注釋書的解讀，是一件基本、 必要而且相當重要的工作。佛教經論常常是內蘊的思想豐富，而文字卻極為精簡，因此在解 讀上若無補述的注疏本，則對於後人來說，研讀起來是極為吃力的。利用傳統以紙張為載體 的經論，要做文本上的對讀，或是了解諸多注疏對於某一文本的詮釋，在紙本上的翻找極不 方便，也極為耗時。因此本論文嘗試以相關數位技術將《成唯識論》的四個注釋書：窺基的 《成唯識論述記》、《成唯識論樞要》、惠沼的《成唯識論了義燈》以及智周的《成唯識論演 秘》，依《成唯識論》論文分段標注，並列於一處，建立「《成唯識論》及其注疏編撰」數位
+				<lb />
+			</div>
+			
+			<byline>
+				<affiliation>法鼓文理學院佛教學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor,
+	
+	Department of Buddhist Studies, Dharma Drum Institute of Liberal Arts
+			<lb />
+			E-mail:
+			<email>
+				jenjou.hung@dila.edu.tw
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation>法鼓文理學院佛教學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			Assistant Professor, Department of Buddhist Studies, Dharma Drum Institute of Liberal Arts
+			<lb />
+			E-mail:
+			<email>
+				bolang@dila.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				10:1=92 (June &apos;18) 1-21
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.201806_(92).0001</idno>
+
+			<div type="abstract">
+				系統，使初學者可以省去大部分的機械化整理作業，而能方便閱讀、理解《成唯識論》的文 意。
+				<lb />
+			</div>
+			In the field of Buddhist studies, the reading of multiple editions or versions of a single text, and
+			<lb />
+			the interpretation of multiple commentaries on the same text is a fundamental, necessary and quite
+			<lb />
+			important undertaking. Buddhist writings are often rich in content, but the text itself can be extremely
+			<lb />
+			condensed. Therefore, if there are no supplementary annotations or commentaries to aid the
+			<lb />
+			interpretation of these writings, future generations of readers will encounter great difficulties in
+			<lb />
+			studying them. It is very inconvenient and time-consuming to use the traditional paper-based editions
+			<lb />
+			of Buddhist writings as the basis to do research for comparative readings or consulting different
+			<lb />
+			commentaries to the same section of a single text. This paper attempts to use the relevant digital
+			<lb />
+			technologies to compile four different commentaries to the &quot;Vijñaptimātratāsiddhi-śāstra&quot;: Kuiji&apos;s
+			<lb />
+			&quot;Commentary on the Vijñaptimātratāsiddhi-śāstra&quot;, his &quot;Essentials of the Treatise on Consciousness-
+			<lb />
+			Only&quot;, Huizhao&apos;s &quot;Lamp to Illuminate the Meaning of the Vijñaptimātratāsiddhi-śāstra&quot;, and
+			<lb />
+			Zhizhou&apos;s &quot;Explanation of the Mystery of the Vijñaptimātratāsiddhi-śāstra&quot;, and to compile and edit
+			<lb />
+			all of the commentaries and annotations in one place. This helps scholars and readers save a lot of
+			<lb />
+			time on doing the mechanical work of compilation involved, and allows them to easily read and better
+			<lb />
+			understand the &quot;Vijñaptimātratāsiddhi-śāstra&quot;.
+			<lb />
+			Keyword 關鍵詞
+			<lb />
+			<keyword>
+				成唯識論 玄奘 窺基 數位文獻系統 TEI 標記
+				<lb />
+				Vijñaptimātratāsiddhi-śāstra；Xuan-zhang；Kui-ji；Digital literature system；TEI markup
+			</keyword>
+		</front>
+	</text>
+</tei>

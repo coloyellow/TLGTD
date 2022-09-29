@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j43-4"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第14卷第2期 (2016.12) 頁93-125<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2016.14(2).093<lb/></idno>
+    <docTitle>
+	<titlePart>期刊論文高產量臺灣企業之產業特性及 合作機構類型探討<lb/></titlePart>
+	</docTitle>
+	
+	
+	Industrial Characteristics and Scientific Collaborations of<lb/> Taiwanese Companies with High Scientific Productivity<lb/> 
+	
+	
+
+	<byline>
+	<docAuthor>張郁蔚 1<lb/></docAuthor>
+	</byline>
+
+    Yu-Wei Chang 1<lb/>
+	摘 要 
+	<div type="abstract">本研究目的在辨識參與生產科學知識之期刊論文高產量臺灣企業，並分析該等企業之 產業特性、科學合作機構類型及其趨勢變化。研究結果發現1982至2011年間，期刊論文出 版最多之50大高產量臺灣企業集中在電子相關產業，且屬電子產業之高產量企業比例隨時<lb/> 間成長。約92%的50大高產量臺灣企業為高科技產業(例如電子零件組業)，但8大高產<lb/> 量企業包含低科技產業(例如基本金屬業)。50大高產量臺灣企業與國內大學合作發表期 刊論文之比例呈現穩定趨勢，亦與企業合作發表論文，顯示企業之間非全然是競爭關係。<lb/></div>
+	關鍵字： 
+	<keyword>企業、科學合作、臺灣、科學生產力 </keyword>
+	Abstract<lb/>
+	This paper identified productive companies in Taiwan, analyzed the industrial categories of<lb/> productive companies, and investigated the types of institutions collaborating with productive<lb/> companies, based on articles published between 1982 and 2011. Results indicated that majority of<lb/> top 50 productive Taiwanese companies belong to electronic industries. The percentage of top 50<lb/> productive companies related to electronics has increased during three ten-year periods in a row.<lb/> Approximately 92% of top 50 productive companies are high-tech industries. However, partial low-<lb/>tech companies were listed in the top 8 productive companies. A stable trend was observed in the<lb/> annual percentage of articles coauthored by researchers from the productive companies and domestic<lb/> universities. Researchers in different companies also coauthored articles, indicating industries do not<lb/> always compete with each other.<lb/>
+
+	Keywords:
+	Industries; Scientific Collaboration; Taiwan; Scientific Production<lb/>
+     1
+	<byline>
+	<affiliation> 國立臺灣大學圖書資訊學系<lb/></affiliation>
+	</byline>
+	Department of Library and Information Science, National Taiwan University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	E-mail:
+	<email>yuweichang2013@ntu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

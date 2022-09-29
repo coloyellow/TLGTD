@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="681-1308-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2016.421/681</idno>
+			<docTitle>
+				<titlePart>支援工作場域資訊行為研究之設計與評估 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>鄭惟中 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士生
+			<lb />
+			E-
+			<email>mail：weichung1222@gmail.com</email>
+			關鍵字：
+			<keyword>資訊行為；研究設計；評估方法；工作場域 </keyword>
+			【摘要】
+			<div type="abstract">
+				資訊行為研究由來已久，過去研究聚焦於系統如何影響使用者行為，以及如何能從行為結果 反饋，以強化系統功能；隨著典範移轉，資訊行為研究逐漸轉向重視使用者本身認知狀態、社會 情境與工作社群等因素，分析其如何影響使用者之行為，因此資訊行為研究的取向及方法根據不
+				<lb />
+				同範疇而多元化。「歐洲網路工作資訊研究網」(European Network for Workplace Information) 以工作場域中的資訊行為研究為基礎，致力於整合實務與學術研究以了解工作場域中使用者與資
+				<lb />
+				訊環境之互動，並予以支援。2015 年會議中，不少研究提出可用於支援工作場域中資訊行為之設 計與評估方式，本文將逐一介紹研究內容，並加以比較、論述。
+			</div>
+		</front>
+	</text>
+</tei>

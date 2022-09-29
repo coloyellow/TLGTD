@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="687-1335-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2016.422/687</idno>
+			<docTitle>
+				<titlePart>雲門舞集觀眾舞蹈欣賞之隱性知識研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>廖嘉河 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>康天國際有限公司</affiliation>
+			</byline>
+			行銷經理
+			<lb />
+			E-mail:
+			<email>liao75@gmail.com</email>
+			<byline>
+				<docAuthor>賴鼎銘 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>世新大學資訊傳播學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			E-mail:
+			<email>tmlai@cc.shu.edu.tw</email>
+			<byline>
+				<docAuthor>葉乃靜 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>世新大學資訊傳播學系教授</affiliation>
+			</byline>
+			兼圖書館館長
+			<lb />
+			E-mail:
+			<email>ncyeh@cc.shu.edu.tw</email>
+			關鍵詞：
+			<keyword>舞蹈欣賞；隱性知識 </keyword>
+			【摘要】
+			<div type="abstract">
+				就像大多數的藝術欣賞能力，我們並非天生就具有欣賞舞蹈的能力，而是多少需要靠後天的 培養。一般未接受過舞蹈教育或訓練的民眾對於舞蹈的認識除了實際的觀賞經驗外，還來自於生
+				<lb />
+				活中所接觸的各式各樣資訊，包含文字、影音或是人際間的交流。Polanyi 將人類的知識分成兩種： 可以用文字記錄的稱為外顯知識，而無法靠文字記錄，並且存在於實踐行動中的知識，則稱為隱 性知識。坊間有關舞蹈欣賞的書籍大多從外顯知識的面向去教導民眾認識舞蹈；相對來說，較少 從內隱的隱性知識來說明舞蹈欣賞的歷程。因此，本研究想要探討一般未受過舞蹈相關教育的雲 門舞集觀眾，在欣賞過程中如何理解舞蹈，並且如何培養這些相關的隱性知識。
+				<lb />
+				本研究採用質化方式，針對 15 位未受過舞蹈教育或訓練的雲門舞集觀眾進行訪談後，歸納 出舞蹈欣賞歷程的架構，將欣賞歷程分成看演出之前、看演出的當下、和看完演出之後等三個階
+				<lb />
+				段。研究發現雲門觀眾在理解舞蹈時所展現出的隱性知識分別是：「(意義的)解讀」、「情感
+				<lb />
+				(的共鳴)」、「(經驗的)串連」和「(個人的)衍申」。事實上觀眾在看演出之前就已經在 從事許多與培養舞蹈欣賞能力相關的活動，這些相關活動會累積在個人經驗中，等到真正看演出 時就有助於解讀、情感、串連等三種隱性知識的展現。看完演出之後，觀眾或是從事與舞蹈相關 的活動或是展現衍生的隱性知識，最後這些經驗再回饋到個人身上，關於舞蹈欣賞的隱性知識於 是又再加深一層。
+			</div>
+		</front>
+	</text>
+</tei>

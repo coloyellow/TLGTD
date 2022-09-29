@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="724-1419-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2017.431/724
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>鏈結資料於數位典藏之研究：以畫家 陳澄波為例 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳淑君 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>中央研究院歷史語言研究所</affiliation>
+			</byline>
+			助研究員
+			<lb />
+			E-mail:
+			<email>sophy@sinica.edu.tw</email>
+			關鍵詞：
+			<keyword>陳澄波；鏈結資料；鏈結開放資料；開放文化資料；語意數位圖書館 </keyword>
+			【摘要】
+			<div type="abstract">
+				鏈結資料促使文化資產機構的藏品與研究材料，可與全球的資料網路進行具有語意關係的連
+				<lb />
+				結與整合。本文以數位典藏資源為對象，選擇「從北緯 23.5°出發：陳澄波」主題網站的資料作 為研究案例，進行鏈結資料的研究實作。本研究聚焦於人物類型的數位典藏資料，藉以展示人物 及其相關典藏文物為核心的人、時、事、地、物之間的脈絡關係，並能夠基於語意關係回答複雜 問題，提供視覺化呈現，讓大量的數位人文資料可以更便於由機器理解與處理，進而使研究資料 能夠為使用者取用、再利用與重新組合，以提升數位化資料使用的效能。
+			</div>
+		</front>
+	</text>
+</tei>

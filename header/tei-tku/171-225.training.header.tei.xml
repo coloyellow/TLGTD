@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="171-225" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 55, no. 2 (2018) : 171-225
+
+	全球暖化科普出版品中的視覺再現
+			<lb />
+			Visual Representation of Popular Science
+			<lb />
+			Publications of Global Warming
+			<lb />
+			鄧宗聖 Tzong Sheng Deng
+			<lb />
+			Vice Professor
+			<lb />
+			E-
+	mail：lily6943.tw@yahoo.com.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 55 : 2 (2018) : 171-225
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.201807_55(2).0013.RS.BM</idno>
+
+			<docTitle>
+				<titlePart>全球暖化科普出版品中的視覺再現 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>鄧宗聖 </docAuthor>
+			</byline>
+			摘要
+			<lb />
+			<div type="abstract">
+				本研究係透過對全球暖化科普出版品的圖像再現分析 ，研究圖像 如何做為與公眾溝通全球暖化議題的媒介角色。本研究發現圖像
+				<lb />
+				成因面多再現科學共識 ，影響面側重全球暖化的災難事件及不確
+				<lb />
+				定性 ，解決面則再現技術與行為規範 ，文本意義如下：首先 ，
+				<lb />
+				在描述科學事實與因果關係時 ，圖像再現會顯示科學文化圈的慣
+				<lb />
+				用符碼，如模型、數字、圖表、歷史照片 ，建構嚴謹可信的知識論
+				<lb />
+				述。其次 ，解釋全球暖化影響時 ，圖像再現則傾向表現災難正在
+				<lb />
+				發生及在各地移動的不確性 ，來表徵危機連鎖效應。最後 ，在
+				<lb />
+				議論如何解決暖化危機時 ，再生能源技術在其中扮演關鍵性的角
+				<lb />
+				色 ，其中又以太陽能、風能等圖像較常被引用。最後 ，本研究則 從公眾參與角度提出科普圖像設計實務建議。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				全球暖化，危機意識，科普出版品，公眾溝通
+				<lb />
+			</keyword>
+			<byline>
+				<affiliation>國立屏東大學科普傳播學系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			通訊作者：E-mail:
+			<email>
+				lily6943.tw@yahoo.com.tw
+				<lb />
+			</email>
+
+			<note type="submission">2018/05/09投稿；2018/08/24修訂；2018/08/26接受 </note>
+			http://joemls.tku.edu.tw
+		</front>
+	</text>
+</tei>

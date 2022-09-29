@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="269-298" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 52 , no. 3 (Summer 2015) : 269-298
+
+	利用文字內容主題特徵與機器學習方法 探討MIS相關期刊在ISI資料庫的主題分類
+			<lb />
+			A Study of the Subject Categorization of
+			<lb />
+			the MIS-related Journals in the ISI Databases
+			<lb />
+			Using Topical Features in the Text Content
+			<lb />
+			and Machine Learning Methods
+			<lb />
+			林 頌 堅 Sung-Chien Lin
+			<lb />
+			Assistant Professor
+			<lb />
+			E-
+	mail：scl@cc.shu.edu.tw
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 52 : 3 (Summer 2015) : 269-298
+				<lb />
+			</reference>
+
+			<idno>
+				DOI:10.6120/JoEMLS.2015.523/0027.RS.AM
+				<lb />
+			</idno>
+
+
+			<docTitle>
+				<titlePart>
+					利用文字內容主題特徵與
+					<lb />
+					機器學習方法探討MIS相關期刊 在ISI資料庫的主題分類
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>林頌堅 </docAuthor>
+			</byline>
+			摘要
+			<lb />
+			<div type="abstract">
+				本研究利用主題模型、期刊群集與類別預測等方法，分析與討論 ISI
+				<lb />
+				主題類別 IS&amp;LS 的 MIS 相關期刊中同時被賦予 Management 類別的
+				<lb />
+				情形。在期刊群集實驗裡 ，所有被指定到 Management 類別的期刊 及其它同樣具有相似主題特徵的期刊都被聚集在同一個期刊群集
+				<lb />
+				內 ， 「管理」是其共同且最突顯的主題。由於此群集包含的期刊和
+				<lb />
+				先前研究的 MIS 群集大多相同 ，因此視為本研究的 MIS 群集。類
+				<lb />
+				別預測實驗使用分類迴歸樹方法 ，分別以 ISI 的 Management 類別
+				<lb />
+				以及本研究的 MIS 群集做為正案例 ，進行期刊類別預測。兩次試
+				<lb />
+				驗產生的分類樹都以「管理」主題的出現機率為主要的分類規則 ，
+				<lb />
+				但後者不僅分類樹較為單純 ，同時預測錯誤也較少。也就是若將
+				<lb />
+				MIS 群集內所有期刊都指定到 Management 類別 ，會使檢索的成效 更為周全有效。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>ISI主題類別，機器學習，主題模型，期刊群集，類別預測 </keyword>
+			<byline>
+				<affiliation>世新大學資訊傳播學系</affiliation>
+			</byline>
+			助理教授
+			<lb />
+			通訊作者：
+			<email>
+				scl@cc.shu.edu.tw
+				<lb />
+			</email>
+
+
+			<note type="submission">2015/07/31投稿；2015/08/14修訂；2015/08/14接受</note>
+
+		</front>
+	</text>
+</tei>

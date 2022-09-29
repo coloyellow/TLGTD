@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="87_2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			Assessing User&apos;s Visual Attention on University Library Web Page
+			<lb />
+			with Eye Tracking Technology 
+			<lb />
+
+
+			<byline>
+				<docAuthor>
+					Chih-Ming Chen 
+					<lb />
+				</docAuthor>
+			</byline>
+			<byline>
+				<docAuthor>Hui-Ching Lin</docAuthor>
+			</byline>
+			Abstract
+			<div type="abstract">
+				國內各大專院校圖書館網站建置已達到百分之百，網頁成為行銷各校學術資源最直接快
+				<lb />
+				速 的 管 道 ， 並 利 用 廣 告 吸 引 讀 者 對 於 活 動 訊 息 的 注 意 。 本 研 究 採 用 真 實 驗 研 究 法
+				<lb />
+				(true-experiment research method)，結合網頁視覺設計相關理論對於讀者目光注意力的吸引 原則，以及視覺元素之間如何影響讀者的視覺行為為基礎，設計出三種內容相同但廣告放置 於不同位置之圖書館網站首頁，比較讀者視覺注意力行為的差異，以大學部五十四名學生為
+				<lb />
+				研究對象，利用「眼球追蹤儀器」(eye tracker)收集受試者眼動指標資料，並進行廣告傳達 內容之記憶效應檢測，以及實驗後輔以問卷調查與訪談，探討大學圖書館網站首頁的廣告位 置對於讀者視覺注意力及記憶效應的影響。研究結果發現，讀者在三種不同廣告圖片位置之
+				<lb />
+			</div>
+			
+			<byline>
+				<affiliation> 國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			特聘教授
+			<lb />
+			Distinguished Professor, Graduate
+
+	
+	Institute of Library, Information and Archival Studies, National
+			<lb />
+			Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				chencm@nccu.edu.tw
+				<lb />
+			</email>
+			
+			<byline>
+				<affiliation> 國立政治大學圖書資訊學數位碩士在職專班</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			MA Student, E-learning Master Program of Library and Information Studies, National Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				54027ster@gmail.com
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				7:2=87 (Dec &apos;15) 25-53
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.2015.87.02</idno>
+
+			<div type="abstract">
+				眼動訊息、記憶效應、瀏覽順序、整體印象滿意度均具有顯著差異。讀者在廣告置上版面具 有較多的注視次數，但是在廣告置左版面則具有較多的視覺停駐，以及具有最佳之記憶效應。
+				<lb />
+			</div>
+			The establishment of domestic university library websites has currently reached 100%, web
+			<lb />
+			pages have become the most direct and rapid channels to market the academic resources, and
+			<lb />
+			advertisement on the library web pages is utilized for attracting readers&apos; attention to activities. With
+			<lb />
+			true-experiment research method, the visual design of web pages to attract readers&apos; attention in this
+			<lb />
+			study is integrated with the effects of visual elements on readers&apos; visual behaviors. The design
+			<lb />
+			includes the identical advertising contents placed in three different positions on the index page of
+			<lb />
+			the library website to compare the differences in readers&apos; visual attention. 54 undergraduate students
+			<lb />
+			are selected as the research participants. An eye tracker is utilized for collecting the participants&apos;
+			<lb />
+			eye-tracking indicators, and the memory effect of the advertisement is tested. The questionnaire
+			<lb />
+			survey and interviews are also proceeded to discuss the effects of advertising positions on the index
+			<lb />
+			page of a university library website on readers&apos; visual attention and memory effect. The research
+			<lb />
+			findings show the significant differences among the participants on the eye-tracking information,
+			<lb />
+			memory effect, browsing order, and overall satisfaction of the three advertisement positions. The
+			<lb />
+			participants pay more attention on top-layout advertisement, but stay the vision more on left-layout
+			<lb />
+			one. The results also reveal remarkable differences on memory effect of advertisement among three
+			<lb />
+			advertisement positions, where the optimal memory effect appears on the left-layout one.
+			<lb />
+			關鍵詞 Keyword
+			<lb />
+
+			<keyword>
+				大學圖書館網站 眼動追蹤 廣告位置 版面編排 注意力
+				<lb />
+			</keyword>
+			University library website；Eye tracking；Advertising position；Layout；Attention
+		</front>
+	</text>
+</tei>

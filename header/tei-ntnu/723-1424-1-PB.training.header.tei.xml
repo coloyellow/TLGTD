@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="723-1424-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>
+				DOI: 10.6245/JLIS.2017.431/723
+				<lb />
+			</idno>
+			<docTitle>
+				<titlePart>數位人文的跨領域和基礎性研究： 以文物數位化保護元數據標準規範為例 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>肖瓏 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>北京大學圖書館</affiliation>
+			</byline>
+			研究館員
+			<lb />
+			E-mail:
+			<email>lxiao@lib.pku.edu.cn</email>
+			<byline>
+				<docAuthor>張岩 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>北京大學圖書館</affiliation>
+			</byline>
+			副研究館員
+			<lb />
+			E-mail:
+			<email>zhangyan@lib.pku.edu.cn</email>
+			<byline>
+				<docAuthor>張俊娥 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>北京大學圖書館</affiliation>
+			</byline>
+			副研究館員
+			<lb />
+			E-mail:
+			<email>zhangje@lib.pku.edu.cn</email>
+			<byline>
+				<docAuthor>馮英 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>北京大學圖書館</affiliation>
+			</byline>
+			副研究館員
+			<lb />
+			E-mail:
+			<email>fengy@lib.pku.edu.cn</email>
+			關鍵詞：
+			<keyword>數位人文；文物數位化；元數據框架體系；元數據標準 </keyword>
+			【摘要】
+			<div type="abstract">
+				數位人文是近年來的研究熱點，其目標之一是通過技術的引進，更加深入地描述人文領域的 研究物件，挖掘、組織和傳播人類文明及相關知識。本文以文物數位化保護元數據標準研究為例，
+				<lb />
+				通過文獻調查與分析、實地調研、建立模型、規範設計，介紹文物數位化保護元數據(Metadata) 規範的總體架構和專業化拓展，闡明數位人文發展領域不可忽略的基礎性、長遠性工作─標準 規範研究之必要性和作用，探索人文與技術的共同合作與發展。
+			</div>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j44-4"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第15卷第1期 (2017.6) 頁77-101<lb/></reference>
+
+	<idno>doi: 10.6182/jlis.2017.15(1).077</idno>
+
+	
+
+	<docTitle>
+	<titlePart>企業行動化之導入策略與組織績效影響研究<lb/></titlePart>
+	</docTitle>
+    
+	Enterprise Mobility Implementation Strategies and Their Impacts<lb/> on Organizational Performance<lb/>
+	
+	<byline>
+	<docAuthor>呂明心 1 <lb/></docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>林維真 2 </docAuthor>
+	</byline>
+	<byline>
+	<docAuthor>岳修平 3</docAuthor>
+	</byline>
+    Ming-Hsin Lu 1 , Weijane Lin 2 , Hsiu-Ping Yueh 3<lb/>
+
+	摘 要 
+	<div type="abstract">本研究旨在了解不同行動化程度之企業其行動化推動之原因、執行策略，以及行動化 組織績效。研究採用多個案研究取向，選取國內12家行動化企業，邀請其負責推動行動化 的主管進行焦點團體訪談。研究結果提出企業行動化策略與組織績效創造循環模式，主張 行動化驅力是帶動與影響組織中行動化策略佈局的重要因素，企業應在行動化策略與組織 績效創造循環模式中的資訊科技使用階段檢驗使用需求後便進行迭代的設計，同時發現不 同行動化程度企業之間存在導入策略差異。<lb/></div> 
+	關鍵字： 
+	<keyword>行動科技、行動化策略、行動化企業、訓練學習、組織績效 </keyword>
+	Abstract<lb/>
+	Mobile devices and applications have been studied within a large number of different business<lb/> contexts; however, many enterprises in practice do not have sufficient and effective plans of going<lb/> mobile. This study uses the modified model for mobile business value creation (MBVC) to explore<lb/> the initiatives, strategies and performances of 12 local companies during their transformation process<lb/> of mobilization. The methodology of multi-case study with focus group interviewing is adopted. The<lb/> results support that change is a critical drive to motivate mobile enterprise strategies. The proposed<lb/> model of mobile business strategies and value creation concludes the findings of this study. Based on<lb/> the interviews of the managers of mobile implement, an iterative design approach accompanied with<lb/> needs assessment at the earlier phase of mobile device use is recommended and associated with higher<lb/> performance. This study contributes to the field of research and practices by providing empirical<lb/> evidences of mobile enterprises, and feasible solutions for local company to develop mobile strategies.<lb/>
+
+	Keywords:
+	Mobile Technology; Mobile Enterprise; Mobilization Strategy; Training and Learning;<lb/> Organizational Performance<lb/>
+    1,3
+	<byline>
+	<affiliation> 國立臺灣大學生物產業傳播暨發展學系<lb/></affiliation>
+	</byline>
+
+	
+	Department of Bio-Industry Communication and Development, National Taiwan University,
+	
+	Taipei, Taiwan<lb/>
+    2
+	<byline>
+	<affiliation> 國立臺灣大學圖書資訊學系<lb/> </affiliation>
+	</byline>
+	Department of Library and Information Science, National Taiwan University,
+	
+
+	Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 岳修平Hsiu-Ping Yueh, E-mail:
+	<email>yueh@ntu.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

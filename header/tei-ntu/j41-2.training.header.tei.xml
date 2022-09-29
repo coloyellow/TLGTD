@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j41-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學刊 第13卷第2期 (2015.12) 頁29-66
+				<lb />
+			</reference>
+
+			<idno>
+				doi:10.6182/jlis.2015.13(2).029
+				<lb />
+			</idno>
+
+			<docTitle>
+				<titlePart>
+					明代江西地方官府藏書事業研究─ 以各級儒學為考察中心
+					<lb />
+				</titlePart>
+			</docTitle>
+			The Book Collecting Activities of the Local Governments in
+			<lb />
+			the Jiangxi District during the Ming Dynasty: Focusing on the
+			<lb />
+			Collections of Ruxues, the Government-founded Schools
+			<lb />
+
+
+			<byline>
+				<docAuthor>
+					陳冠至 1
+					<lb />
+					Kuan-Chih Chen 1
+					<lb />
+				</docAuthor>
+			</byline>
+			摘 要
+			<div type="abstract">
+				明代是中國古代藏書事業史上的繁榮期，其藏書事業的發展與成就，超過了歷史上以 往的任何時期。就地方官府的藏書事業而言，由於明初諸帝對國家教育與藏書事業的高度 重視，促使各地官府對本地公家藏書事業的經營也都非常積極。本研究聚焦於藏書史研究 者向來甚少著眼，卻為明代進士產量高居全國第三位的江西行省。由於明代地方官府的藏 書事業，主要建立在地方儒學藏書的建設之上，因此，本文便以探索它們的歷史現象及其 對提昇區域學術與文化發展為主題，除了期盼彌補目前明代藏書史研究之不足外，更希望 能以明代江西地方官府藏書事業對區域讀書風氣的推動經驗，作為今日探討地方政府推廣 書香社會和地方圖書館事業的一項參考基礎。</div>
+			<lb />
+			關鍵字：
+			<keyword>
+				藏書、儒學、江西、地方官府、明代 Abstract
+				<lb />
+			</keyword>
+			In the Chinese history, Ming dynasty is an era when book collection activities flourished. The
+			<lb />
+			intensity and achievement of book collecting by governments far exceeded the previous eras and
+			<lb />
+			arrived at the peak. The emperors&apos; emphasis on education and the widespread of ruxues, government-
+			<lb />
+			founded schools, had contributed to the development of official book collections all over the country.
+			<lb />
+			At that time, the Jiangxi province was the third largest source of government officials and bureaucrats.
+			<lb />
+			The cultural intensity in Jiangxi was of great historical significance. However, the book collecting
+			<lb />
+			activities in that region and their relations to the flourishing intellectual traditions and achievements
+			<lb />
+			were hardly studied in existing literatures. Hence, this paper carefully examined the cultural
+			<lb />
+			phenomenon in that locality based on historical materials in order to bridge the gap. The regional and
+			<lb />
+			local book collection history may also shed lights on today&apos;s society in terms of promoting libraries
+			<lb />
+			and book reading.
+			<lb />
+			Keywords:
+	Book Collection; Ruxue; Jiangxi; Local Government; Ming Dynasty
+			<lb />
+			1
+			<byline>
+				<affiliation>
+					輔仁大學圖書資訊學系
+					<lb />
+				</affiliation>
+			</byline>
+			Department of Library and Information Science, Fu Jen Catholic University,
+	
+
+	New Taipei, Taiwan
+			<lb />
+			E-mail:
+			<email>080677@mail.fju.edu.tw</email>
+
+		</front>
+	</text>
+</tei>

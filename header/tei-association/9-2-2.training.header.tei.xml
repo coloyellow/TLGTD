@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="9-2-2" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 9：2 (June 2015)：39-66
+				<lb />
+			</reference>
+			* 本文通訊作者
+			<lb />
+			<note type="submission">
+				投稿日期：2015 年 1 月 23 日；接受日期：2015 年 4 月 27 日
+				<lb />
+			</note>
+			Email: 張靖
+			<email>zhangj87@mail.sysu.edu.cn</email>
+			；張禕
+			<email>
+				zy4412@126.com
+				<lb />
+			</email>
+
+
+			<docTitle>
+				<titlePart>
+					近三十年中國大陸圖書館 權利發展之分析
+					<lb />
+				</titlePart>
+			</docTitle>
+			On the Development of Library Rights in Mainland China
+			<lb />
+			<byline>
+				<docAuthor>張靖</docAuthor>
+			</byline>
+			*
+			<lb />
+			Jing Zhang
+			<lb />
+			<byline>
+				<affiliation>中山大學資訊管理學院</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			School of Information Management
+			<lb />
+			Sun Yat-sen University
+			<byline>
+				<docAuthor>
+					張禕
+					<lb />
+				</docAuthor>
+			</byline>
+			Yi Zhang
+			<lb />
+
+			<byline>
+				<affiliation>中山大學資訊管理學院</affiliation>
+			</byline>
+			碩士研究生
+			<lb />
+			Graduate Student
+			<lb />
+			School of Information Management
+			<lb />
+			Sun Yat-sen University
+			<lb />
+			【摘要 Abstract】
+			<div type="abstract">
+				近三十年來逐漸為跨學科領域所認可的將公民權利視作一種
+				<lb />
+				社會過程的公民權社會學定義，為圖書館權利這一在中國公共文化
+				<lb />
+				/ 資訊服務獲取領域的包容與歸屬新需求的研究和實踐提供了有益 的啟示。論文採用歷史研究中常用的大事記的方法對中國圖書館權
+				<lb />
+				利相關的重要事件進行時序和分類梳理，從《圖書館權利法案》及 《公共圖書館宣言》的譯介和研究，宣言式圖書館政策的制訂，圖 書館法律法規的制訂，中國圖書館學會相關會議或報告的關注，相
+				<lb />
+				關專著、專欄及專案的出現，相關媒體事件的爭論，以及國家政策 法規的涉及等七個方面呈現中國大陸圖書館權利的社會過程。論文
+				<lb />
+				進而對這一社會過程的整體時間軸進行分析，提出中國圖書館權利
+				<lb />
+				的社會過程發展至今可以大致劃分為 2002 年前後的自然醞釀和理
+				<lb />
+				念重建兩個階段，均偏重於學術探討，缺失構成公民權利完整社會 過程的權利實踐和政治活動兩大領域。從這種片面性出發，論文討 論了中國大陸圖書館權利社會過程的未來發展方向。
+				<lb />
+			</div>
+			The sociological definition of citizenship conceptualized as a
+			<lb />
+			social process has been accepted in interdisciplinary field during the
+			<lb />
+			last thirty years. It is believed that the study and practice of Chinese
+			<lb />
+			library rights, a new demand of tolerance and affiliation in the field
+			<lb />
+			of public cultural and information service, can be inspired from this
+			<lb />
+			type of citizenship definition. Adopting the historical research method
+			<lb />
+			of chronicle of events, the paper draws a clear picture of the social
+			<lb />
+			process of Chinese library rights and time series presented in seven
+			<lb />
+			aspects: firstly, the translation, introduction and study of &quot;ALAs
+			<lb />
+			Library Bill of Rights&quot; and &quot;IFLAs Public Library Manifesto&quot; ;
+			<lb />
+			secondly, the preparation of the library manifesto policies; thirdly, the
+			<lb />
+			making of the library laws; fourthly, the attention paid by the China
+			<lb />
+			Society for Library Science through conferences and reports; fifthly,
+			<lb />
+			the appearance of related monographs, special columns and research
+			<lb />
+			projects; sixthly, the discussion of related media events; and seventhly,
+			<lb />
+			the referring in national policies and regulations. Then the paper
+			<lb />
+			analyzes the timeline of the social process and points out that it can
+			<lb />
+			be divided into two phases from the beginning until now, the naturally
+			<lb />
+			brewing phase before 2002 and the idea rebuilding phase after it.
+			<lb />
+			Both phases favor the academic discussion and therefore, the other
+			<lb />
+			two sides of an integrated citizenship social process, including rights
+			<lb />
+			practices and political activities are missing. Last, with a single-sided
+			<lb />
+			perspective, the paper discusses the future direction of development of
+			<lb />
+			Chinese library rights as a social process.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				圖書館權利；公民權社會學；公共文化；資訊服務；大事記
+				<lb />
+			</keyword>
+			Library rights; Sociological de nition of citizenship; Public culture;
+			<lb />
+			Information service; Chronicle of events
+		</front>
+	</text>
+</tei>

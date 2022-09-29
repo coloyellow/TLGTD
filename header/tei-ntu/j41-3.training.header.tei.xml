@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j41-3"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>圖書資訊學刊 第13卷第2期 (2015.12) 頁67-97<lb/></reference>
+
+	<idno>doi:10.6182/jlis.2015.13(2).067<lb/></idno>
+    
+	<docTitle>
+	<titlePart>中高齡者使用公共運輸系統自動售票機之可使用性 評估研究：以大眾捷運系統為例<lb/></titlePart>
+	</docTitle>
+	
+	
+	A Usability Study of the Automatic Ticket Vending Machines<lb/> for the Middle-aged and Elderly Patrons: The Case of the Taipei<lb/> Mass Rapid Transit System<lb/>
+	
+
+	<byline>
+	<docAuthor>呂明心 1 </docAuthor> 
+	</byline>
+	<byline>
+	<docAuthor>岳修平 2<lb/></docAuthor>
+	</byline>
+	Ming-Hsin Lu 1 , Hsiu-Ping Yueh 2<lb/>
+	
+
+	摘 要 
+	<div type="abstract">本研究旨在探討中高齡者在使用自動售票機時可能產生的可使用性問題，並以臺北捷 運自動售票機為例，針對中高齡使用者進行操作觀察與分析。本研究共觀察32位中高齡使 用者，男女性各半，並於完成購票操作後訪談6位男性及3位女性使用者。結果發現，中高 齡使用者最常於購票首要步驟：觸碰螢幕開始購票便有操作錯誤的情況，且在語音輔助與 系統回饋設計皆有使用問題存在。根據分析結果，本研究針對自動售票機之通用設計提出<lb/> 建議包括：(1)增強操作指示之可視性，需提高對比度、圖文相輔並搭配語音提示；(2)簡 化介面資訊，若要顯示購票交易的資訊，應避免使用具觸控暗示之符號，並輔以語音說<lb/> 明；以及(3)強化多元的操作回饋設計，並符合使用者以往使用經驗。</div>
+	關鍵字：
+	<keyword>中高齡者、可使用性、自動售票機、層級分析、人因失效模式與效應分析<lb/></keyword>
+	1,2
+	<byline>
+	<docAuthor> 國立臺灣大學生物產業傳播暨發展學系<lb/></docAuthor>
+	</byline>
+
+	
+	Department of Bio-Industry Communication and Development, National Taiwan University,<lb/>
+
+
+	Taipei, Taiwan<lb/>
+
+	* 通訊作者Corresponding Author: 岳修平Hsiu-Ping Yueh, E-mail:
+	<email>yueh@ntu.edu.tw</email>
+
+	Abstract<lb/>
+	This study explores the usability problems for the middle-aged and elderly users of the automatic<lb/> ticket vending machines of Taipei Mass Rapid Transit System. Thirty two middle-aged and elderly<lb/> users (16 men and 16 females) were observed in their actual uses of the machines, and 9 of them<lb/> (6 men and 3 women) were interviewed afterwards. The results show that, first, most senior users<lb/> observed in this study made mistakes at the first step of touching the screen that initiates the ticket<lb/> buying process. Second, the feedback and voice guidance design need further improvement to facilitate<lb/> the senior users&apos; operation of the machines. Based on the findings, this study recommends that: (1) the<lb/> operation instruction may be improved by enhancing the color contrast and graphics complementing<lb/> of caption and voice guidance; (2) the transaction interface should be simplified, avoiding using<lb/> button symbol to show information, and the visual instruction should be supplemented with voice<lb/> instructions; (3) operation feedback should be strengthened and in line with previous use experience.<lb/>
+
+	Keywords:
+	The Middle-aged and Elderly; Usability; Automatic Ticket Issuing Machines; Hierarchical<lb/> Task Analysis (HTA); Human Failure Modes and Effects Analysis (HFMEA)
+
+		</front>
+	</text>
+</tei>

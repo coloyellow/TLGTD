@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="678-1306-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2016.421/678</idno>
+			<docTitle>
+				<titlePart>探究數位職場議題之研究 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳佳香 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			博士候選人
+			<lb />
+			E-
+			<email>mail：80015003e@ntnu.edu.tw</email>
+			關鍵詞：
+			<keyword>數位職場；職場資訊實踐；摩登數位 </keyword>
+			【摘要】
+			<lb />
+			<div type="abstract">
+				數位職場(digital workplace)是一個重要的研究議題，研究者和實務工作者對於此概念仍十 分分歧，未來數位工作場所將結合數位科學進行資訊實踐的參與合作，融合虛實資訊創造、保存、 修復、傳遞、交流和取用的素養，數位科技和實體空間緊密結合，形塑為跨越時間空間的摩登數
+				<lb />
+				位(digimodernism)的多重交流時代。 在社會與技術進化的複雜過程中，將結合理論和實務研究以探析資訊經驗、勞動和動態活動
+				<lb />
+				的模式，包括機構發展新工具設施來延伸工作、組織動力改變(壓力、合作、生產力、年齡等)， 在變動的資訊環境進程中，未來的工作者都需要錘鍊新數位技能和資訊經驗。
+				<lb />
+				本文報導歐洲職場資訊網絡(European Network for Workplace Information，ENWI)2015 年 會議中的三個主題：職場資訊實踐、數位科學的資訊挑戰和我在這裡工作：跨管道、混合空間，以 及摩登數位的挑戰，介紹學術傳播模式，作為瞭解職場數位職場和數位圖書館永續經營的研究參考。
+			</div>
+		</front>
+	</text>
+</tei>

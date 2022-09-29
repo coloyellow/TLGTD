@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5-29" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 54 , no. 1 (2017) : 5-29
+
+	圖書資訊學開放取用 期刊聯合目錄系統之設計與實作
+			<lb />
+			Design and Implementation of a Library and
+			<lb />
+			Information Science
+	Open Access
+
+	Journal Union Catalogue System
+			<lb />
+			林 信 成* Sinn-Cheng Lin*
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：sclin@mail.tku.edu.tw
+			<lb />
+			周 庭 郁 Ting-Yu Chou
+
+	Postgraduate
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+
+
+			<reference>
+				教育資料與圖書館學 54 : 1 (2017) : 5-29
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2017.541/0029.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					圖書資訊學開放取用 期刊聯合目錄系統之設計與實作
+					<lb />
+				</titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>林信成 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>周庭郁 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				開放取用是近年興起的學術傳播模式 ，但開放取用的學術資源分
+				<lb />
+				散於網路各處 ，使用上仍有所不便。本研究以圖書資訊學為學科
+				<lb />
+				主題 ，以 OAIS 參考模式為系統架構 ，以 DOAJ 與 E-LIS 兩個開放
+				<lb />
+				取用平台為資料來源 ，藉由系統實作法開發一套「圖書資訊學 OA
+				<lb />
+				期刊聯合目錄」系統 ，並以 OAI-PMH 資料交換協定做為資料互通
+				<lb />
+				標準 ，以 LAMP 做為開發環境 ，完成攝入、典藏、管理與取用四大
+				<lb />
+				功能模組之設計與開發 ，並完成系統建置與整合。經實際實驗與驗
+				<lb />
+				證 ，本系統能順利匯集 DOAJ 與 E-LIS 中與圖書資訊學相關之 OA
+				<lb />
+				期刊資源 ，且順利上線運行 ，提供圖書資訊學領域之研究者使用。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				開放取用，聯合目錄，OAIS參考模式，OAI-PMH，詮釋 資料
+				<lb />
+			</keyword>
+			a
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			教授
+			<lb />
+			b
+			<byline>
+				<affiliation>淡江大學資訊與圖書館學系</affiliation>
+			</byline>
+			碩士
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				sclin@mail.tku.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2016/08/27投稿；2016/12/25修訂；2017/01/12接受</note>
+
+		</front>
+	</text>
+</tei>

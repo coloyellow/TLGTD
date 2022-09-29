@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+			<front>DOI: 10.6245/JLIS.2016.422/652 <lb/></front>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page>5 <lb/></page>
+			 
+			<front>巨量雲端運算高頻交易平台 <lb/>陳奕光 <lb/>台灣積體電路製造股份有限公司經理 <lb/>E-mail: ykchena@gmail.com <lb/>林承翰 <lb/>國立政治大學資訊管理研究所碩士生 <lb/>E-mail: maxabcr2000@gmail.com <lb/>關鍵詞：雲端運算；高頻交易；服務導向架構；技術分析；交易策略評估 <lb/>【摘要】 <lb/>本研究應用雲端分散式的架構來建置一處理大量使用者交易需求的高頻交易投資策略服務平 <lb/>台，此平台有以下特色：(一)系統後端採用 SOA 架構，將龐大的交易系統切割佈署到雲端叢 <lb/>集之上，並提供單一的 Façade 介面供外部使用者呼叫。(二)不斷接收外部的即時報價訊息， <lb/>並產生海量的即時市場狀態資訊，包含多種技術分析指標、買賣規則…等，以供高頻交易的策 <lb/>略作為買賣的依據。(三)利用 Java Message Service 將大量的即時市場狀態資訊快速、非同 <lb/>步的派送給分佈在雲端叢集各節點的系統模組，並採取 Publisher-Subscriber 的模式來維持分 <lb/>散後各系統模組之間的鬆散關係。(四)多樣化的統計演算法模型可供使用者作為產生個人化 <lb/>投資策略之依據。產生的新策略可馬上投入即時的模擬交易環境下監控與評估其策略績效。 <lb/></front>
+			
+			<body>緒論 <lb/>高頻交易主要是透過自動化的電腦程式在極短時間內快速並且大量的進出交易市場，藉 <lb/>此捕捉快速變化的市場價格波動，穩定的賺取其中的價差。高頻交易在證券交易市場已儼然 <lb/>成為主流趨勢，而且改變了整個市場的生態，讓證券交易變成了一場速度與演算法的競賽。 <lb/>由於執行高頻交易的演算法需要很強的運算效能還有大量資料的儲存能力，導致從事高 <lb/>頻交易的通常都是規模比較大的證券商與大型投資機構。本文希望能利用雲端運算的特性將 <lb/>較普及的 PC 等級之運算設備統合成雲端叢集，藉此得到足夠負擔高頻交易系統的運算能力 <lb/>與儲存空間。另一方面，也希望能藉由此平台幫助一般投資大眾發展自己的高頻交易策略， <lb/>並直接在我們建立好的系統環境上做即時測試。 <lb/></body>
+
+			<page>6 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>文獻探討 <lb/>技術分析 <lb/>技術分析(technical analysis)可分成兩大類型，分別為圖形分析與指標訊號(Robert D, <lb/>1998) 。圖形分析是指運用圖表技術，將原始的證券金融市場價格與交易量的趨勢軌跡轉換成 <lb/>容易分析的圖表形式；指標訊號則是設計出一套統計分析的數量指標來呈現特定時段內的投 <lb/>資市場狀態。投資者觀察這些圖表與技術指標的變化模式與走勢規律來預測未來證券市場價 <lb/>格的走向，藉此找出最佳的買賣時機。技術分析不去細究市場價格變動的原因，而是直接觀 <lb/>察市場價格面的變化趨勢。 <lb/>根據西方技術分析專家 Edwards 與 Magee(黃嘉斌譯，2008)的觀點，技術分析的理論 <lb/>依據奠基於以下幾點： <lb/>一、市場上的證券價值主要是由商品本身的供給與需求之間的關係決定的。 <lb/>二、 證券交易的價格、成交量、漲跌家數、漲跌時間長短…等市場行為的表現是投資者考量 <lb/>過諸多市場環境因素後進行交易的結果。所以技術分析只需要分析與研究市場行為，而 <lb/>無須搜尋和分析背後的影響因素。 <lb/>三、 證券的價格有其變動的趨勢存在，利用技術指標或者圖形分析可幫助確認目前的價格趨 <lb/>勢與反轉的訊息。 <lb/>四、歷史會不斷地重演，投資者會出於追求利潤的目的，不斷的重覆一定模式的交易行為。 <lb/>本研究採用了十多種常見的技術指標作為系統內部產生市場狀態資料之依據，系統上運 <lb/>行的交易策略將視市場狀態的變化決定是否產生買賣的交易訊號。 <lb/>Java 管理延伸(JMX) <lb/>Java 管理延伸(Java Management Extension, JMX)是一種 Java 平台為應用程式、硬體設 <lb/>備…等資源加上管理功能的框架，專門為了「分散式系統管理」而設計。 <lb/>本文採用了遵循 JMX 與 SOA 架構的 JBoss Application Server 作為建置整個雲端分散式 <lb/>運算架構的管理與佈署環境。在 JBoss 底下，MBean 為基本的管理單位。本文將整個的雲端 <lb/>高頻交易平台依照功能切分成數組 MBean，並將之掛載在由 JBoss Application Server 所建構 <lb/>的雲端叢集之上，這些 MBean 可以被視為 SOA 架構底下定義的「service」 。 <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page> 7 <lb/></page>
+			 
+			 <body>Java 訊息服務(JMS) <lb/>Java 訊息服務(Java Message Service, JMS)是一種可以讓 Java 應用程式創造、傳送、接 <lb/>收以及閱讀訊息的 Java API。JMS 由 Sun 與其他的中介軟體提供商共同設計，並提供了通用 <lb/>的訊息交換介面讓不同的 JMS 實作產品可以互相溝通。JMS 提供 Java 程式非同步與可靠的 <lb/>訊息交換能力，並進一步讓程式之間的互動可以達到鬆散耦合(loosely coupled)關係。 <lb/>JMS 支援點對點與發佈／訂閱的訊息交換模型： <lb/>一、點對點模型(Point-to-Point)： <lb/>點對點是屬於一對一關係的訊息交換模型，多個訊息接收者可以同時監聽同一個訊息佇 <lb/>列(queue) ，但特定的訊息只會被一個訊息接收者得到。訊息傳送者會先將訊息傳送到 JMS <lb/>Server 下的特定訊息佇列，接著再由 JMS Server 連續地將佇列中的訊息傳送給正在監聽該佇 <lb/>列的訊息接收者。假如同時有多個接收者在監聽該佇列，則 JMS Server 會依照「先來者優先」 <lb/>的原則來決定將訊息傳送給哪個接收者；假如沒有接收者監聽該佇列，則訊息會被保留在佇 <lb/>列中，直到有訊息接收者來監聽該訊息佇列為止。 <lb/>圖 1 JMS 點對點模型示意圖 <lb/>二、發佈／訂閱模型(Publish/Subscribe)： <lb/>在發佈／訂閱模型中，訊息訂閱者需要事先訂閱有興趣的主題(topic) ，然而當訊息發佈 <lb/>者傳送訊息到該主題的時候，所有訂閱該主題的訊息訂閱者都會接收到同樣的訊息。主題與 <lb/>訊息訂閱者之間是一對多的關係，且存在於主題中的訊息會被保留到所有訂閱該主題的訂閱 <lb/>者都收到該訊息為止。 <lb/></body>
+
+			<page>8 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>圖 JMS 發佈／訂閱模型示意圖 <lb/>本研究於系統架構中應用發佈／訂閱模型來完成系統各模組之間的鬆散訊息交換，並採 <lb/>用了遵循 JMS 框架、開源、支援多協定、且可內嵌的非同步訊息交換系統的訊息交換系統-<lb/>HornetQ。HornetQ 在訊息交換的工作上有非常高的效率與彈性，同時支援叢集的訊息交換模 <lb/>式，讓叢集內的各個節點只透過訂閱特定的訊息主題，就可以非同步、鬆散地接收到跨機器 <lb/>的訊息。 <lb/>研究架構 <lb/>就原本設計的目的來看，JBoss Application Server 的主要用途是做為分散式的系統管理之 <lb/>用，讓系統開發者可以簡單、便利的將系統遵循 SOA 架構拆散並將 JBoss Application Server <lb/>作為佈署分散程式的容器。然而，JBoss Application Server 並沒有將分散式運算的概念納入其 <lb/>設計之中，對於在整個雲端叢集上大量的動態增加、減少運算用節點的功能沒有足夠的支援 <lb/>度，同時也欠缺對分散運算工作散與收斂運算結果的管理功能。為了彌補 JBoss Application <lb/>Server 於分散式運算管理之不足，本研究將在 JBoss 的 Cluster 管理功能之上再建置一層工作 <lb/>分派的模型架構，希望能在原來的 JBoss Cluster 管理架構之下衍生出可行、易用的分散式運 <lb/>算管理架構。 <lb/>在這個章節，我們將依序提到 JBoss 的叢集管理機制、叢集中的工作與訊息派送機制與 <lb/>工作分派模型之實作..等雲端分散式運算架構的管理議題來做介紹。 <lb/>JBoss AS 7 叢集管理機制 <lb/>JBoss 支援兩種啟動模式-standalone 與 domain 模式。在 standalone 模式下，每個 JBoss <lb/>Application Server 的 Instance 都是一個獨立運行的 Process；而在 domain 模式下，多個 JBoss <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page> 9 <lb/></page>
+			 
+			<body>Application Server Instance 被歸納在一個 domain(應用程式範疇)之下集中管理，此模式適 <lb/>合用來建置跨機器的雲端叢集。本研究利用 JBoss 的 domain 模式為基礎來建置高頻交易策略 <lb/>服務平台。domain 模式的運作機制如圖 3 所示： <lb/>圖 3 JBoss Domain 模式管理拓墣圖 <lb/>一、Host <lb/>代表一台實體或者虛擬的機器。 <lb/>二、Server Instance <lb/>代表一個獨立的 JBoss Application Server 的 Process，可以將 MBean 程式佈署於其上執 <lb/>行。Server Instance 可以視為 Cluster 概念中的 Node。 <lb/>三、Server Group <lb/>是一個跨機器的抽象管理概念，可以依照工作性質將 Server Instance 分類成多組 Server <lb/>Group。同一 Server Group 底下的 Server Instance 都運行相同的 MBean 程式。 <lb/>四、Host Controller <lb/>負責管理 Host 上所有 Server Instance 的管理 Process。 <lb/>五、Application Domain <lb/>整個應用程式的系統管理範疇，同個 Domain 下的 Host Controller 都遵循相同的管理 <lb/>政策。 <lb/></body>
+
+			<page>10 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>六、Domain Controller <lb/>Domain 底下特別且唯一的 Host Controller，扮演集中管理者的角色，並與其他 Host <lb/>Controller 溝通，確保它們之下的 Server Instance 都遵循相同的管理政策。 <lb/>平行運算機制 <lb/>本研究將負責同類型服務的應用程式伺服器實例(Server Instance)放在同一群集 <lb/>(Cluster)或稱為伺服器組(Server Group) ，集合所有系統功能成為一個可被管理的域 <lb/>(Domain) 。並建立 JMS 群集，該 JMS 群集隸屬在 JBoss 的管理域之下，如此能達到跨硬體 <lb/>分享資訊流同時又能讓不同群集的成員保持鬆散耦合，使各應用程式伺服器僅需記憶同群集 <lb/>成員的資料，節省記憶體空間。而 JMS 的非同步資料傳輸特性可避免彼此間互相等待，使資 <lb/>源利用率提高。 <lb/>圖 4 平台管理機制圖 <lb/>利用 JBoss 中子系統解決平行運算的三個問題：Mod_cluster 負責負載平衡(load-<lb/>balancing) 、Infinispan 負責系統可用性(availability) 、JGroup 負責系統的擴展性(scalability) 。 <lb/>一、Mod_Cluster <lb/>mod_cluster 主要功能為負載平衡。web server 使用 mod_cluster 定時 IP 多點傳送 <lb/>(multicasting)詢問所有應用程式伺服器的狀況，如被使用與存活情形。web server 端會依據 <lb/>回報情況更新名單，依該名單將使用者的請求指派給空閒的應用程式伺服器完成工作。 <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note> 
+			
+			<page>11 <lb/></page>
+			
+			<body>二、Infinispan <lb/>Infinispan 功能為解決系統可用性的問題。Infinispan 本身為依資料快取空間，我們將其作為 <lb/>session container。它主要的工作自 web server 取得為使用者提供服務的應用程式伺服器名單後，到 <lb/>各群集中找該群集負責人(group coordinator)詢問該應用程式伺服器的情況，若該應用程式伺服 <lb/>器不可被使用，則 Infinispan 會請求 web server 重新指派另一台應用程式伺服器為使用者提供服務。 <lb/>三、JGroup <lb/>JGroup 是為了讓運算資源更具擴展性。JGroup 是一個群集內成員彼此聯絡的方式。所有成 <lb/>員透過 IP multicasting 不斷向其他成員傳達自身狀態。因此一旦應用程式伺服器被使用、被釋放、 <lb/>新加入、被移出群集或當機時，其他成員都會知道。而每個群集都會有個群集負責人(group <lb/>coordinator) ，它本身也是一台應用程式伺服器。主要的工作除了處理在該台應用程式伺服器的 <lb/>運算工作外，群集負責人還要匯整在群集中所有成員的存活狀態，負責向 session container 傳達 <lb/>成員的狀態。JGroup 的傳遞訊息方式有 TCP 及 UDP，選擇 TCP 傳輸訊息傳遞較可靠，UDP 則 <lb/>犧牲可靠性但傳遞訊息較為快速。本系統平台需要快速傳遞即時訊息即回應結果，故選擇 UDP。 <lb/>JBoss Cluster 工作分派模型 <lb/>JBoss Application Server 的叢集管理機制讓我們得以將龐大的系統切割成 MBean 並分散佈 <lb/>署在多台機器之上，但分散的 MBean 也增加了系統工作流程的管理與資料分享的難度。針對此一 <lb/>議題，本文將 HornetQ 的訊息交換模式加以搭配應用，進而設計出一套專屬於 JBoss 分散式叢集 <lb/>的工作分派模型。在此分派模型之下，每一項系統的工作都會有三種角色：工作分派者(Job <lb/>Dispatcher，簡稱 JD) 、工作承接者 (Job Handler，簡稱 JH) 與工作承接管理者 (Job Handler Manager， <lb/>簡稱 JHM) ，參見圖 5。這三種角色都是 JMX 框架之下可被 JBoss 所管理的 MBean 程式。 <lb/>圖 5 工作分派者之互動行為圖 <lb/>註： JD 的功能是透過 HornetQ 將工作請求訊息散布出去，並同時從 HornetQ 接收來自其他 MBean 傳回之工 <lb/>作之結果，如圖 6 所示。 <lb/></body>
+
+			<page>12 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>圖 6 工作承接者之互動行為圖 <lb/>註： 一個 JH 可以同時運行、管理多個相同性質的 Job，系統管理者可以為 JH 設定所能管理的最大 Job 數量。 <lb/>而 JH 可能從 HornetQ 接收到來自其他 JD 的工作請求或者其他 JH 的工作結果，而當此一 JH 完成工作 <lb/>後，會再將工作結果的訊息透過 HornetQ 傳遞給其他需要的 MBean，見圖 7。 <lb/>圖 7 工作承接管理者之互動行為圖 <lb/>註： JHM 負責控制要在一個 Host(實體或者虛擬的機器)上動態產生多少個 JH 實體來作為分散運算用的節 <lb/>點，JHM 能控制其所產生之 JH 物件實體的初始化、啟動…等流程，並保存、管理 JH 物件的實體參考。 <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page> 13 <lb/></page>
+			 
+			<body>一、工作分派模型-初始配置 <lb/>圖 8 工作分派模型圖-初始配置 <lb/>在圖 8 中，在初始狀態下，每一個 Host 上的 JHM 將產生 N 個數量的 JH 來承接工作， <lb/>所有的 JH 一但啟動後，都會持續監聽 JobRequestQueue，等待任何分派出來的工作請求。 <lb/>JD 在啟動後，則是會不斷監聽 JobResponseQueue，以確保是否有任何已經完成的工作結 <lb/>果回傳回來。 <lb/>Other Queues or Topics 則是當 JH 與 JH 之間有工作上的訊息交換需求時才會被使用到。 <lb/>二、工作分派模型-工作分派 <lb/>在工作分配的階段，JD 將工作請求的訊息發佈到 JobRequestQueue 之上，在 Queue 之中 <lb/>的工作請求訊息會依照 FIFO 的特性傳達給整個叢集中正在等待承接工作的 JH。如圖 9 所示 <lb/>圖 9 工作分派模型圖-工作分派 <lb/></body>
+
+			<page>14 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>三、工作分派模型-工作結果 <lb/>圖 10 工作分派模型圖-工作結果 <lb/>圖 10 顯示工作結束後，JH 會回傳工作結果訊息到 JobResponseQueue，並繼續監聽 <lb/>JobRequestQueue，假如這時候仍有尚未被承接的工作保留在 Queue 之中，JH 便會接收新的 <lb/>工作請求訊息並開始執行新的工作作業。 <lb/>四、工作分派模型-資料交換 <lb/>圖 11 工作分派模型圖-資料交換 <lb/>上圖 11 中，工作分派模型的成員之間除了上述的互動關係之外，同一種類工作或者不同 <lb/>種類工作之間的 JH 可以視工作需求透過其它的 Queues 或者 Topics 來交換資料，某些 JH 的 <lb/>工作結果會被其他 JH 接收作為工作的 input 資料來使用。 <lb/>JBoss Cluster 管理與工作分派模型之結合 <lb/>在 JBoss Cluster 的管理規範之下，相同工作性質的程式單位都必須被歸類在同一 Server <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page> 15 <lb/></page>
+			 
+			<body>Group 之下，並被佈署在 Server Instance 之上才能在 JBoss Cluster 的框架之下被執行與管理。 <lb/>然而，工作分派模型的三個角色可依據「工作分派」與「工作承接」這兩種工作性質而被歸 <lb/>類到兩個 Server Group 之下。 <lb/>從工作分派的角度來看，在整個 Cluster 之下，對於一特定種類的工作只需要唯一的一個 <lb/>JD 來掌管整個雲端叢集內部該種類工作的工作分派。而從工作承接的角度來看，JHM 負責 <lb/>於單一 Host 之上動態產生並管理多個 JH 物件實體，所以對於一特定種類的工作而言，在每 <lb/>個 Host 之上應各有一個 JHM 物件負責產生 JH。請參考圖 12。 <lb/>圖 12 工作分派模型與 JBoss 搭配示意圖 <lb/>工作分派模型於系統之實際應用 <lb/>接下來的篇幅，本文將簡述我們的高頻交易系統之各個模組與功能，以及如何將工作分 <lb/>派模型套用到我們的系統之下。 <lb/>一、系統結構簡述 <lb/>圖 交易系統結構圖 <lb/></body>
+
+			<page>16 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>(一)市場狀態室 <lb/>此一模組將不斷接收來自外部即時報價，並利用報價資訊即時建立完整市場的狀態，並 <lb/>將這些市場狀態資訊提供給其他系統模組使用。 <lb/>(二)資料存取室 <lb/>掌管整個系統所有的資料 IO 的工作。 <lb/>(三)規劃室 <lb/>規劃室主要提供了多種統計模型、演算法供使用者用來產生優秀的投資策略、或者改善 <lb/>現有的投資策略。 <lb/>(四)交易室 <lb/>交易室的主要功能是將產生的投資策略放入即時的交易環境之中作測試，並依據即時市 <lb/>場狀態來判斷策略是否產生了買賣訊號，買賣訊號一產生，便快速的執行高頻交易的下單邏 <lb/>輯，並反映交易的結果報告給使用者。 <lb/>(五)下單機 <lb/>整合了外部提供的下單 API，能快速下單到模擬交易所並回傳即時的交易結果。 <lb/>二、系統工作分派模型應用 <lb/>對於上述的交易系統結構，本文將工作分派模型應用在數個較適合分散與同步處理且對 <lb/>於運算速度要求較高的運算工作之上，依序以圖 14、15、16 解釋。 <lb/>圖 14 工作分派模型應用圖-市場狀態室 <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note> 
+			
+			<page>17 <lb/></page>
+			
+			<body>首先，在圖 中，我們將工作分派模型應用在市場狀態室的即時市場狀態資料之運算工 <lb/>作之上。由於此處的運算工作單位是以各種不同的技術指標為單位，所以非常適合分散式運 <lb/>算。由於某些技術指標之計算可能需要其他技術指標之運算結果作為 Input，所以有些情況 <lb/>下，承接市場狀態運算工作的 JH 可能會需要從 HornetQ 取得其他 JH 之市場狀態運算結果。 <lb/>圖 工作分派模型應用圖-規劃室 <lb/>其次，如圖 15，我們將工作分派模型應用在規劃室的策略規劃之工作之上，每個規劃室 <lb/>的策略規劃工作皆可獨立平行運作且不互相影響，而每個策略規劃的工作包含資料前處理、 <lb/>資料採礦、資料後處理三個階段。 <lb/>圖 16 工作分派模型應用圖-交易室 <lb/>最後，在圖 中，我們將工作分派模型應用在交易室的策略買賣信號產生之工作上。由 <lb/>於每個在即時環境下測試的交易策略是獨立運作的，可以透過工作分派模型將每個交易策略 <lb/></body>
+
+			<page>18 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>之買賣信號判斷與產生之工作分派給雲端叢集的各個 JH 來承接。另外，由於策略之買賣訊 <lb/>號之產生需要用到市場狀態資料作為運算之依據，所以此處之 JH 有可能會從某些特定的 <lb/>Queue 或者 Topic 取得各式市場狀態資料。 <lb/>實驗數據分析 <lb/>速度測試與分析 <lb/>本章節將實際測試在即時交易環境中，交易室策略監控模組在一台機器與多台機器的測試 <lb/>環境中運算速度的差異。本研究採用 Amdahl&apos;s law 做為平行運算效能的衡量指標(見圖 17) 。 <lb/>圖 17 Amdahl&apos;s law 速度與處理器數量關係圖 <lb/>(資料來源：H. Shen and F. Pétrot, 2011) <lb/>圖 17 顯示 Amdahl&apos;s law。Amdahl&apos;s law 常用來預測在多處理器的平行運算中理論下的速度 <lb/>最大化，因其代表了處理器平行運算之後效率提升的能力，由於平行運算的速度受限於程式 <lb/>中的僅能序列化處理的片段，因此系統僅有一部分可以經由平行運算改善效率，其餘則無法。 <lb/>其公式為： <lb/>T n <lb/>T 1 B <lb/>1 <lb/>n <lb/>1 B <lb/>n ∈ <lb/>：表示程式中平行處理的執行緒數量。 <lb/>B ∈ 0,1 ：表示程式執行中的無法平行運算的部分。程式的總和為 1，B 的範圍為 0 到 1。 <lb/>因此，一個可以同時運行 n 條執行緒的平行運算，其理論的速度最大值為： <lb/>S n <lb/>T 1 <lb/>T n <lb/>T 1 <lb/>T 1 B <lb/>1 <lb/>n <lb/>1 B <lb/>1 <lb/>B <lb/>1 <lb/>n <lb/>1 B <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note>
+			
+			<page> 19 <lb/></page>
+			 
+			<body>每個程式透過平行運算加速都有其最大極限，即(1 -B)部分，即使規劃再多處理器的 <lb/>平行運算，也無法超越極限，本研究希望找到本平台 B 的部分，並得出在現實情況下，較為 <lb/>經濟的平行運算處理器規模。 <lb/>本研究實驗次數為七次，處理器數變量分別為一台、四台、八台、十二台、十六台、二 <lb/>十台、二十四台，市場資料為 8 種台灣期貨市場的商品，包括台灣期貨、小型臺指期、台灣 <lb/>50、電子期貨、金融期貨、MSCI 臺指期貨、櫃買期貨、非金電期貨，資料的時間粒度為 1 秒。 <lb/>每次運算皆由 11 種技術指標平均組成。由於某些技術指標需要用到數根到數百根的 KBar 資 <lb/>料，或是其他技術指標的運算結果做為輸入資料，所以必須先進行資料清理，去除掉前 <lb/>筆資料，以免影響實驗數據。每種技術指標的資料隨機抽取 100 筆，且去除極端值，計算其 <lb/>平均運算時間，結果如下(請見表 1) ： <lb/>表 1 單點與叢集模式技術指標運算時間表 <lb/>由此表觀察可得之，在單處理器模式下，技術指標運算的時間，每秒期貨市場即時報價 <lb/>平均需要近六秒才能完成技術指標運算。其中 KBar Pattern 此種技術指標每次只會用到一到 <lb/>交易規則，因此運算時間在單核心與多核心模式僅需一毫秒；而其他十種技術指標隨著處理 <lb/></body>
+
+			<page>20 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>器數量遞增，運算速度也有顯著改善。圖 18 為各技術指標在單點與群集模式運算時間的比 <lb/>較圖： <lb/>圖 18 技術指標在單點與群集模式運算時間比較圖 <lb/>觀察此圖得知，每種技術指標在處理器增加時，提升的運算速度不盡相同，如 KBar <lb/>Pattern 因其計算特性在任何模式下，運算速度改善之情形極微；反之計算時間越長之技術 <lb/>指標，如 KD，在群集模式下運算時間縮短幅度越顯著；扣除 KBar Pattern 因在群集模式中 <lb/>任何改善，所有本研究所採用之技術指標，在處理器數量變化下之平均運算時間，整理為 <lb/>圖 19： <lb/>圖 19 處理器數量變化下之平均運算時間 <lb/>本次測試結果原希冀能找出類似 Amdahl&apos;s law 所述之平均運算速度提升之理論最大值， <lb/>然囿於現實與成本考量，本研究之群集含二十四台處理器，畫出之曲線如圖 20 所示： <lb/></body>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note> 
+			
+			<page>21 <lb/></page>
+			
+			<body>圖 本研究平台處理器數量與加速比關係圖 <lb/>在圖 14 中觀察，要找到 Amdahl&apos;s law 所述平行運算之理論加速最大值，群集之處理器數 <lb/>量需 1000 台以上，才能觀察到趨近理論最大值之曲線；本研究在有限資源情況下，二十四台 <lb/>處理器之叢集環境中計算台灣期貨市場十種商品之市場狀態，較單點得到 11 倍以上之加速 <lb/>比，足見本研究所設計之平行運算架構極為有效提升運算效能，尤其適合需要大量運算之期 <lb/>貨交易平台、及其他金融商品之交易平台。根據圖 17 之曲線，此次測試結果亦能得出，如擴 <lb/>大本研究設計之平行運算架構之群集規模，能更有效提升平行運算之效能。 <lb/>結論與未來展望 <lb/>總結 <lb/>為了確保高頻交易的速度與準確性，運算效能與海量資料的處理與存取能力為兩大最需 <lb/>要解決的重要議題。本研究為了以較低成本的解決方案滿足此兩大需求，以開源的 JBoss <lb/>Application Server 作為整個高頻交易平台之建置框架，將系統的各個功能模組根據其功能複 <lb/>雜度切割成容易被重複利用、分散佈署的管理單元-MBean，並利用 HornetQ 讓分散在雲端各 <lb/>節點上的 MBean 得以互相交換訊息。在這樣的設計框架之下，本研究得以將一龐大的高頻交 <lb/>易平台分散佈署在多台普通的 PC 之上，藉此將多台機器的運算效能與資料存取能力整合起 <lb/>來，同時也保留了整體系統功能擴充與硬體擴充的彈性。 <lb/>然而，JBoss Application Server 所採行的 JMX 框架雖達到了分散式架構的管理，但對於 <lb/>分散式運算的支援程度卻有限，故本研究於 JBoss Application Server 的 Cluster 管理概念之上， <lb/>提出了一套利用 HornetQ 來分散工作並收斂分散工作結果的 JBoss Cluster Job Dispatching <lb/>Model，希望能彌補 JBoss Application Server 於這方面的不足。 <lb/></body>
+
+			<page>22 <lb/></page>
+
+			<note place="headnote">Journal of Library and Information Science 42(2) ：5 -24(October, 2016) <lb/></note>
+
+			<body>從雲端運算的角度來看，本研究所建置之基於 JBoss Cluster Job Dispatching Model 的高頻 <lb/>交易系統屬於一種 PaaS(Platform as a Service)的社群雲，系統的使用者皆屬於有興趣利用 <lb/>高頻交易來獲利之投資者。我們的平台提供歷史、即時的市場狀態資料、演算法與統計模型 <lb/>讓使用者自助式地產生自己的投資策略，也提供模擬交易環境讓使用者運行已產生的投資策 <lb/>略，並做為測試與下單之用。而且隨著使用者的使用量增加、對於新功能的需求增加，此平 <lb/>台也可以高度彈性地透過增加 Host 與 Server Group 來做雲端叢集於水平(增加運算效能、儲 <lb/>存空間)與垂直(增加系統功能)兩方向之擴充。 <lb/>本研究所得之測試數據，可得出以下幾點結論： <lb/>1. 本研究所佈署之雲端運算環境，其運算能力於台灣期貨市場之計算可行(544 毫秒) 。 <lb/>2. 本研究所設計之二十四台運算器之群集，因在現實與經濟考量的情況下，無法根據 <lb/>Amdahl&apos;s law 找出本系統可平行運算之部分的理論最大值以及無法平行運算之部分佔本 <lb/>系統之百分比，但本系統群集運算情況下相較於單機系統可加速將近 11 倍。 <lb/>3. 依據本研究所設計之運算架構實踐於本研究之期貨模擬交易平台，擴大群集規模，可以 <lb/>得到更優良的運算效能。 <lb/>未來展望 <lb/>一、提高演算法、統計模型與市場狀態的豐富性 <lb/>除了以雲端分散式架構與服務導向架構解決高頻交易的兩大需求之外，提高交易程式判斷 <lb/>買賣時機點的準確度也非常的重要。本研究希望能在未來陸續增加更多樣化的統計演算法模 <lb/>組、技術指標與買賣規則組合，讓平台的使用者可以用更多元的方式設計出個人化的投資策略。 <lb/>二、結合平行運算改善運算效能 <lb/>在運算效能方面，目前本研究的系統架構主要採行混用 JMX 框架與 JBoss Cluster Job <lb/>Dispatching Model 的分散式運算，將複雜的功能切分成更小的單位以利於分散佈署並利用工 <lb/>作分派模型將工作於整個雲端叢集內分散與收斂，但這樣的做法卻沒有充分發揮到目前運算 <lb/>設備多俱備的多運算核心的優勢。本研究希望未來能引入平行運算的解決方案，在切分的 <lb/>MBean 單位之下，再將一個工作平行交給多個 CPU 處理，以進一步提升整體的系統效能。 <lb/></body>
+			
+			<listBibl>參考文獻 <lb/>林威辰(2011)。平行運算用於即時套利策略交易系統(未出版之碩士論文)。國立交通大學應用數 <lb/>學系，新竹市。 <lb/>【Lin, Wei-Chen (2011). Pingxing yunsuan yongyu jishitaoli celue jiaoyi xitong (Unpublished master&apos;s thesis). <lb/>Department of Applied Mathematics National Chiao Tung University, Hsinchu City】 <lb/></listBibl>
+			
+			<note place="headnote">圖書館學與資訊科學 42(2) ：5 -24(民一○五年十月)</note> 
+			
+			<page>23 <lb/></page>
+			
+			<listBibl>徐宇薇、林俞君、潘長華、吳現任、戴天時、王釧茹(2014)。使用 CUDA 平行計算機制運用到高頻 <lb/>套利交易─以台指期權市場為例，第三十一屆組合數學與計算理論研討會。 <lb/>【Xu, Yu-Wei, Lin, Yu-Jun, Pan, Zhang-Hua, Wu, Xian-Ren, Dai, Tian-Shi, Wang, Chuan-Ru (2014). <lb/>Shiyong CUD pingxing jisuanji zhiyun yongdao gaopintaoli jiaoyi─yi taizhiqiquan shichang weili, The <lb/>31th zuhe shuxue yu jisuan lilun yantaohui.】 <lb/>陳進忠(2005)。股票聖經：技術分析寶典。臺北縣：中經社文化有限公司。 <lb/>【Chen, Jin-Zhong (2005). Gupiao shengjing: Jishu fenxi baodian. Taipei County: CENS -Taiwan sourcing <lb/>service provider.】 <lb/>黃嘉斌(譯)(民 87)。股價趨勢技術分析(上)(原作者：Robert D. Edwards, &amp; John Magee)。臺 <lb/>北市：寰宇出版股份有限公司。 <lb/>【Huang, Jia-Bin (trans.) (1998). Gujia qushi jishu fenxi (shang) (yuanzuozhe: Robert D. Edwards, &amp; John <lb/>Magee). Taipei City: IPC International Publishing Co., Ltd. (IPCI).】 <lb/>Shen, H., &amp; Pétrot, F. (2011). Using amdahl&apos;s law for performance analysis of many-core soc architectures <lb/>based on functionally asymmetric processors. In M. Berekovic, W. Fornaciari, U. Brinkschulte, &amp; C. <lb/>Silvano (Eds.), International Conference on Architecture of Computing Systems, (pp. 38-49). Springer Berlin <lb/>Heidelberg. </listBibl>
+
+
+	</text>
+</tei>

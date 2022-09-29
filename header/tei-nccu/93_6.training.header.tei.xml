@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="93_6" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			The Collaboration and Application of Digital Content Curation
+			<lb />
+			in the University Archives 
+			<lb />
+			Ching-Fei Huang 
+			<lb />
+			Chih-Ming Chen
+	
+
+	Abstract
+			<div type="abstract">數位內容策展是指透過篩選機制，依主題方式將數位資源進行匯聚、精萃、洞察、混搭與 時序化處理，經資訊組織後採用單一或結合多種方法呈現優質內容的過程。隨著數位科技的 普及，大學校史館也開始應用數位策展以便多元化、即時化及互動化呈現校史檔案內容，藉 此擴展觀展者的視野並希望拉近與受眾的距離。本文從數位內容策展的內涵及執行階段談起， 探討大學校史館在數位內容策展之專家協作、群眾外包與虛實展覽間的協作關係，提供有關 數位策展的發展原則，如何選擇好的數位策展工具，列舉數位內容策展在大學校史館較常見</div>
+			
+			<byline>
+				<affiliation> 國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			博士生；
+			<byline>
+				<affiliation>國立臺灣師範大學圖書館校史經營組</affiliation>
+			</byline>
+			組長
+			<lb />
+			Ph.D. Student, Graduate Institute of Library, Information and Archival Studies, National Chengchi University
+			<lb />
+			Director, University History Department, Library, National Taiwan Normal University
+			<lb />
+			E-mail:
+			<email>huangcf@ntnu.edu.tw</email>
+			
+			<byline>
+				<affiliation> 國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			教授兼圖書館館長暨社會科學資料中心主任
+			<lb />
+			Professor of Graduate Institute of Library, Information and Archival Studies, University Librarian, &amp;
+			<lb />
+			Director of Social Sciences Information Center, National Chengchi University
+			<lb />
+			E-mail:
+			<email>
+				chencm@nccu.edu.tw
+				<lb />
+			</email>
+
+			<reference>
+				圖資與檔案學刊
+				<lb />
+				10:2=93 (Dec &apos;18) 75-106
+				<lb />
+			</reference>
+
+			<idno>DOI: 10.6575/JILA.201812_(93).0004</idno>
+
+		</front>
+	</text>
+</tei>

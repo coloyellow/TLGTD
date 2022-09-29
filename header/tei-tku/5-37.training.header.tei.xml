@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5-37" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			教育資料與圖書館學
+			<lb />
+			Journal of Educational Media &amp; Library Sciences
+			<lb />
+			http://joemls.tku.edu.tw
+			<lb />
+			Vol. 55 , no. 1 (2018) : 5-37
+
+	台灣地區大學教師與館員 協作文化和發展現況之研究
+			<lb />
+			Faculty-Librarian Collaborative Culture
+			<lb />
+			and Current Development in
+			<lb />
+			the Colleges and Universities in Taiwan
+			<lb />
+			于 第* Ti Yu*
+			<lb />
+			Professor
+			<lb />
+			E-
+	mail：tiyu@just.edu.tw
+			<lb />
+			陳 昭 珍 Chao-Chen Chen Professor
+			<lb />
+			English Abstract &amp; Summary see link
+			<lb />
+			at the end of this article
+			<lb />
+			<reference>
+				教育資料與圖書館學 55 : 1 (2018) : 5-37
+				<lb />
+			</reference>
+
+			<idno>DOI:10.6120/JoEMLS.2018.551/0031.RS.AM</idno>
+			
+			<lb />
+			<docTitle>
+				<titlePart>
+					台灣地區大學教師與館員 協作文化和發展現況之研究
+					<lb />
+				</titlePart>
+			</docTitle>
+
+			<byline>
+				<docAuthor>于 第 </docAuthor>
+			</byline>
+			a*
+			<byline>
+				<docAuthor>陳昭珍 </docAuthor>
+			</byline>
+			b 摘要
+			<lb />
+			<div type="abstract">
+				本研究從文化觀點探究大學教師與館員的協作 ，其研究目的為：
+				<lb />
+				㈠發掘建構大學教師與館員協作文化概念的元素；㈡探究台灣地 區大學教師和館員對大學教師與館員協作文化的評價程度；㈢檢 驗大學教師和館員對大學教師與館員協作文化評價的差異性；㈣ 了解台灣地區大學教師與館員協作之發展現況；㈤探討大學教師
+				<lb />
+				與館員協作文化對二者協作發展的影響。本研究依 Schein 的三層
+				<lb />
+				次文化理論概念設計大學教師與館員調查問卷 ，其研究結果萃取
+				<lb />
+				出建構大學教師與館員協作文化的七個元素構面為： 「組織的協作
+				<lb />
+				環境」 、 「協作中的相互利益與責任」 、 「相互了解與溝通」 、 「協作
+				<lb />
+				的承諾」 、 「協作的領導力」 、 「相互尊重與信任」 ，及「協作的關係
+				<lb />
+				與互動」 。
+				<lb />
+			</div>
+			關鍵詞：
+			<keyword>
+				教師，館員，協作，協作文化，大學，台灣
+				<lb />
+			</keyword>
+			a
+			<byline>
+				<affiliation>景文科技大學人文暨設計學院</affiliation>
+			</byline>
+			教授
+			<lb />
+			b
+			<byline>
+				<affiliation>國立臺灣師範大學圖書資訊學研究所</affiliation>
+			</byline>
+			優聘教授
+			<lb />
+			*
+	本文主要作者兼通訊作者：
+			<email>
+				tiyu@just.edu.tw
+				<lb />
+			</email>
+
+			<note type="submission">2017/08/06投稿；2017/12/27修訂；2018/01/12接受</note>
+
+		</front>
+	</text>
+</tei>

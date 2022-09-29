@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="652-1331-1-PB" />
+	</teiHeader>
+	<text xml:lang="zh-tw">
+		<front>
+			<lb />
+			<idno>DOI: 10.6245/JLIS.2016.422/652</idno>
+			<docTitle>
+				<titlePart>巨量雲端運算高頻交易平台 </titlePart>
+			</docTitle>
+			<byline>
+				<docAuthor>陳奕光 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>台灣積體電路製造股份有限公司</affiliation>
+			</byline>
+			經理
+			<lb />
+			E-mail:
+			<email>ykchena@gmail.com</email>
+			<byline>
+				<docAuthor>林承翰 </docAuthor>
+			</byline>
+			<byline>
+				<affiliation>國立政治大學資訊管理研究所</affiliation>
+			</byline>
+			碩士生
+			<lb />
+			E-mail:
+			<email>maxabcr2000@gmail.com</email>
+			關鍵詞：
+			<keyword>雲端運算；高頻交易；服務導向架構；技術分析；交易策略評估</keyword>
+			【摘要】
+			<div type="abstract">
+				本研究應用雲端分散式的架構來建置一處理大量使用者交易需求的高頻交易投資策略服務平
+				<lb />
+				台，此平台有以下特色：(一)系統後端採用 SOA 架構，將龐大的交易系統切割佈署到雲端叢
+				<lb />
+				集之上，並提供單一的 Façade 介面供外部使用者呼叫。(二)不斷接收外部的即時報價訊息， 並產生海量的即時市場狀態資訊，包含多種技術分析指標、買賣規則…等，以供高頻交易的策
+				<lb />
+				略作為買賣的依據。(三)利用 Java Message Service 將大量的即時市場狀態資訊快速、非同
+				<lb />
+				步的派送給分佈在雲端叢集各節點的系統模組，並採取 Publisher-Subscriber 的模式來維持分
+				<lb />
+				散後各系統模組之間的鬆散關係。(四)多樣化的統計演算法模型可供使用者作為產生個人化 投資策略之依據。產生的新策略可馬上投入即時的模擬交易環境下監控與評估其策略績效。
+			</div>
+		</front>
+	</text>
+</tei>

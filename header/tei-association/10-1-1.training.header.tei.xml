@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10-1-1" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 10：1 (December 2015)：1-38
+				<lb />
+			</reference>
+			<note type="submission">
+				投稿日期：2015 年 5 月 20 日；接受日期：2015 年 7 月 18 日
+				<lb />
+			</note>
+			Email: 王梅玲
+			<email>meiling@nccu.edu.tw</email>
+			；楊婕
+			<email>
+				lovejessica44@hotmail.com
+				<lb />
+			</email>
+
+
+			<docTitle>
+				<titlePart>
+					臺灣地區大學圖書館館際互借 服務績效評鑑研究
+					<lb />
+				</titlePart>
+			</docTitle>
+			Performance Measurement of Interlibrary Loan
+			<lb />
+			for University Libraries in Taiwan
+			<byline>
+				<docAuthor>
+					王梅玲
+					<lb />
+				</docAuthor>
+			</byline>
+			Mei-Ling Wang
+			<lb />
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			教授
+			<lb />
+			Professor
+			<lb />
+			Graduate Institute of Library Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<byline>
+				<docAuthor>
+					楊婕
+					<lb />
+				</docAuthor>
+			</byline>
+			Chieh Yang
+			<lb />
+
+			<byline>
+				<affiliation>國立政治大學圖書資訊與檔案學研究所</affiliation>
+			</byline>
+			研究生
+			<lb />
+			Graduate Student
+			<lb />
+			Graduate Institute of Library Information and Archival Studies
+			<lb />
+			National Chengchi University
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				大學圖書館館際互借是一種資源分享的重要服務，但需要圖 書館支持與投入許多人力與物力。本論文旨在探討大學圖書館館
+				<lb />
+				際互借服務現況與績效評鑑，研究目的在探討大學圖書館館際互
+				<lb />
+				借服務現況；用成本效益觀點探討大學圖書館館際互借服務績效
+				<lb />
+				評鑑；並且探討高績效館際互借服務的圖書館及其作業特徵。本 研究採用問卷調查與績效評鑑方法，運用七種績效指標：申請館
+				<lb />
+				際互借單位成本、申請館際互借達成率、申請館際互借處理時間、 提供館際互借單位成本、提供館際互借達成率、提供館際互借處
+				<lb />
+				理時間、提供與申請館際互借比值。本研究於 2014 年 4 月間調
+				<lb />
+				查 169 所大學圖書館，蒐集其 2013 年館際互借服務現況與績效 資料，並進行績效評鑑分析。研究結果顯示，綜合大學圖書館為
+				<lb />
+				館際互借服務主體，科技大學重視期刊複印館際互借。每館平均
+				<lb />
+				館際互借服務量為 993 件，平均申請館際互借量為 484 件；平均
+				<lb />
+				提供館際互借為 509 件。館際互借績效表現：申請館際互借單位
+				<lb />
+				成本為 165 元，提供館際互借單位成本為 129 元，申請圖書借閱
+				<lb />
+				達成率為 81%，申請期刊複印達成率為 78%。申請圖書借閱處理
+				<lb />
+				時間為 2.09 天，申請期刊複印時間為 1.87 天。圖書館提供與申
+				<lb />
+				請館際互借比值為 1.1：1，顯示大學圖書館館藏發展合適，足夠
+				<lb />
+				供應館際互借。本研究顯示圖書館開始提供電子資料庫館際互借 服務，與美國學術圖書館比較，我國大學圖書館館際互借規模小 但速度快與成本低。
+				<lb />
+			</div>
+			The study mainly discusses performance measurements of
+			<lb />
+			interlibrary loan for university libraries in Taiwan. The purposes of
+			<lb />
+			the study are: 1. to explore the status of interlibrary loan services
+			<lb />
+			for university libraries in Taiwan; 2. to collect and analyze current
+			<lb />
+			data on the performance of ILL services of university libraries; 3. to
+			<lb />
+			identify and describe characteristics of low-cost, high-performing ILL
+			<lb />
+			operations. The study used questionnaire surveys and performance
+			<lb />
+			evaluation method with four performance measures to evaluate
+			<lb />
+			borrowing and lending services: cost, fill rate, turnaround time, and
+			<lb />
+			collection sufficiency. In 2014, the researcher sent questionnaires
+			<lb />
+			to 169 university libraries to collect the interlibrary loan operations
+			<lb />
+			and performance data in 2013. With the implementation the NDDS
+			<lb />
+			ILL information system in 2013, the ILL service performance of
+			<lb />
+			107 participants were assessed, the average ILL transaction per
+			<lb />
+			library was 993, the average ILL borrowing transaction per library
+			<lb />
+			was 484, and the average ILL lending transaction per library was
+			<lb />
+			509. The borrowing unit cost was NT$165, and the lending unit cost
+			<lb />
+			was NT$129. The borrowing fill rate was 79%, and the lending fill
+			<lb />
+			rate was 82%. The borrowing turnaround time was 1.98 days, and
+			<lb />
+			the lending turnaround time was 1.54 days. As the ratio of requests
+			<lb />
+			received to requests sent out in interlibrary lending was 1.1:1, it
+			<lb />
+			showed that the collection of university libraries was sufficient and
+			<lb />
+			adequate. This study carried out a performance measurement of ILL
+			<lb />
+			service, constructed seven performance indicators and described
+			<lb />
+			the performance of ILL service for university libraries in Taiwan
+			<lb />
+			as costing less with a faster turnaround time, higher fill rate and a
+			<lb />
+			sufficient and adequate collection.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				館際互借；績效評鑑；大學圖書館
+				<lb />
+			</keyword>
+			Interlibrary loan; Performance evaluation; University libraries
+		</front>
+	</text>
+</tei>

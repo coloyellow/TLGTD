@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="j42-6" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學刊 第14卷第1期 (2016.6) 頁151-179
+				<lb />
+			</reference>
+
+			<idno>
+				doi:10.6182/jlis.2016.14(1).151
+				<lb />
+			</idno>
+			<docTitle><titlePart>圖書資訊學領域開放近用期刊之學術傳播速度： 以論文初次被引用時間來衡量</titlePart></docTitle>
+			<lb />
+			
+				
+					The Scholarly Communication Speed of Library and Information
+					<lb />
+					Science Open Access Journals as Measured by First-Citation
+					<lb />
+				
+			
+
+			<byline>
+				<docAuthor>
+					尤玳琦 1 
+				</docAuthor>
+			</byline>
+			<byline><docAuthor>林雯瑤 2<lb /></docAuthor></byline>
+			Tai-Chi Yu 1 , Wen-Yau Cathy Lin 2<lb />
+			摘 要
+			<div type="abstract">
+				本研究從期刊論文初次被引用的觀點，利用引用文獻分析法探討圖書資訊學領域開放
+				<lb />
+				近用(OA)期刊在Scopus與WoS的初次被引用，以探討OA期刊的學術傳播速度。研究範 圍為收錄於2010至2013年版JCR之8種完全OA期刊與13種複合式OA期刊，在2010至2014年 間出版的期刊論文。在完全OA期刊中，Scopus有639篇期刊論文被引用，平均初次被引用
+				<lb />
+				時間為1.17年，WoS則有434篇期刊論文被引用，平均初次被引用時間為1.37年。在Scopus
+				<lb />
+				與WoS中，完全OA期刊論文的初次被引用分別有68.24%與60.13%發生在出版當年及出版 後一年。而在複合式OA期刊中，屬於OA機制的期刊論文其平均初次被引用較非OA的文 章快。相較於WoS，收錄於Scopus中的期刊論文平均被引用速度較快。本研究建議未來亦 可利用Altmetrics的概念，擴大初次被引用的定義範圍，從正式與非正式的傳播管道了解 OA期刊的初次被使用速度。
+				<lb />
+				
+			</div>
+			關鍵字：
+			<keyword>
+				初次被引用速度、開放近用期刊、圖書資訊學、Scopus、WoS 
+			</keyword>
+			Abstract
+				<lb />
+			Based on the time of journal article first-citation appearance, this study analyzed the citation
+			<lb />
+			speeds of Open Access (OA) journals within Library and Information Science (LIS) field indexed in
+			<lb />
+			Scopus and WoS database. Articles published between 2010 and 2014 by a total of 8 Full-OA journals
+			<lb />
+			and 13 Hybrid-OA journals indexed by 2010-2013 edition of JCR were collected and analyzed in
+			<lb />
+			June 2015. Results showed that there were 639 articles being cited in Scopus and the average first-
+			<lb />
+			citation speed was 1.17 year. On the other hand, there were 434 articles being cited in WoS with a
+			<lb />
+			slightly higher first-time citation rate of 1.37 year. Most of the articles studied were cited for the first
+			<lb />
+			time in the same year or the year after of its publication. There were some articles being cited even
+			<lb />
+			1,2
+			<byline>
+				<affiliation>
+					淡江大學資訊與圖書館學系
+					<lb />
+				</affiliation>
+			</byline>
+			Department of Information &amp; Library Science, Tamkang University,
+	
+
+	New Taipei, Taiwan
+			<lb />
+			* 通訊作者Corresponding Author: 林雯瑤Wen-Yau Cathy Lin, E-mail:
+			<email>
+				wylin@mail.tku.edu.tw
+				<lb />
+			</email>
+			before its official publication. Within the Hybrid-OA journals, articles belong to the OA mechanism
+			<lb />
+			did have shorter speed citation time than non-OA ones. This study suggested that further studies could
+			<lb />
+			adopt the concept of Altmetrics to investigate the first-usage speeds through the formal and informal
+			<lb />
+			communication channels.
+			<lb />
+			Keywords: First-citation Speed; Open Access Journal; LIS; Scopus; WoS
+		</front>
+	</text>
+</tei>

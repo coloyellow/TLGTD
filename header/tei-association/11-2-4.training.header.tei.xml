@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11-2-4" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<reference>
+				圖書資訊學研究 11：2 (June 2017)：139-179
+				<lb />
+			</reference>
+
+			<docTitle>
+				<titlePart>
+					基於詞性組合規則結合維基百科 進行中文命名實體辨識與消歧義
+					<lb />
+				</titlePart>
+			</docTitle>
+			Using Part-of-Speech Tagging Based Approach with
+			<lb />
+			Wikipedia to Assist Chinese Named Entity Recognition
+			<lb />
+			and Disambiguation
+			<byline>
+				<docAuthor>
+					黃純敏
+					<lb />
+				</docAuthor>
+			</byline>
+			Chuen-Min Huang
+			<lb />
+
+			<byline>
+				<affiliation>雲林科技大學資管系</affiliation>
+			</byline>
+			副教授
+			<lb />
+			Associate Professor
+			<lb />
+			Department of Information Management
+			<lb />
+			National Yunlin University of Science and Technology
+			<lb />
+			【摘要 Abstract】
+			<lb />
+			<div type="abstract">
+				傳統命名實體辨識多採用規則與機率的方法，然而礙於
+				<lb />
+				語義混淆特性與未知詞的增長，精確率難以有效提高。本研
+				<lb />
+				究藉由詞性組合定義命名規則，並加入姓名鏈結演算法及透
+				<lb />
+				過維基百科文本編輯特性，以協助辨識及消歧義。研究發現
+				<lb />
+				應用姓名鏈結機率公式結合句法規則，可大幅提高人名辨識
+				<lb />
+				精確率；對於「地名」/「組織名」，由於二者命名規則相似，
+				<lb />
+				過去研究需藉助詞庫及特殊詞幹集區別，本研究透過簡易地
+				<lb />
+				名規則並結合維基輔助分歧。實驗結果顯示本研究在精確
+				<lb />
+				率、 召 回 率、F-measure 分 別 達 86.32%、75.33%、80.33%， 相較於其他大規模規則的判斷研究，及採用人工標註結合
+				<lb />
+			</div>
+			作者：黃純敏
+			<email>
+				jennyhuang921@gmail.com
+				<lb />
+			</email>
+
+			<note type="submission">
+				投稿日期：2017 年 5 月 16 日；接受日期：2017 年 6 月 23 日
+				<lb />
+			</note>
+			<div type="abstract">
+				HMM 機器學習的研究，本研究所歸納的規則不僅精簡，整 體表現亦毫不遜色，尤其以精確率最為突出。
+				<lb />
+			</div>
+			Traditional Named Entity Recognition (NER) adopts rule-based
+			<lb />
+			and/or probabilistic models in morphological analysis, while it still
+			<lb />
+			exists the problem of low accuracy due to the problem of semantic
+			<lb />
+			ambiguity and the growth of unknown words. In this study, we
+			<lb />
+			applied syntax rules of names and places to process Chinese NER,
+			<lb />
+			and extracted features from Wikipedia to assist disambiguation and
+			<lb />
+			thereby help to improve recognition accuracy. Our study found that the
+			<lb />
+			recognition accuracy is raised because of a combination of syntax rule
+			<lb />
+			with name algorithm. In addition, since the location and organization
+			<lb />
+			names usually follow some particular verbs, we only configured basic
+			<lb />
+			rules for location ER and referred to the geographical directories of
+			<lb />
+			Infobox in Wikipedia to verify their identities. In our overall system
+			<lb />
+			evaluation, the precision rate achieves 86.32%, recall reaches 75.65%,
+			<lb />
+			and F-measure reaches 80.4%. Compared with other automatic rule
+			<lb />
+			construction and quasi-machine learning methods, we have a better
+			<lb />
+			performance particularly on the precision rate.
+			<lb />
+			【關鍵字 Keywords】
+			<lb />
+			<keyword>
+				命名實體辨識、命名實體消歧義、詞性組合、句法規則、維基百科
+				<lb />
+			</keyword>
+			Named Entity Recognition; Name Entity Disambiguation; POS Combination,;
+			<lb />
+			Syntax Rules; Wikipedia
+		</front>
+	</text>
+</tei>
